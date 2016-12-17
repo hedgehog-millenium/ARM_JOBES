@@ -5,7 +5,7 @@ var morgan = require('morgan');
 var path = require('path');
 
 var index = require('./routes/home');
-var parser = require('./routes/parser');
+var parsing = require('./routes/parsing');
 var app = express();
 
 app.use(morgan('dev'));
@@ -22,7 +22,7 @@ app.set(bodyParser.json());
 app.set(bodyParser.urlencoded({extended:true}));
 
 app.use('/',index);
-app.use('/parser',parser);
+app.use('/parser',parsing);
 
 app.listen(port);
 
