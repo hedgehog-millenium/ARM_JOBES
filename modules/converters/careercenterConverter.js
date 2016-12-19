@@ -10,7 +10,9 @@ module.exports = {
 		  	window.$("a[href^='ccdspann.php?id=']").each(function(key,val){
 		  		linksArray.push({
 		  							name:val.text,
-		  							path:val.getAttribute('href')
+		  							path:val.getAttribute('href'),
+										source:'careercenter.am',
+										isCompleted:false
 		  					});
 		  	});		
 			callback(linksArray);

@@ -37,6 +37,7 @@ System.register(['angular2/core', './jobs.servise'], function(exports_1, context
                         selector: 'my-app',
                         //templateUrl: '../../views/templates/template.jobListView.html',    
                         templateUrl: '../../views/templates/template.jobTableView.html',
+                        styles: ['.background-danger{background:#cc6666;color:#fff;}'],
                         providers: [jobs_servise_1.JobService]
                     }), 
                     __metadata('design:paramtypes', [jobs_servise_1.JobService])

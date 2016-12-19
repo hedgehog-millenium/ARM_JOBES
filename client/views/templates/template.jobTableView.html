@@ -1,13 +1,20 @@
-<table>
-    <tr>
-        <th>link</th>
-        <th>source</th>
-        <th>isCompleted</th>
-    </tr>
+<div class="row header-part">
+    <h3 class="text-center text-danger">Job Links to Parse </h3>
+</div>
 
-    <tr *ngFor="#jobsMeta of jobsMetaData">
-        <td> <a target="_blank" href="http://careercenter.am/index.php?/{{jobsMeta.path}}">{{jobsMeta.name}}</a>  </td>
-        <td>{{jobsMeta.path}}</td>
-        <td>{{jobsMeta.isCompleted}}</td>
-    </tr>
-</table>
+<div class="container">
+    <table class="table">
+        <tr>
+            <td>#</td>
+            <th>link</th>
+            <th>source</th>
+            <th>isCompleted</th>
+        </tr>
+        <tr *ngFor="#jobsMeta of jobsMetaData;#i=index" >
+            <td>{{i}}</td>
+            <td> <a target="_blank" href="http://careercenter.am/index.php?/{{jobsMeta.path}}">{{jobsMeta.name}}</a>  </td>
+            <td>{{jobsMeta.source}}</td>
+            <td [ngClass]="{'text-center':true,'background-danger':!jobsMeta.isCompleted}">{{jobsMeta.isCompleted}}</td>
+        </tr>
+    </table>
+</div>

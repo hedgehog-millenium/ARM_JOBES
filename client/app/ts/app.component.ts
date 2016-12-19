@@ -5,7 +5,8 @@ import {JobService} from './jobs.servise';
 @Component({
     selector: 'my-app',
     //templateUrl: '../../views/templates/template.jobListView.html',    
-    templateUrl: '../../views/templates/template.jobTableView.html',    
+    templateUrl: '../../views/templates/template.jobTableView.html',   
+    styles:['.background-danger{background:#cc6666;color:#fff;}'], 
     providers:[JobService]
 })
 
