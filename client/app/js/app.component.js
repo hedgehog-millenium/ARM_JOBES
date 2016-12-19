@@ -1,4 +1,4 @@
-System.register(['angular2/core'], function(exports_1, context_1) {
+System.register(['angular2/core', './jobs.servise'], function(exports_1, context_1) {
     "use strict";
     var __moduleName = context_1 && context_1.id;
     var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -10,23 +10,31 @@ System.register(['angular2/core'], function(exports_1, context_1) {
     var __metadata = (this && this.__metadata) || function (k, v) {
         if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
     };
-    var core_1;
+    var core_1, jobs_servise_1;
     var AppComponent;
     return {
         setters:[
             function (core_1_1) {
                 core_1 = core_1_1;
+            },
+            function (jobs_servise_1_1) {
+                jobs_servise_1 = jobs_servise_1_1;
             }],
         execute: function() {
             AppComponent = (function () {
-                function AppComponent() {
+                function AppComponent(jobService) {
+                    this.jobService = jobService;
+                    this.name = 'Blant';
+                    console.log('AppComponent constructor is running');
+                    this.jobLinks = jobService.getJobLinks();
                 }
                 AppComponent = __decorate([
                     core_1.Component({
                         selector: 'my-app',
-                        template: '<h1>Angular 2 Samvel</h1>'
+                        template: "<h1>Angular 2 says: Hello {{name}}</h1>\n                <ul>\n                    <li *ngFor=\"#jobLink of jobLinks\">{{jobLink}}</li>\n                </ul>\n                ",
+                        providers: [jobs_servise_1.JobService]
                     }), 
-                    __metadata('design:paramtypes', [])
+                    __metadata('design:paramtypes', [jobs_servise_1.JobService])
                 ], AppComponent);
                 return AppComponent;
             }());

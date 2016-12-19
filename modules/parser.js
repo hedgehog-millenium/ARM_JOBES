@@ -1,20 +1,27 @@
-var jsdom = require("jsdom");
-var settings = require('../settings')
-    
-var parse = function(){
-        // Count all of the links from the io.js build page
-        var url = settings.Jobs[0].url;
-        var jsdom = require("jsdom");
+var request = require('request');
+var logger = require('./logger')
 
-        jsdom.env(
-        url,
-        ["http://code.jquery.com/jquery.js"],
-        function (err, window) {
-            console.log("there have been", window.$("a").length - 4, "io.js releases!");
-            console.log(window)
-        }
-        );  
-}
+module.exports = {
+	parse:function(url,callback){
+	
+		//Request with proxy
+		// request({'url':'https://anysite.you.want/sub/sub',
+		// 				'proxy':'http://yourproxy:8087'}, function (error, response, body) {
+		// 		if (!error && response.statusCode == 200) {
+		// 				console.log(body);
+		// 		}
+		// })
 
-module.exports = parse;
+		request(url, function (error, response, body) {
+		  if (!error && response.statusCode == 200) {	
+			 callback(body);
+		  }
+		  else{
+			  logger.log('Error on getting data from ' + url );
+			  logger.log(error);
+		  }
+		});
 
+		
+	}
+};

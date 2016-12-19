@@ -1,5 +1,5 @@
 module.exports = {
-    log:function(text){
-        console.log(text);
-    }
+	log:function(dataTolog){
+		console.log(dataTolog);
+	}
 }
