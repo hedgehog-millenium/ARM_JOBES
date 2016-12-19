@@ -25,6 +25,3 @@ app.use('/',index);
 app.use('/parser',parsing);
 
 app.listen(port);
-
-
-

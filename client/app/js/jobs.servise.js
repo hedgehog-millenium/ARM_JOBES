@@ -1,4 +1,4 @@
-System.register(['angular2/core'], function(exports_1, context_1) {
+System.register(['angular2/core', 'angular2/http', 'rxjs/add/operator/map'], function(exports_1, context_1) {
     "use strict";
     var __moduleName = context_1 && context_1.id;
     var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -10,23 +10,30 @@ System.register(['angular2/core'], function(exports_1, context_1) {
     var __metadata = (this && this.__metadata) || function (k, v) {
         if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
     };
-    var core_1;
+    var core_1, http_1;
     var JobService;
     return {
         setters:[
             function (core_1_1) {
                 core_1 = core_1_1;
-            }],
+            },
+            function (http_1_1) {
+                http_1 = http_1_1;
+            },
+            function (_1) {}],
         execute: function() {
             JobService = (function () {
-                function JobService() {
+                function JobService(http) {
+                    this.http = http;
+                    console.log('Job Servise Initialized...');
                 }
                 JobService.prototype.getJobLinks = function () {
-                    return ['Joblin1.am', 'Joblin2.am', 'Joblin3.am', 'Joblin4.am'];
+                    var url = 'http://localhost:3000/parser';
+                    return this.http.get(url).map(function (res) { return res.json(); });
                 };
                 JobService = __decorate([
                     core_1.Injectable(), 
-                    __metadata('design:paramtypes', [])
+                    __metadata('design:paramtypes', [http_1.Http])
                 ], JobService);
                 return JobService;
             }());

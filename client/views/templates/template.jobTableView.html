@@ -1,0 +1,13 @@
+<table>
+    <tr>
+        <th>link</th>
+        <th>source</th>
+        <th>isCompleted</th>
+    </tr>
+
+    <tr *ngFor="#jobsMeta of jobsMetaData">
+        <td> <a target="_blank" href="http://careercenter.am/index.php?/{{jobsMeta.path}}">{{jobsMeta.name}}</a>  </td>
+        <td>{{jobsMeta.path}}</td>
+        <td>{{jobsMeta.isCompleted}}</td>
+    </tr>
+</table>

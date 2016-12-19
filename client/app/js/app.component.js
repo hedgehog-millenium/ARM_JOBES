@@ -21,17 +21,22 @@ System.register(['angular2/core', './jobs.servise'], function(exports_1, context
                 jobs_servise_1 = jobs_servise_1_1;
             }],
         execute: function() {
+            //import {JobMetadata} from '../../model/JobMetadata';
             AppComponent = (function () {
                 function AppComponent(jobService) {
+                    var _this = this;
                     this.jobService = jobService;
-                    this.name = 'Blant';
+                    this.name = 'Samvel';
                     console.log('AppComponent constructor is running');
-                    this.jobLinks = jobService.getJobLinks();
+                    this.jobService.getJobLinks().subscribe(function (jobs) {
+                        _this.jobsMetaData = jobs;
+                    });
                 }
                 AppComponent = __decorate([
                     core_1.Component({
                         selector: 'my-app',
-                        template: "<h1>Angular 2 says: Hello {{name}}</h1>\n                <ul>\n                    <li *ngFor=\"#jobLink of jobLinks\">{{jobLink}}</li>\n                </ul>\n                ",
+                        //templateUrl: '../../views/templates/template.jobListView.html',    
+                        templateUrl: '../../views/templates/template.jobTableView.html',
                         providers: [jobs_servise_1.JobService]
                     }), 
                     __metadata('design:paramtypes', [jobs_servise_1.JobService])

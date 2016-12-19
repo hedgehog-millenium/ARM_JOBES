@@ -1,22 +1,22 @@
 import {Component} from 'angular2/core';
 import {JobService} from './jobs.servise';
+//import {JobMetadata} from '../../model/JobMetadata';
 
 @Component({
     selector: 'my-app',
-    template: `<h1>Angular 2 says: Hello {{name}}</h1>
-                <ul>
-                    <li *ngFor="#jobLink of jobLinks">{{jobLink}}</li>
-                </ul>
-                `,
+    //templateUrl: '../../views/templates/template.jobListView.html',    
+    templateUrl: '../../views/templates/template.jobTableView.html',    
     providers:[JobService]
 })
 
 export class AppComponent {
-    name:string = 'Blant';
-    jobLinks:string[];
+    name:string = 'Samvel';
+    jobsMetaData:any[];
 
     constructor(private jobService:JobService){
         console.log('AppComponent constructor is running');
-        this.jobLinks = jobService.getJobLinks();
+        this.jobService.getJobLinks().subscribe( jobs => {
+                this.jobsMetaData = jobs;   
+        });
     }
 }

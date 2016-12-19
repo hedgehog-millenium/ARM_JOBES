@@ -1,0 +1,5 @@
+export class JobMetadata {
+    name:string;
+    path:string;
+    isParsed:boolean;
+}
