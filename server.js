@@ -6,6 +6,7 @@ var path = require('path');
 
 var index = require('./routes/home');
 var parsing = require('./routes/parsing');
+var helper = require('./routes/helper');
 var app = express();
 
 app.use(morgan('dev'));
@@ -23,5 +24,6 @@ app.set(bodyParser.urlencoded({extended:true}));
 
 app.use('/',index);
 app.use('/parser',parsing);
+app.use('/helper',helper);
 
 app.listen(port);

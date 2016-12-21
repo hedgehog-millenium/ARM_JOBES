@@ -17,14 +17,21 @@ module.exports = {
     // update: update
 }
 
-function findAll(callback) {
-    db.jobsmetadata.find(function(err, jobsMd) {
-        callback(err, jobsMd);
+function findAll() {
+    return new Promise(function(resolve,reject){
+        db.jobsmetadata.find(function(err, documents) {
+            if(err) reject(err)
+            else resolve(documents)
+        });
     });
+    
 }
 
-function insert(document,callback) {
-    db.jobsmetadata.save(document, function(err, saved) {
-        callback(err, saved);
-    });    
+function insert(document) {
+     return new Promise(function(resolve,reject){
+        db.jobsmetadata.save(document, function(err, saved) {
+           if(err) reject(err)
+           else resolve(saved)
+        });    
+     });
 }
