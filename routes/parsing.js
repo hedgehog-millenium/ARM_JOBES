@@ -20,8 +20,7 @@ router.get('/',function(req,res){
 });
 
 router.post('/parseAll',function(req,res){
-    var self = this,
-        url = settings.Jobs[0].url,
+    var url = settings.Jobs[0].url,
         parsedAntsArr=[],        
         antsStatus = [];
 
@@ -30,27 +29,22 @@ router.post('/parseAll',function(req,res){
             return careerCenterConverter.getAllJobLinks(antsHtml);
         })
         .then(function(antsArr){
-            self.parsedAntsArr = antsArr;            
+            this.parsedAntsArr = antsArr;            
             return dbRepo.findAll();            
         })
         .then(function(docsInDb){                          
             var insrtPromises = [];
                          
-            self.parsedAntsArr.forEach(function(ant) {                                                        
+            this.parsedAntsArr.forEach(function(ant) {                                                        
                 var isDocInDb = docsInDb.find( function( ele ) { return ele.path === ant.path;});                    
                 if( isDocInDb ) {antsStatus.push({announcement:ant.path,status:'already in DB'});}
                 else {insrtPromises.push( dbRepo.insert(ant));}                
             });// this.parsedAntsArr.forEach   
 
-            var rejPromise = new Promise(function(resolve,reject){
-                 reject('i am rejected');
-                 //setTimeout(reject('i am rejected'),3000);                 
-            })
-            insrtPromises.push(rejPromise);
             Promise.all(insrtPromises.map(reflect)).then(vals=>{
                 vals.map(v=>{
                     if(v.status==='resolved') antsStatus.push({announcement:v.value.path,status:'Saved'});
-                    else cons
+                    else antsStatus.push({announcement:v.error,status:'Couldn Inser To DB'});
                 });
                 res.send(antsStatus);                               
             }).catch(handleErr);                    
@@ -74,8 +68,8 @@ router.post('/',function(req,res){
 });
 
 function reflect(promise){
-    return promise.then(function(v){ return {v:v, status: "resolved" }},
-                        function(e){ return {e:e, status: "rejected" }});
+    return promise.then(function(v){ return {value:v, status: "resolved" }},
+                        function(e){ return {error:e, status: "rejected" }});
 }
 
 module.exports = router;
