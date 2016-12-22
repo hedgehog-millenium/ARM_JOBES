@@ -43,12 +43,14 @@ router.post('/parseAll',function(req,res){
             });// this.parsedAntsArr.forEach   
 
             var rejPromise = new Promise(function(resolve,reject){
-                reject('i am rejected');
+                 reject('i am rejected');
+                 //setTimeout(reject('i am rejected'),3000);                 
             })
             insrtPromises.push(rejPromise);
             Promise.all(insrtPromises.map(reflect)).then(vals=>{
                 vals.map(v=>{
-                    antsStatus.push({announcement:v.path,status:'Saved'});
+                    if(v.status==='resolved') antsStatus.push({announcement:v.value.path,status:'Saved'});
+                    else cons
                 });
                 res.send(antsStatus);                               
             }).catch(handleErr);                    
@@ -59,7 +61,7 @@ router.post('/parseAll',function(req,res){
 });//router.post('/parseAll',function(req,res)
 
 function reflect(promise){
-    return promise.then(function(v){ return {v:v, status: "resolved" }},
+    return promise.then(function(v){ return {value:v, status: "resolved" }},
                         function(e){ logger.log(e)});
 }
 
