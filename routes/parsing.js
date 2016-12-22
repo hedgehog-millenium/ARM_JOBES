@@ -1,14 +1,14 @@
-var express = require('express');
-var path = require('path');
-var router = express.Router();
+var express = require('express'),
+    path = require('path'),
+    router = express.Router(),
 
-var settings = require('../settings');
-var logger = require('../modules/logger');
-var htmlParser = require(path.join(settings.ROOT_DIR,'modules','parser'))
-var careerCenterConverter = require(path.join(settings.ROOT_DIR,'modules','converters','careercenterConverter'));
-var dbRepo = require('../modules/DB/mLabRepo');
-
-var allJobes = [];
+    settings = require('../settings'),
+    logger = require('../modules/logger'),
+    htmlParser = require(path.join(settings.ROOT_DIR,'modules','parser')),
+    careerCenterConverter = require(path.join(settings.ROOT_DIR,'modules','converters','careercenterConverter')),
+    dbRepo = require('../modules/DB/mLabRepo'),
+    handleErr = function(e){logger.log(e)}
+    allJobes = [];
 
 router.get('/',function(req,res){        
 
@@ -20,74 +20,48 @@ router.get('/',function(req,res){
 });
 
 router.post('/parseAll',function(req,res){
-    var url = settings.Jobs[0].url,
-        newAntsArr=[],        
-        savedAnts = '';
+    var self = this,
+        url = settings.Jobs[0].url,
+        parsedAntsArr=[],        
+        antsStatus = [];
 
     htmlParser.parse(url)
         .then(function(antsHtml){
             return careerCenterConverter.getAllJobLinks(antsHtml);
         })
         .then(function(antsArr){
-            this.newAntsArr = antsArr;            
+            self.parsedAntsArr = antsArr;            
             return dbRepo.findAll();            
         })
-        .then(function(docsInDb){       
-            this.newAntsArr.forEach(function(ant) {                                                        
-                var newDoc = docsInDb.find( function( ele ) { return ele.path === ant.path;});                    
-                if( newDoc ) {console.log('Announcement with path :" ' +ant.path + '" is already in DB' );}
-                else {
-                    /// SOME INCORRECT WORK HERE
-                    var promisies = [];
-                    
-                    promisies.push(dbRepo.insert(newDoc));                                        
+        .then(function(docsInDb){                          
+            var insrtPromises = [];
+                         
+            self.parsedAntsArr.forEach(function(ant) {                                                        
+                var isDocInDb = docsInDb.find( function( ele ) { return ele.path === ant.path;});                    
+                if( isDocInDb ) {antsStatus.push({announcement:ant.path,status:'already in DB'});}
+                else {insrtPromises.push( dbRepo.insert(ant));}                
+            });// this.parsedAntsArr.forEach   
 
-                    Promise.all(promisies).then(function(vals){
-                        console.log(vals);
-                        vals.forEach(val=>{
-                                this.savedAnts += val + '\n';
-                        })
-                        res.send(this.savedAnts)           
-                    })                    
-                }                               
-            }); 
+            var rejPromise = new Promise(function(resolve,reject){
+                reject('i am rejected');
+            })
+            insrtPromises.push(rejPromise);
+            Promise.all(insrtPromises.map(reflect)).then(vals=>{
+                vals.map(v=>{
+                    antsStatus.push({announcement:v.path,status:'Saved'});
+                });
+                res.send(antsStatus);                               
+            }).catch(handleErr);                    
 
             
-        });
-        
-            
-
-    // htmlParser.parse(url,function(antsHtml){
-    //     dbRepo.findAll(function(err,docsInDb){
-    //         if(err) logger.log(err);
-    //         else {              
-    //             careerCenterConverter.getAllJobLinks(antsHtml,function(antsArr){      
-    //                 var savedAnts = '';
-    //                 antsArr.forEach(function(ant) {                    
-    //                         var data = docsInDb.find( function( ele ) { 
-    //                             // console.log(ele.path);
-    //                             // console.log(ant.path);
-    //                             return ele.path === ant.path;
-    //                         });                    
-    //                         if( data ) logger.log('Announcement with path :" ' +ant.path + '" is already in DB' );                    
-    //                         else {
-    //                             dbRepo.insert(ant,function(err,saved){
-    //                                 if(err) logger.log(err);
-    //                                 else savedAnts+=saved.path + '\n';
-    //                             });
-    //                         }
-    //                 }, this);//forEach                            
-
-    //                 res.send(savedAnts);
-    //             }); // careerCenterConverter.getAllJobLinks   
-    //         }
-    //     });
-        
+        });// .then(function(docsInDb)                     
     
-    // }); //htmlParser.parse  
-    
-});
+});//router.post('/parseAll',function(req,res)
 
+function reflect(promise){
+    return promise.then(function(v){ return {v:v, status: "resolved" }},
+                        function(e){ logger.log(e)});
+}
 
 router.post('/',function(req,res){
     var rdmInt = Math.floor(Math.random()*100)
@@ -96,5 +70,10 @@ router.post('/',function(req,res){
         else res.send(saved);
     });
 });
+
+function reflect(promise){
+    return promise.then(function(v){ return {v:v, status: "resolved" }},
+                        function(e){ return {e:e, status: "rejected" }});
+}
 
 module.exports = router;
