@@ -10,7 +10,8 @@ import {JobService} from './jobs.servise';
              .btn-action:hover{color:rgb(117, 69, 69);}
              .no-padding{padding:0!important;}
              .box-25-25{height:25px;width:25px;}
-             .border-rad-0{border-radius:0;}`], 
+             .border-rad-0{border-radius:0;}
+             .blink_me:hover{animation:blinker 3s linear infinite}@keyframes blinker{50%{opacity:0}}`], 
     providers:[JobService]
 })
 

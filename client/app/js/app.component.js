@@ -38,7 +38,7 @@ System.register(['angular2/core', './jobs.servise'], function(exports_1, context
                         selector: 'my-app',
                         //templateUrl: '../../views/templates/template.jobListView.html',    
                         templateUrl: '../../views/templates/template.jobTableView.html',
-                        styles: [".btn-action{border-radius:0!important;width:60px;-webkit-transition:all 0.5s ease-out;-o-transition:all 0.5s ease-out;transition:all 0.5s ease-out}\n             .btn-action:hover{color:rgb(117, 69, 69);}\n             .no-padding{padding:0!important;}\n             .box-25-25{height:25px;width:25px;}\n             .border-rad-0{border-radius:0;}"],
+                        styles: [".btn-action{border-radius:0!important;width:60px;-webkit-transition:all 0.5s ease-out;-o-transition:all 0.5s ease-out;transition:all 0.5s ease-out}\n             .btn-action:hover{color:rgb(117, 69, 69);}\n             .no-padding{padding:0!important;}\n             .box-25-25{height:25px;width:25px;}\n             .border-rad-0{border-radius:0;}\n             .blink_me:hover{animation:blinker 3s linear infinite}@keyframes blinker{50%{opacity:0}}"],
                         providers: [jobs_servise_1.JobService]
                     }), 
                     __metadata('design:paramtypes', [jobs_servise_1.JobService])
