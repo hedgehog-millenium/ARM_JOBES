@@ -13,7 +13,8 @@ module.exports = {
 														name:val.text,
 														path:val.getAttribute('href'),
 														source:'careercenter.am',
-														isCompleted:false
+														isParsed:false,
+														isConverted:false,
 												});
 								});//each		
 								resolve(linksArray);

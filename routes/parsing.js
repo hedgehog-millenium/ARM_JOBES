@@ -6,7 +6,7 @@ var express = require('express'),
     logger = require('../modules/logger'),
     htmlParser = require(path.join(settings.ROOT_DIR,'modules','parser')),
     careerCenterConverter = require(path.join(settings.ROOT_DIR,'modules','converters','careercenterConverter')),
-    dbRepo = require('../modules/DB/mLabRepo'),
+    dbRepo = require('../modules/DB/mLabRepo'),    
     handleErr = function(e){logger.log(e)}
     allJobes = [];
 
@@ -56,7 +56,7 @@ router.post('/parseAll',function(req,res){
 
 function reflect(promise){
     return promise.then(function(v){ return {value:v, status: "resolved" }},
-                        function(e){ logger.log(e)});
+                        function(e){ return {error:e , status:"rejected"}});
 }
 
 router.post('/',function(req,res){
@@ -66,10 +66,5 @@ router.post('/',function(req,res){
         else res.send(saved);
     });
 });
-
-function reflect(promise){
-    return promise.then(function(v){ return {value:v, status: "resolved" }},
-                        function(e){ return {error:e, status: "rejected" }});
-}
 
 module.exports = router;

@@ -3,18 +3,53 @@
 </div>
 
 <div class="container">
-    <table class="table">
-        <tr>
-            <td>#</td>
-            <th>link</th>
-            <th>source</th>
-            <th>isCompleted</th>
-        </tr>
-        <tr *ngFor="#jobsMeta of jobsMetaData;#i=index" >
-            <td>{{i}}</td>
-            <td> <a target="_blank" href="http://careercenter.am/index.php?/{{jobsMeta.path}}">{{jobsMeta.name}}</a>  </td>
-            <td>{{jobsMeta.source}}</td>
-            <td [ngClass]="{'text-center':true,'background-danger':!jobsMeta.isCompleted}">{{jobsMeta.isCompleted}}</td>
-        </tr>
-    </table>
+    <div class="row">
+        <div class="counts pull-right">
+            <label for="" class="label label-success">Parsed: {{parsedJobsCount}}</label>            
+            <label for="" class="label label-danger">Not Passed: {{jobsMetaData?.length - parsedJobsCount}}</label>
+            <label for="" class="label label-warning">Total Count: {{jobsMetaData?.length}}</label>
+        </div>
+    </div>
+    <hr>
+    <div class="row table-row">
+        <table class="table">
+            <tr class="text-center text-danger">
+                <td>#</td>
+                <th>Possition</th>
+                <th>Source</th>
+                <th>Parsed</th>
+                <th>Converted</th>   
+                <th>test</th>             
+                <th></th>
+            </tr>
+            <tr *ngFor="#jobsMeta of jobsMetaData;#i=index" >
+                <td>{{i}}</td>
+                <td> <a target="_blank" href="http://careercenter.am/index.php?/{{jobsMeta.path}}">{{jobsMeta.name}}</a>  </td>
+                <td>{{jobsMeta.source}}</td>
+                <td class="text-center">
+                    <img src="app/src/imgs/checkbox-icon.png" [hidden]="!jobsMeta.isParsed" class="box-25-25" alt="">
+                    <img src="app/src/imgs/sign-error-icon.png" [hidden]="jobsMeta.isParsed" class="box-25-25" alt="">
+                </td>
+                <td class="text-center">
+                    <img src="app/src/imgs/checkbox-icon.png" [hidden]="!jobsMeta.isConverted" class="box-25-25" alt="">
+                    <img src="app/src/imgs/sign-error-icon.png" [hidden]="jobsMeta.isConverted" class="box-25-25" alt="">
+                </td>
+                <td class="text-center" style="color:green">
+                    <i class="fa fa-2x fa-check-square-o bg-sucess" aria-hidden="true"></i>
+                </td>
+                <td class="col-actions no-padding" width="50px">
+                    <!--<button class="btn btn-success btn-block btn-action">parse</button>-->
+                    <button class="btn btn-success btn-sm btn-action pull-left" *ngIf="!jobsMeta.isParsed">
+                        <i class="fa fa-lg fa-cloud-download" aria-hidden="true"></i>    
+                       <br> parse                    
+                    </button>
+
+                     <button class="btn btn-warning btn-sm btn-action pull-left" *ngIf="jobsMeta.isParsed && !jobsMeta.isConverted">
+                        <i class="fa fa-lg fa-exchange" aria-hidden="true"></i>    
+                       <br> convert                    
+                    </button>
+                </td>
+            </tr>
+        </table>
+    </div>    
 </div>
