@@ -1,0 +1,496 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/';
+    } //-->
+  </script>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Announcements Index</title>
+  <base target="main">
+  <style type="text/css">
+    body { background: FFFAA9; margin-left: 3px; font-family: Verdana; font-size: 13px; }
+    table { font-family: Verdana; font-size: 13px; }
+    p { margin-bottom: 5px; margin-top: 5px; }
+  </style>
+</head>
+<body bgcolor="#FFFAA9">
+  <p align="center"><i><a name="TOP">- Last updated: </a>23 Dec 2016 17:33:19 -</i></p>
+  <p><strong>AVAILABLE TODAY:</strong></p>
+    <p>
+      &nbsp<img border="0" src="images/bullet_sl.jpg" width="6" height="6" alt="bullet">&nbsp;
+      <a href="/ccidxann.php#JO" target="_self"><strong>JOB OPPORTUNITIES</strong></a> (107)<br>
+    </p>
+    <p>
+      &nbsp<img border="0" src="images/bullet_sl.jpg" width="6" height="6" alt="bullet">&nbsp;
+      <a href="/ccidxann.php#IO" target="_self"><strong>INTERNSHIPS</strong></a> (3)<br>
+    </p>
+    <p>
+      &nbsp<img border="0" src="images/bullet_sl.jpg" width="6" height="6" alt="bullet">&nbsp;
+      <a href="/ccidxann.php#CM" target="_self"><strong>COMPETITIONS</strong></a> (2)<br>
+    </p>
+  <br>
+  <table width="100%" border="0">
+    <tr><td align="center" colspan="2"><strong><a name="JO">JOB OPPORTUNITIES</a></strong></td></tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 13 January 2017" href="ccdspann.php?id=27095">Project Controls Coordinator / Lydian Armenia</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 22 January 2017" href="ccdspann.php?id=27094">Leading Specialist, Legal Department / Converse Bank</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 31 December 2016" href="ccdspann.php?id=27090">Regulatory Reporting Officer / HSBC Bank Armenia</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 20 January 2017" href="ccdspann.php?id=27089">IT Business Analyst / VOLO</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 08 January 2017" href="ccdspann.php?id=27088">VAS Products Specialist / K-Telecom</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 21 January 2017" href="ccdspann.php?id=27084">Content and Communication Specialist / Solimar International</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 21 January 2017" href="ccdspann.php?id=27085">Fix Network Quality Engineer / Ucom</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 11 January 2017" href="ccdspann.php?id=27086">Senior Team Leader / Smithsonian Institution</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 20 January 2017" href="ccdspann.php?id=27083">IT Reporting System Junior Engineer / Ucom</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 21 January 2017" href="ccdspann.php?id=27074">Call Center Specialist / ACBA-Credit Agricole Bank</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 21 January 2017" href="ccdspann.php?id=27082">Call Center Specialist / Ucom</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 21 January 2017" href="ccdspann.php?id=27081">C# Developer / PicsArt</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 21 January 2017" href="ccdspann.php?id=27067">Medical Representative / Bio Stem</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 20 January 2017" href="ccdspann.php?id=27080">Analyst, Risk Management Department / Anelik Bank</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 20 January 2017" href="ccdspann.php?id=27069">Junior Dealer / FXTM Armenia</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 15 January 2017" href="ccdspann.php?id=27077">Graphic Designer / BigBek</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 10 January 2017" href="ccdspann.php?id=27075">Armenian HR Association Coordinator / Cascade Consultants on Behalf of Armenian HR Association</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 30 December 2016" href="ccdspann.php?id=27073">Head of Environmental Department / Kapan Mining and Processing Company</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 15 January 2017" href="ccdspann.php?id=27072">Financial Analyst / K-Telecom</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 17 January 2017" href="ccdspann.php?id=27071">Fixed-line Customers Loyalty and Retention Expert / ArmenTel</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 19 January 2017" href="ccdspann.php?id=27055">Digital Content Manager / Marli</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 19 January 2017" href="ccdspann.php?id=27070">Junior Web Developer / SystroTech</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 19 January 2017" href="ccdspann.php?id=27063">C#/ .NET Software Developer / Praemium RA</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 19 January 2017" href="ccdspann.php?id=27062">Duty System Administrator / Digital Edge</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 15 January 2017" href="ccdspann.php?id=27056">Repossessed Collateral Manager / HSBC Bank Armenia</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 08 January 2017" href="ccdspann.php?id=27054">Fundraising and Partnerships Manager / WWF-Armenia</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 15 January 2017" href="ccdspann.php?id=27053">Marketing Manager / Seven Smarts</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 15 January 2017" href="ccdspann.php?id=27049">Lawyer / Legelata</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 09 January 2017" href="ccdspann.php?id=27045">Web Developer / VXSoft</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 09 January 2017" href="ccdspann.php?id=27048">IT Project Manager / VXSoft</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 08 January 2017" href="ccdspann.php?id=27046">Project Manager / BigBek</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 08 January 2017" href="ccdspann.php?id=27047">Senior Front-End Developer / BigBek</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 15 January 2017, 23:55 Yerevan time" href="ccdspann.php?id=27019">Office Support Agent / EU Delegation to Armenia</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 14 January 2017" href="ccdspann.php?id=27044">Customer Support Representative / Joomag AM</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 14 January 2017" href="ccdspann.php?id=27041">Program Manager for Civil Society and Capacity Building / Eurasia Partnership Foundation</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 14 January 2017" href="ccdspann.php?id=27036">Senior PHP Developer / CertiPro Solutions</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 14 January 2017" href="ccdspann.php?id=27040">Import Manager / SAS Group</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 30 December 2016" href="ccdspann.php?id=26977">HoReCa Consultant / urbanlab</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 08 January 2017" href="ccdspann.php?id=27037">Economic Security Leading Specialist / K-Telecom</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 13 January 2017" href="ccdspann.php?id=27038">Remote Support Center Engineer / HS International</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 13 January 2017" href="ccdspann.php?id=27029">Showroom Manager / Comfort R&amp;V</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 25 December 2016" href="ccdspann.php?id=27031">Deputy Chief Accountant / Kilikia UCO</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 25 December 2016" href="ccdspann.php?id=27035">Financial Controller / Ibis Yerevan Center</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 27 December 2016" href="ccdspann.php?id=27027">Vice President of R&amp;D / Portfolio Company of Granatus Ventures</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 31 December 2016" href="ccdspann.php?id=27034">Ashtarak Branch Loan Officer / CARD AgroCredit UCO</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 30 December 2016" href="ccdspann.php?id=27032">PR Manager / Mavaexim</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 25 December 2016" href="ccdspann.php?id=27030">Chief Accountant / Ibis Yerevan Center</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 12 January 2017" href="ccdspann.php?id=27025">Database Developer / Optym Armenia</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 12 January 2017" href="ccdspann.php?id=27024">Senior QA Engineer / Optym Armenia</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 12 January 2017" href="ccdspann.php?id=27022">Senior Software Developer / Optym Armenia</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 12 January 2017" href="ccdspann.php?id=27023">Senior R&amp;D Engineer  / Optym Armenia</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 27 December 2016" href="ccdspann.php?id=27026">Masis Branch Back Office Specialist / CARD AgroCredit UCO</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 30 December 2016" href="ccdspann.php?id=27021">C# Software Developer / Altacode</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 30 December 2016" href="ccdspann.php?id=27006">Senior iOS Developer / BigBek</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 11 January 2017" href="ccdspann.php?id=27013">Back Office Officer / FXTM Armenia</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 30 December 2016" href="ccdspann.php?id=27015">IT Specialist / VTB Bank (Armenia)</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 11 January 2017" href="ccdspann.php?id=27010">Professional Service Engineer/ Analyst / HS International</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 11 January 2017" href="ccdspann.php?id=27012">Head of Branch Network / Anelik Bank</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 27 December 2016" href="ccdspann.php?id=26976">Architect / urbanlab</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 08 January 2017" href="ccdspann.php?id=26985">Analyst / Arka News Agency</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 08 January 2017" href="ccdspann.php?id=27004">Backend Developer / CargoMatrix</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 08 January 2017" href="ccdspann.php?id=26934">T-SQL Programmer  / Tel-Cell</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 08 January 2017" href="ccdspann.php?id=27005">Loan Analyst, Corporate Banking Department, Large Enterprise Lending Unit / Ameriabank</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 07 January 2017" href="ccdspann.php?id=26960">.NET Developer / GoodCredit UCO</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 07 January 2017" href="ccdspann.php?id=26990">Head of Foreign Press Department / Press Stand</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 07 January 2017" href="ccdspann.php?id=26998">Head of Collections Division / Anelik Bank</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 06 January 2017" href="ccdspann.php?id=26981">Head of Cost Estimation, Sales and Import Department / Waelcon</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 06 January 2017" href="ccdspann.php?id=26997">QA Automation Engineer / VOLO</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 06 January 2017" href="ccdspann.php?id=26988">UI/ UX Designer / Tumo Center for Creative Technologies</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 06 January 2017" href="ccdspann.php?id=26989">Lead QA / Tumo Center for Creative Technologies</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 06 January 2017" href="ccdspann.php?id=26982">Full Stack Developer / Tumo Center for Creative Technologies</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 06 January 2017" href="ccdspann.php?id=26983">QA Engineer / Armenian Software</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 06 January 2017" href="ccdspann.php?id=26995">Graphic Designer / Alpha Food Service</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 06 January 2017" href="ccdspann.php?id=26996">Head of Marketing Department / Alpha Food Service</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 06 January 2017" href="ccdspann.php?id=26984">Marketing Specialist / Motion Time</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 30 December 2016" href="ccdspann.php?id=26980">Learning Coach in Dilijan / Tumo Center for Creative Technologies</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 05 January 2017" href="ccdspann.php?id=26957">Sales Manager / JCA Jewellery Company of Armenia</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 05 January 2017" href="ccdspann.php?id=26979">.NET Developer / Fast Credit Capital UCO</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 05 January 2017" href="ccdspann.php?id=26978">C++ Developer / Energize Global Services</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 05 January 2017" href="ccdspann.php?id=26975">Arabic Speaking Accounts Service Manager / FXTM Armenia</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 05 January 2017" href="ccdspann.php?id=26963">Import Manager / VAS Group</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 05 January 2017" href="ccdspann.php?id=26956">Travel Consultant / D&amp;V Travel</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 04 January 2017" href="ccdspann.php?id=26927">Internet Marketing Specialist / Best Card</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 30 December 2016" href="ccdspann.php?id=26933">Storekeeper / White Stone</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 26 December 2016" href="ccdspann.php?id=26969">Master Data Manager / ArmenTel</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 31 December 2016" href="ccdspann.php?id=26968">Graphic Designer / GAT Cutting</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 25 December 2016" href="ccdspann.php?id=26951">Marketing Manager / Lendo UCO</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 01 January 2017" href="ccdspann.php?id=26958">Executive Assistant / FINCA UCO</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 01 January 2017" href="ccdspann.php?id=26955">International Relations and Logistics Coordinator / Timeless</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 01 January 2017" href="ccdspann.php?id=26952">Senior Web Engineer / Questrade-Armenia</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 31 December 2016" href="ccdspann.php?id=26949">.NET Developer / VOLO</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 31 December 2016" href="ccdspann.php?id=26948">English Language Specialist / SystroTech</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 31 December 2016" href="ccdspann.php?id=26945">Front-End Developer / Workfront</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 31 December 2016" href="ccdspann.php?id=26941">Internal Auditor / Farm Credit Armenia UCO</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 31 December 2016" href="ccdspann.php?id=26944">Full Stack PHP Developer / Iguan Systems</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 29 December 2016" href="ccdspann.php?id=26929">Customer Support Specialist / Dexatel</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 28 December 2016" href="ccdspann.php?id=26876">Data Analyst / BG Solutions</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 28 December 2016" href="ccdspann.php?id=26924">Production Support Engineer / Energize Global Services</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 28 December 2016" href="ccdspann.php?id=26918">Chief Accountant / Effect Group</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 25 December 2016" href="ccdspann.php?id=26920">Debt Collection Specialist / Prometey Bank</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 27 December 2016" href="ccdspann.php?id=26919">Branch Representative, Retail Banking and Wealth Management Department / HSBC Bank Armenia</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 27 December 2016" href="ccdspann.php?id=25324">Intern at Retail Banking and Wealth Management Department / HSBC Bank Armenia</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 27 December 2016" href="ccdspann.php?id=26911">Marketing Specialist / Legelata</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 27 December 2016" href="ccdspann.php?id=26910">Backend Developer / PicsArt</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 24 December 2016" href="ccdspann.php?id=26891">Commercial Manager / Freighthaul</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 24 December 2016" href="ccdspann.php?id=26902">Business Development Manager / Freighthaul</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 24 December 2016" href="ccdspann.php?id=26903">Yerevan Post Office Supervisor / Haypost</a></td>
+    </tr>
+  </table>
+  <p align="right"><a href="/ccidxann.php#TOP" target="_self"><font size="-2">Go To Top</font></a></p>
+  <table width="100%" border="0">
+    <tr><td align="center" colspan="2"><strong><a name="IO">INTERNSHIPS</a></strong></td></tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 31 December 2016" href="ccdspann.php?id=26925">Java Development Intern / Workfront</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 29 December 2016" href="ccdspann.php?id=26932">C++/ iOS Intern / PicsArt</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 29 December 2016" href="ccdspann.php?id=26930">C++/ Android Intern / PicsArt</a></td>
+    </tr>
+  </table>
+  <p align="right"><a href="/ccidxann.php#TOP" target="_self"><font size="-2">Go To Top</font></a></p>
+  <table width="100%" border="0">
+    <tr><td align="center" colspan="2"><strong><a name="CM">COMPETITIONS</a></strong></td></tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 10 January 2017" href="ccdspann.php?id=27078">Pre-study on Creative Employment Opportunities in Armenia / GIZ</a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="8"><img border="0" src="images/bullet_fs.jpg" width="6" height="6" vspace="6" alt="bullet"></td>
+      <td><a title="Application Deadline: 29 December 2016, 6 p.m." href="ccdspann.php?id=27042">Call for Bids for Short Study and Roundtables on Creative Industries in Armenia / GIZ</a></td>
+    </tr>
+  </table>
+  <p align="right"><a href="/ccidxann.php#TOP" target="_self"><font size="-2">Go To Top</font></a></p>
+</body>
+</html>

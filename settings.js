@@ -3,6 +3,10 @@ module.exports = {
     DbConnectionString:'mongodb://samvelNodejs:samvelNodejs@ds141098.mlab.com:41098/jobsmetadata',
     DbCollections:['jobsmetadata'],
     Jobs:[
-        {name:'careercenter',url:'http://careercenter.am/ccidxann.php#JO'}
+        {
+            name:'careercenter',
+            url:'http://careercenter.am/ccidxann.php#JO',
+            parsedFilePath:__dirname+'/parsed_jobes/career_center'
+        }
     ]
 }

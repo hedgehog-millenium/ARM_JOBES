@@ -1,13 +1,15 @@
-var port = 3000;
-var express = require('express');
-var bodyParser = require('body-parser');
-var morgan = require('morgan');
-var path = require('path');
+var port = 3000,
+    express = require('express'),
+    bodyParser = require('body-parser'),
+    morgan = require('morgan'),
+    path = require('path'),
 
-var index = require('./routes/home');
-var parsing = require('./routes/parsing');
-var helper = require('./routes/helper');
-var app = express();
+    index = require('./routes/home'),
+    parsing = require('./routes/parsing'),
+    helper = require('./routes/helper'),
+    proxyHelper = require('./routes/proxyHelper'),
+
+    app = express();
 
 app.use(morgan('dev'));
 
@@ -24,6 +26,7 @@ app.set(bodyParser.urlencoded({extended:true}));
 
 app.use('/',index);
 app.use('/parser',parsing);
+app.use('/proxyHelper',proxyHelper);
 app.use('/helper',helper);
 
 app.listen(port);

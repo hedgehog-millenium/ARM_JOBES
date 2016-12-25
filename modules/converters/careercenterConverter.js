@@ -10,12 +10,13 @@ module.exports = {
 								var linksArray = [];
 								window.$("a[href^='ccdspann.php?id=']").each(function(key,val){
 									linksArray.push({
-														name:val.text,
-														path:val.getAttribute('href'),
-														source:'careercenter.am',
-														isParsed:false,
-														isConverted:false,
-												});
+											name:val.text,
+											path:val.getAttribute('href'),
+											source:'careercenter.am',
+											parsedFile:val.getAttribute('href').match(/\d+/)[0]+'.txt',
+											isParsed:false,
+											isConverted:false,
+									});//linksArray.push
 								});//each		
 								resolve(linksArray);
 						}// function (err, window)
