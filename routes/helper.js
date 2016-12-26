@@ -34,4 +34,9 @@ router.get('/',function(req,res){
 
 });
 
+router.get('/check',(req,res)=>{
+    var path = 'C:\\Users\\Samvel.Kocharyan\\Desktop\\MY_OWN_ENVIRONMENT\\ARM_JOBES\\parsed_jobes\\career_center\\25324.txt'
+    res.send(txtFile.checkIfFileExist(path));
+});
+
 module.exports = router;

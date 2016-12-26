@@ -11,7 +11,7 @@ module.exports = {
 								window.$("a[href^='ccdspann.php?id=']").each(function(key,val){
 									linksArray.push({
 											name:val.text,
-											path:val.getAttribute('href'),
+											path:'http://careercenter.am/index.php?/' + val.getAttribute('href'),
 											source:'careercenter.am',
 											parsedFile:val.getAttribute('href').match(/\d+/)[0]+'.txt',
 											isParsed:false,

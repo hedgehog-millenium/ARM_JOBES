@@ -24,7 +24,7 @@
             </tr>
             <tr *ngFor="#jobsMeta of jobsMetaData;#i=index" >
                 <td>{{i}}</td>
-                <td> <a target="_blank" href="http://careercenter.am/index.php?/{{jobsMeta.path}}">{{jobsMeta.name}}</a>  </td>
+                <td> <a target="_blank" href="{{jobsMeta.path}}">{{jobsMeta.name}}</a>  </td>
                 <td>{{jobsMeta.source}}</td>
                 <td class="text-center">
                     <img src="app/src/imgs/checkbox-icon.png" [hidden]="!jobsMeta.isParsed" class="box-25-25" alt="">

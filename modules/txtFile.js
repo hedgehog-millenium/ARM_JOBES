@@ -16,6 +16,9 @@ module.exports = {
 				else resolve(contents);
 			});		
 		});
+	},
+	checkIfFileExist:function(filePath){
+		return fs.existsSync(filePath)
 	}
 
 };

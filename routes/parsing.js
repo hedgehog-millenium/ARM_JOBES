@@ -3,6 +3,8 @@ var express = require('express'),
     dbRepo = require('../modules/DB/mLabRepo'),    
     careercenterFacade = require('../modules/facades/careercenterFacade');
 
+    dbRepo.init('jobsmetadata');
+    
 router.get('/',function(req,res){        
 
     dbRepo.findAll().then(function(docs){
@@ -12,20 +14,16 @@ router.get('/',function(req,res){
     });
 });
 
-router.post('/parseAll',function(req,res){
+router.post('/parseAllLinks',function(req,res){
     careercenterFacade.registerAllLinks().then(jsonResult=>{
         res.send(jsonResult);
     }).catch(err=>{res.send(err);})
 });//router.post('/parseAll',function(req,res)
 
-
-
-router.post('/',function(req,res){
-    var rndInt = Math.floor(Math.random()*100)
-    dbRepo.insert({link:'link'+rndInt,source:'somesource.am',isCompleted:false},function(err,saved){
-        if(err) res.send(err);
-        else res.send(saved);
+router.post('/parseAllJobs',function(req,res){
+    careercenterFacade.handleAlljobes().then(jobs=>{
+        res.send(jobs);
     });
-});
+});//router.post('parseAllJobes',function(req,res){
 
 module.exports = router;

@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN">
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Language" content="en-us">
+  <meta name="description" content="The careercenter.am project aims to raise public awareness and promote equal opportunities by enabling fast, free, easy, and effective nationwide access to information on job, career, and professional skills development and related activities announced by local and international organizations.">
+  <meta name="keywords" content="Job, Employment, Work, Recruitment, Staffing Services, Headhunting, Volunteering, Internship, Fellowship, Grant, Event, Training, Workshop, Seminar, Conference, Career, Center, Program, Information, Publications, On-line, Resources, Journals, Internet, Culture, Jobs, Ads References, Miscellaneous, Education, Educational Institution, Science, Opportunities, Organizations, Armenia, Yerevan, NGO, Organization, Armenian, International, Web, List, Contact">
+  <meta name="author" content="Career Center">
+  <meta name="copyright" content="Copyright 2003 Career Center">
+  <meta name="distribution" content="Global">
+  <meta name="rating" content="General">
+  <meta name="robots" content="Index, Follow">
+  <meta name="revisit-after" content="1 Days">
+  <title>Career Center</title>
+</head>
+<frameset rows="52,86%,4%" border="0">
+  <frame name="heading" scrolling="no" noresize src="heading.php" frameborder="0">
+  <frameset cols="32%,*">
+    <!-- <frame name="contents" target="main" src="menu.htm" scrolling="auto" marginwidth="9" frameborder="0"> -->
+    <frame name="contents" target="main" src="ccidxann.php" scrolling="auto" marginwidth="9" frameborder="0">
+    <frame name="main" src="/ccdspann.php?id=26976" target="_self" scrolling="auto" frameborder="0">
+   </frameset>
+   <frame name="bottom" scrolling="no" noresize target="contents" src="footer.html" marginheight="10" frameborder="0">
+  <noframes>
+  <body>
+
+  <p>This page uses frames, but your browser doesn't support them.</p>
+
+  </body>
+  </noframes>
+</frameset>
+
+</html>
