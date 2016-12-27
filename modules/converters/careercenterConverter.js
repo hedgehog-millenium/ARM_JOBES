@@ -13,8 +13,12 @@ module.exports = {
 											name:val.text,
 											path:'http://careercenter.am/index.php?/' + val.getAttribute('href'),
 											source:'careercenter.am',
-											parsedFile:val.getAttribute('href').match(/\d+/)[0]+'.txt',
-											isParsed:false,
+											regTime:new Date().toLocaleString(),
+											parseInfo:{
+												filePath:val.getAttribute('href').match(/\d+/)[0]+'.txt',	
+												isCompleted:false,
+												status:{}
+											},																						
 											isConverted:false,
 									});//linksArray.push
 								});//each		

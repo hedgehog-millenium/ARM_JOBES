@@ -22,29 +22,29 @@
                 <th>test</th>             
                 <th></th>
             </tr>
-            <tr *ngFor="#jobsMeta of jobsMetaData;#i=index" >
+            <tr *ngFor="#jobMeta of jobsMetaData;#i=index" >
                 <td>{{i}}</td>
-                <td> <a target="_blank" href="{{jobsMeta.path}}">{{jobsMeta.name}}</a>  </td>
-                <td>{{jobsMeta.source}}</td>
+                <td> <a target="_blank" href="{{jobMeta.path}}">{{jobMeta.name}}</a>  </td>
+                <td>{{jobMeta.source}}</td>
                 <td class="text-center">
-                    <img src="app/src/imgs/checkbox-icon.png" [hidden]="!jobsMeta.isParsed" class="box-25-25" alt="">
-                    <img src="app/src/imgs/sign-error-icon.png" [hidden]="jobsMeta.isParsed" class="box-25-25" alt="">
+                    <img src="app/src/imgs/checkbox-icon.png" [hidden]="!jobMeta.parseInfo.isCompleted" class="box-25-25" alt="">
+                    <img src="app/src/imgs/sign-error-icon.png" [hidden]="jobMeta.parseInfo.isCompleted" class="box-25-25" alt="">
                 </td>
                 <td class="text-center">
-                    <img src="app/src/imgs/checkbox-icon.png" [hidden]="!jobsMeta.isConverted" class="box-25-25" alt="">
-                    <img src="app/src/imgs/sign-error-icon.png" [hidden]="jobsMeta.isConverted" class="box-25-25" alt="">
+                    <img src="app/src/imgs/checkbox-icon.png" [hidden]="!jobMeta.isConverted" class="box-25-25" alt="">
+                    <img src="app/src/imgs/sign-error-icon.png" [hidden]="jobMeta.isConverted" class="box-25-25" alt="">
                 </td>
                 <td class="text-center" style="color:green">
                     <i class="fa fa-2x fa-check-square-o bg-sucess" aria-hidden="true"></i>
                 </td>
                 <td class="col-actions no-padding" width="50px">
                     <!--<button class="btn btn-success btn-block btn-action">parse</button>-->
-                    <button class="btn btn-success btn-sm btn-action pull-left" *ngIf="!jobsMeta.isParsed">
+                    <button class="btn btn-success btn-sm btn-action pull-left" *ngIf="!jobMeta.parseInfo.isCompleted">
                         <i class="fa fa-lg fa-cloud-download" aria-hidden="true"></i>    
                        <br> parse                    
                     </button>
 
-                     <button class="btn btn-warning btn-sm btn-action pull-left blink_me" *ngIf="jobsMeta.isParsed && !jobsMeta.isConverted">
+                     <button class="btn btn-warning btn-sm btn-action pull-left blink_me" *ngIf="jobMeta.parseInfo.isCompleted && !jobMeta.isConverted">
                         <i class="fa fa-lg fa-exchange" aria-hidden="true"></i>    
                        <br> convert                    
                     </button>

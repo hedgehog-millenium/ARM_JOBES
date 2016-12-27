@@ -45,8 +45,8 @@ function insert(document) {
 function updateById(id,document){
     return new Promise(function(resolve,reject){
         db.collection(activeCollection).update({_id:mongojs.ObjectId(id)},document,{},(err,doc)=>{
-            if(err) reject(err);
-            else resolve(doc);
+            if(!err) resolve(doc);
+            else reject(err);
         });
     });
 }

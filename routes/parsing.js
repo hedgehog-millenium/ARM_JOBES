@@ -21,7 +21,7 @@ router.post('/parseAllLinks',function(req,res){
 });//router.post('/parseAll',function(req,res)
 
 router.post('/parseAllJobs',function(req,res){
-    careercenterFacade.handleAlljobes().then(jobs=>{
+    careercenterFacade.handleAlljobs().then(jobs=>{
         res.send(jobs);
     });
 });//router.post('parseAllJobes',function(req,res){
