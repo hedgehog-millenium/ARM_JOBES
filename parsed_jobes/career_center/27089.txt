@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27089-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="103" height="80" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>VOLO LLC</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;IT Business Analyst</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;VOLO LLC is looking for an experienced result-oriented professional to fulfill a newly opened position of IT Business Analyst to work for an international client in an enterprise-focused team.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Effectively work with the Product Managers, Software Engineers and other stakeholders to collaborate in all phases of project implementation;<br />
+- Understand the business activity, in cooperation with the Product Manager, and translate business needs into detailed requirements;<br />
+- Identify and document business requirements and prepare regular follow-up reports regarding the implementation process;<br />
+- Analyze and prioritize key business opportunities in the areas of process, workflow, innovation, communication and strategic planning and come up with the respective proposals and recommendations;<br />
+- Understand the competitive context and help the client to define the product pipeline which insures innovation superiority; be a partner with the client in shaping the product;<br />
+- Own the communication and collaboration between the Business and Development Team;<br />
+- Expand the existing business with the client by aggressively identifying and seeking out new revenue opportunities.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- More than 3 years of work experience as a Business Analyst in IT industry;<br />
+- Understanding of software development lifecycle and software implementation processes;<br />
+- Excellent communication and negotiation skills;<br />
+- Fluency in English language, both written and spoken;<br />
+- Proactive person in gathering all information from all stakeholders;<br />
+- Excellent planning and organizational skills;<br />
+- Strong analytical and problem-solving skills;<br />
+- Ability to lead prioritization discussions and facilitate agreement.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Competitive, depending on previous experience and skills.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;To apply for this position, please submit your CV in English language to: <a href="mailto:hr@volo.am">hr@volo.am</a> , mentioning the position title you are applying for in the subject line of the email. Kindly please refrain from any personal visits, deliveries or phone calls. Only short-listed candidates will be notified for the interview.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;23 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;20 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;VOLO LLC is an IT solutions provider with development bases in Yerevan, Gyumri, Ukraine and Belarus, and sales offices in the USA, the UK, Germany, Switzerland, and South Africa. For more information, please visit: <a target="_blank" href="http://volo.global/">http://volo.global/</a> .</p>
+  <p>This announcement has been retrieved 825 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

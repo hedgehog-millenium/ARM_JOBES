@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27019-->
+  <p align="center"><font size="+1"><b>EU Delegation to Armenia</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Office Support Agent</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time</p>
+  <p><b>OPEN TO/ ELIGIBILITY CRITERIA:</b>&nbsp;&nbsp;All candidates meeting the required qualifications.</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The Organization offers a post of Office Support Agent in the Administration section of the Delegation. Under this post, the recruited person will be attributed functions depending on the needs of the Delegation. Upon recruitment, the successful candidate will occupy a specific job function as Office Support Agent with a primary focus on to administrative and secretarial assistance. This job function may be changed in accordance with the needs of the Delegation. The selected person will manage the incoming correspondence and telephone switchboard system and will provide general administrative support and document management services, as well as carry out general secretarial tasks in Administration Section of the Delegation under the supervision and responsibility of the relevant head of section. It is full-time office work, in multicultural environment, during regular business hours.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Manage the reception/ switchboard by answering the telephone, filtering and transferring calls, taking messages, greeting visitors and responding to general enquiries;<br />
+- Function as a data entry agent in delegation information systems: receive, register and route incoming correspondence, finalize and transmit outgoing correspondence; act as a data entry agent in IT applications;<br />
+- Responsible for handling/ logging deliveries and collections;<br />
+- Take, transcribe, prepare and finalize notes, memos, letters, etc.;<br />
+- Compose and type routine correspondence;<br />
+- Translate short texts into a language other than his/ her mother tongue when required for Administration section;<br />
+- Responsible for document management;<br />
+- Help the Project Officers in organizing public tenders;<br />
+- Act as an operational initiator agent (OIA) on administrative expenditure and financial circuit of the Delegation and in this role be responsible for preparing the operation, including carrying out the necessary quality controls before launching the operation (operational initiating agent is empowered to endorse certified correct);<br />
+- Manage and maintain stock of kitchen, stationery, cleaning materials, etc.;<br />
+- Responsible for the encode of data and invoices/ payments into a database;<br />
+- Coordinate work with the Section Secretary, the Administrative Assistants and the Accounting Assistant;<br />
+- Provide logistical support for organization of meetings and visits (reception of guests, liaising with colleagues and suppliers on preparation of the location, materials, refreshments, etc.); assist with hotel reservations;<br />
+- Under the supervision of HoA, update internal notes and plan on security/ safety matters;<br />
+- Perform any other tasks as deemed necessary in the interest of the service according to the function.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Level of education which corresponds to completed high school diploma; secretarial school studies attested by a diploma or university degree are accepted as an asset;<br />
+- Knowledge of English language at least at C1 level; knowledge of Armenian language at C1 level; knowledge of Russian language at least at B1 level;<br />
+- At least 3 years of job-related experience in performing duties similar to those mentioned in job description such as reception duties, document/ correspondence management and non-specialised translation, coordination, logistic and general administrative support, prevalent administrative support, etc.; job-related experience in international organisations/ environment or abroad will be considered as an advantage;<br />
+- Client orientation; eye on accuracy; ability to work with professionalism, acting with integrity; an ability to accurately and efficiently meet deadlines and achieve results;<br />
+- Ability to understand and be understood; drafting skills;<br />
+- Self-starter and a motivated person; good organisational skills and goal orientation; a developed sense of responsibility, discretion and a sense of confidentiality; attention to detail; a person respecting deadlines; readiness for self-development; flexibility (openness towards new demands, etc.) and a willingness to learn;<br />
+- Capacity to deliver in a structured way; planning capacity;<br />
+- Stress resistance;<br />
+- Ability to work with others; a team player and an ability to work in a proactive way;<br />
+- Knowledge of IT tools; computer literacy; experience in data entry information systems, relevant computer applications and tools is an asset.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Salary according to the group 4 with a starting basic salary of step 1 of Local Agents remuneration scheme; benefits, such as additional pension scheme and medical insurance, are offered to employees and their families under certain conditions.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Interested and qualified candidates should submit their application to: <a href="mailto:delegation-armenia-recruitment@eeas.europa.eu">delegation-armenia-recruitment@eeas.europa.eu</a> . The package should include a cover letter on one page and a detailed CV in English language using the &quot;European Curriculum Vitae Format&quot; (available at: <a target="_blank" href="https://europass.cedefop.europa.eu/en/home">https://europass.cedefop.europa.eu/en/home</a> ). Applications must be submitted before the deadline. Interviews will be held only with short-listed candidates after a written test. After the interviews the Selection Committee decides which candidates are placed on the reserve list of suitable applicants. This list is valid for a limited period of time. The selected candidate from the reserve list must undergo a medical examination to ensure that he/ she meets the standard of physical fitness required before a job offer is made.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;16 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;15 January 2017, 23:55 Yerevan time</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;The European Union (EU) is an economic and political partnership between 28 European countries. It plays an important role in international affairs through diplomacy, trade, development aid and working with global organisations. Abroad, the EU is represented through more than 140 diplomatic representations, known also as EU Delegations, which have a similar function to those of an embassy. The EU Delegation represents the European Union in Armenia and ensures bilateral relations in the political, economic, trade and cooperation fields, promotes and protects the interests and values of the EU.</p>
+  <p><b>ADDITIONAL NOTES:</b>&nbsp;&nbsp;The Delegation will not supply additional information or discuss the selection procedure by telephone or other means. Please address any queries concerning this procedure to: <a href="mailto:delegation-armenia-recruitment@eeas.europa.eu">delegation-armenia-recruitment@eeas.europa.eu</a> .</p>
+  <p>This announcement has been retrieved 2474 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

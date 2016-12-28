@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27047-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="111" height="28" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>BigBek LLC</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Senior Front-End Developer</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;BigBek is looking for a passionate Senior Front-End Developer for new projects.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Build sophisticated and elegant user interfaces and identify all the elements of user experience;<br />
+- Create flows, wireframes and other UX documents in collaboration with the Product Team;<br />
+- Collaborate with Designers, Developers and product owners to implement scalable and interactive applications;<br />
+- Keep abreast of novel technical concepts that should be adopted (or not);<br />
+- Contribute to the team's technical growth by engaging in technical discussions and mentoring.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- At least 2 years of experience focused specifically on UX/ UI development of software applications (not just websites);<br />
+- Bachelor's degree in Computer Science, Software Engineering or a similar field from an accredited institution;<br />
+- Deep understanding of HTML5 and CSS3; experience with JavaScript and jQuery;<br />
+- Work experience with Bootstrap or other Responsive UI frameworks;<br />
+- Understanding of typical software architecture and best practices for software development;<br />
+- Experience in implementing design, providing UX advice, and creating guidelines for the team, along with a passion for delivering appealing and easy-to-use user interfaces.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Highly competitive, depending on the previous experience and skills, plus benefits, including a medical insurance.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;For further consideration please send your CV to: <a href="mailto:hr@bigbek.com">hr@bigbek.com</a> indicating &quot;Senior Front-End Developer&quot; in the subject line. Please include a portfolio or sample work that clearly demonstrates successful implementation of user-focused design solutions and the art direction, along with the CV. Please note that only short-listed candidates will be notified for interviews.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;16 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;08 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;BigBek is a software development company.</p>
+  <p>This announcement has been retrieved 512 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

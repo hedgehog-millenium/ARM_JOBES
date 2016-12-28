@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27082-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="120" height="58" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>Ucom LLC</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Call Center Specialist</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Day/ night shift</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Permanent, with a probation period.</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;Ucom LLC is seeking a successful candidate who will provide the Company's information in an efficient and timely manner.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Provide general information (offers, services, tariff plans, promotion, etc.); reply to balance and invoice queries; provide technical assistance to customers;<br />
+- Update the customer database during customer contacts;<br />
+- Fix customer problems at the first contact and transfer non-resolved problems as complaints to the Troubleshooting Supervisor;<br />
+- Inform customers about new offers and services;<br />
+- Inform customers about the complaint status and resolution;<br />
+- Carry out the satisfaction inquiry campaign established by the Quality Team;<br />
+- Apply retention and customer loyalty during all contacts;<br />
+- Carry out retention and loyalty campaigns established by the Retention and Loyalty Team.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Bachelor's degree;<br />
+- 1-2 years of work experience in the Welcoming Staff or Help Line is preferable;<br />
+- MS Office and Internet navigation skills;<br />
+- Advanced knowledge of Russian and English languages;<br />
+- Knowledge of other foreign languages is a plus;<br />
+- Excellent oral expression skills;<br />
+- Ability to listen.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Candidates who meet the above mentioned requirements and are confident that their background and experience qualify them for the position, are asked to send their resumes to: <a href="mailto:career@ucom.am">career@ucom.am</a> mentioning the title of the announced position &quot;Call Center Specialist&quot; in the subject line.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;22 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;21 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Ucom LLC is a unified communications operator in Armenia, which offers symmetrical and mobile broadband Internet and other services.</p>
+  <p>This announcement has been retrieved 866 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

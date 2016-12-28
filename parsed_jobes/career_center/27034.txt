@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27034-->
+  <p align="center"><font size="+1"><b>CARD AgroCredit UCO CJSC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Ashtarak Branch Loan Officer</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;January 2017</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term, with 3 months of probation period.</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Ashtarak, Aragatsotn Marz, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The incumbent, under the direct supervision of the Ashtarak Branch Manager, will serve present and prospective customers. He/ she will promote credit and related services to all current and prospective customers.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Interview applicants; gather, analyze and reconcile complete, accurate credit and financial data under the guidelines of differential analysis;<br />
+- Establish and serve a credit portfolio;<br />
+- Be involved in the process of new borrowers involvement, as well as in the regional volume expansion process;<br />
+- Prepare and submit proposals and related documents to the Branch Manager;<br />
+- Present loan applications with analysis and recommendations to the Credit Committee for decision making;<br />
+- Prepare and submit loan agreements for signing;<br />
+- Prepare and maintain credit files;<br />
+- Serve and monitor the present loan portfolio; fill all necessary documents and reports and submit to the Branch Manager and/ or Director of Loan Department;<br />
+- Perform other duties in accordance with the policies and procedures of the Company and other duties required by the Branch Manager.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Higher education in Business Administration, Economics or Finance;<br />
+- At least 2 years of relevant work experience;<br />
+- Demonstrated computer proficiency and familiarity with financial databases and spreadsheet applications; knowledge of AS-Bank 4.0 is a plus;<br />
+- Good team-working skills;<br />
+- Awareness of current economic developments in the country, particularly in agriculture;<br />
+- Knowledge of rural regions of Armenia is preferable;<br />
+- Availability of a driving license;<br />
+- Resident of Ashtarak or adjacent villages is preferable.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Negotiable, commensurable with the qualifications and relevant experience.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;To apply, please send your CV highlighting relevant experience to: <a href="mailto:cardjobs@card.am">cardjobs@card.am</a> , or deliver a hard copy to the CARD AgroCredit Ashtarak Branch office at: 12 N. Ashtaraketsi str., Ashtarak, Aragatsotn Marz. Please, indicate in your application the position title you are applying for. Please refrain from any phone calls. Only selected eligible candidates will be contacted for an interview.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;14 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;31 December 2016</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;CARD AgroCredit Universal Credit Organization CJSC was founded in June 2008 by the Center for Agribusiness and Rural Development Foundation. CARD AgroCredit UCO offers its financial services in all regions of Armenia.</p>
+  <p>This announcement has been retrieved 510 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

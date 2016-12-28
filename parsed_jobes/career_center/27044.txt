@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27044-->
+  <p align="center"><font size="+1"><b>Joomag AM LLC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Customer Support Representative</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;Joomag AM LLC is looking for talented Customer Support Representatives to deliver outstanding service and maintain high customer satisfaction.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Respond to a wide array of support questions from customers via e-mail and livechat;<br />
+- Interact with customers to understand requirements and maximize customer satisfaction;<br />
+- Work closely with the Senior Engineers to troubleshoot issues and implement fixes;<br />
+- Carry out effective communication with customers concerning technical, billing and sales inquiries.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Excellent knowledge of English language;<br />
+- Ability to work night shifts;<br />
+- Customer orientation and ability to adapt/ respond to different types of characters;<br />
+- Strong communication, negotiation and presentation techniques;<br />
+- Ability to multi-task, prioritize and manage time effectively;<br />
+- Bachelor's degree.<br />
+<br />
+PREFERRED QUALIFICATIONS:<br />
+- Native or bilingual proficiency of English language;<br />
+- Proven customer support experience;<br />
+- Familiarity with CRM and Helpdesk systems.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;3 months, 6 months and annual reviews; performance bonus; Premium Health Insurance program; flexible vacation and time-off policy: paid holidays, days off and sick days.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Interested candidates are encouraged to apply online via: <a target="_blank" href="http://joom.ag/jobs/customer-support">http://joom.ag/jobs/customer-support</a> .
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;15 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;14 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Joomag AM LLC is a digital publishing services company, providing an integrated solution for publishing, distributing, tracking and monetizing publications online. More information can be found at: <a target="_blank" href="http://www.joomag.com">www.joomag.com</a>.</p>
+  <p>This announcement has been retrieved 1283 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

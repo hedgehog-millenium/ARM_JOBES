@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27056-->
+  <p align="center"><font size="+1"><b>HSBC Bank Armenia CJSC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Repossessed Collateral Manager</p>
+  <p><b>OPEN TO/ ELIGIBILITY CRITERIA:</b>&nbsp;&nbsp;All qualified candidates.</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Permanent</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The job holder is responsible for managing properties pledged to the Bank, which may or have already become secondary means of repayment for non-performing or impaired assets.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Responsible for periodic analyses of securities held in the Bank's loan portfolio and timely recommendations on property acquisitions;<br />
+- Prepare acquisition papers with appropriate assessment of financial and non-financial details and acquisition recommendation;<br />
+- Manage the securities acquired by the Bank including site visits and assessment of any inherent risks (e.g. safety, representational, sustainability, etc.);<br />
+- Liaise with real estate agencies, bankruptcy managers and panel valuers; monitor property prices in public auctions and arrange related documentary works/ agreements;<br />
+- Arrange site visits with prospective buyers and/ or coordinate such kind of activities with real estate agency representatives, bankruptcy managers and other related parties as appropriate;<br />
+- Arrange periodic revaluations of properties and respective insurance coverages for managed properties;<br />
+- Responsible for a proactive identification and achievement of security disposals through high quality customer communication and marketing arrangements;<br />
+- Prepare quarterly reports to illustrate the deals carried out during the reporting period, portfolio analyses and other arrangements/ tasks.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- University degree in Business Administration, Economics or other relevant field;<br />
+- At least 4-5 years of related work experience in banking and/ or business environment with exposure to real estate market industry;<br />
+- Strong communication, interpersonal, negotiation and problem solving skills; presentation and promoting/ sales skills;<br />
+- Sound knowledge of local real estate market and macroeconomic trends; extensive experience in property sale and purchase deal execution;<br />
+- Ability to work under pressure and with tight deadlines; ability to work with ambiguity and complexity; a self-starter with high energy and enthusiasm;<br />
+- Strategic thinker with the ability to create innovative ideas; a positive and balanced outlook with the ability to make decisions in complex and difficult situations;<br />
+- Excellent knowledge of Armenian, English and Russian languages;<br />
+- Excellent knowledge of MS Office and an ability to quickly adapt to new software applications.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;All interested and qualified candidates are encouraged to fill in the last updated version of HSBC Job Application Form attached below and send it to: <a href="mailto:vacancy.armenia@hsbc.com">vacancy.armenia@hsbc.com</a> . The old versions of application forms will not be reviewed. Please put &quot;Repossessed Collateral Manager&quot; in the subject line of the e-mail. CVs without HSBC Job Application Form will not be considered. Only short-listed candidates will be invited for interviews.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;19 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;15 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;HSBC Bank Armenia was established as a Closed Joint Stock Company under the name Midland Armenia Bank J.S.C. in 1996 and has been renamed into HSBC Bank Armenia CJSC in 1999. The Bank is a joint venture between the HSBC Group, which has a 70 percent ownership, and the members of overseas Armenian businesses with 30 percent ownership. HSBC Bank Armenia CJSC offers products and services to individuals, as well as to corporate customers in Armenia and abroad.</p>
+  <p><b>ATTACHMENTS:</b></p>
+  <ol>
+    <li>Application Form - <a href="ccattachment.php?annid=27056&amp;seq=0">HSBC Job Application Form.zip</a> (123K)</li>
+  </ol>
+  <p>This announcement has been retrieved 1218 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

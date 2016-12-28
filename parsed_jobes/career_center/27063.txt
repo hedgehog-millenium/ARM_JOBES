@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27063-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="120" height="30" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>Praemium RA LLC</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;C#/ .NET Software Developer</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time</p>
+  <p><b>OPEN TO/ ELIGIBILITY CRITERIA:</b>&nbsp;&nbsp;Interested candidates with at least 2 years of experience in software development and fluency in English language.</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Permanent</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;Working in Praemium, the incumbent's role will be to assist with the development and maintenance of financial services related to software products for the United Kingdom market. He/ she will also be required to enhance the Praemium suite of applications. This includes development on Windows Forms-based designs, Microsoft SQL database and data entity work, report designs as well as some web service tools and APIs. This can include displaying and editing data, constructing report output based on this data, manipulating the data and object models to use on advanced tools via a Wizard type interface. The incumbent will work with the local and global teams. He/ she will also support operational aspects of the technology platform and later shift to extending the application over time.</p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- At least 2 years of experience in software development;<br />
+- Knowledge of C# and .NET;<br />
+- Familiarity with Microsoft Development environment, including but not exclusive to Microsoft Visual Studio;<br />
+- Good programming skills in Microsoft C#;<br />
+- Experience with Windows Forms and desktop-based applications;<br />
+- Familiarity with Object-Orientated Programming and design, including concepts such as interfaces, inheritance and class design;<br />
+- Familiarity with Microsoft SQL Server and the retrieval of data from databases using .NET datasets and other data manipulation techniques;<br />
+- Experience in manipulation of classes to display and edit data on Windows Forms;<br />
+- Familiarity with Microsoft Office suite of programs to manipulate and populate MS Outlook, Word and Excel programmatically;<br />
+- Knowledge of using version control software such as Git;<br />
+- Knowledge of using Microsoft Office development tools;<br />
+- Knowledge of using 3rd party components and their use in enhancing a development environment (e.g. DevExpress components);<br />
+- Certain knowledge of Web API.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Competitive, depending on the previous experience and skills, plus a medical insurance and professional development opportunities.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Qualified candidates may submit their CVs in English language to: <a href="mailto:am.vacancies@praemium.com">am.vacancies@praemium.com</a> . Please kindly indicate the position title &quot;C#/ .NET Software Developer&quot; in the subject line of the email. Only short-listed candidates will be notified for interviews.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;20 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;19 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Praemium is a wealth management solution provider with offices in Australia, the UK, Jersey, Armenia, Hong Kong and Shenzhen. The Company administers in excess of 300,000 investor accounts covering approximately 80 billion dollars in funds globally, and currently provides services to approximately 700 financial institutions and intermediaries. Find more at: <a target="_blank" href="http://www.praemium.com.au">www.praemium.com.au</a>.</p>
+  <p>This announcement has been retrieved 514 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

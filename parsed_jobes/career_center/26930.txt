@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 26930-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="120" height="29" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>PicsArt LLC</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;C++/ Android Intern</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;PicsArt is looking for a C++/ Android Intern to join its team.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Develop, modify and maintain Android libraries;<br />
+- Ensure that deliverables match or exceed expected performance and functional requirements;<br />
+- Be open to changing development environment and learning new technologies.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Knowledge of C++;<br />
+- Good knowledge of Java;<br />
+- Android development experience is a plus;<br />
+- Experience in developing applications in a cross platform environment is a plus;<br />
+- Some knowledge of OpenglES 2, RenderScript or Python is a plus.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;If you are interested in joining the PicsArt Team and meet the requirements listed above, apply at: <a target="_blank" href="https://picsart.bamboohr.co.uk/jobs/view.php?id=20">https://picsart.bamboohr.co.uk/jobs/view.php?id=20</a> . Please note that only shortlisted candidates will be contacted for an interview appointment.
+  <br>Please clearly mention in your application letter that you learned of this internship opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;30 November 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;29 December 2016</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;PicsArt LLC is a US-based free and full featured photo-editing and drawing mobile app available on Android, Apple and Windows devices.</p>
+  <p>This announcement has been retrieved 1369 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

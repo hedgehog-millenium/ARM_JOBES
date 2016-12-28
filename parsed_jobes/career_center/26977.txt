@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 26977-->
+  <p align="center"><font size="+1"><b>urbanlab Socio-Cultural Foundation</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;HoReCa Consultant</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Short-term, contractual.</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;urbanlab is looking for an experienced person who will cover the local HoReCa Consultant duties under the Lead Architect's immediate supervision.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Consult the Management Plan Development Team with an effective HoReCa business model strategy;<br />
+- Support the International Team for management plan development;<br />
+- Elaborate on HoReCa market situation into a management plan.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Degree in Hospitality Management, Food Technology or equivalent professional qualification;<br />
+- At least 3 years of experience in HoReCa related businesses in the region;<br />
+- Ability to work in a multi-disciplinary international working team;<br />
+- Proficiency in Armenian and English languages, both spoken and written; knowledge of Russian language is a plus;<br />
+- Strong communication skills.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Competitive, depending on the candidate's experience.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;To apply, please send your CV in English language with a 3x4 photo in Adobe Acrobat Reader (PDF) format to: <a href="mailto:office@urbanlab.am">office@urbanlab.am</a> mentioning &quot;HoReCa Consultant&quot; in the subject line of your email. Only shortlisted candidates will be contacted. Kindly please refrain from any phone calls.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;15 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;30 December 2016</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;urbanlab is a Yerevan-based independent urban think and do tank, aimed to promote democratization of urban landscape toward sustainable development in its broader understanding.</p>
+  <p>This announcement has been retrieved 1029 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

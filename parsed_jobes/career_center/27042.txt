@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27042-->
+  <p align="center"><font size="+1"><b>Deutsche Gesellschaft fuer Internationale Zusammenarbeit GIZ GmbH</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Call for Bids for Short Study and Roundtables on Creative Industries in Armenia</p>
+  <p><b>COMPETITION TYPE:</b>&nbsp;&nbsp;Call for Proposals</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;12 January 2017</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;12 January 2017 - 28 February 2017</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>DETAIL DESCRIPTION:</b>&nbsp;&nbsp;GIZ implements &quot;Support to SME Development in Armenia&quot; (SMEDA). SMEDA Project seeks to contract a national company/ expert to conduct four roundtables and short studies for different sub-industries within the CCI. The aim is to assess potential interventions and support offers for those industries. As a result of these roundtables, the CCI sector shall be better understood and defined as a basis for further activities supporting selected subsectors within the CCI.<br />
+The assignment will focus as a first step on the following four subsectors and consists of two different parts:<br />
+a) Design<br />
+b) Film<br />
+c) Software and Games<br />
+d) Advertising/ Marketing<br />
+<br />
+Part I: Short Inventory Reports (one for each subsector - all together 4) on the existing associations, web platforms, festivals, fairs, training courses, institutes, infrastructures and support offers in the mentioned subsectors in Armenia. This report (6-10 pages) shall give a comprehensive overview and inventory on the opportunities and promotional structures available for active actors in those creative industry fields. The necessary data shall be collected via desktop research and if necessary expert interviews. <br />
+<br />
+Part II: Organization of one roundtable for each subsector (four roundtables all together) with the goal to assess the demand and potential support measures in the field. The expectation is that minimum 15 representatives from the different fields of the mentioned subsectors (companies, education institutions, associations and others) participate in each roundtable. A high participation of businesses/ businessmen (creative agencies, entrepreneurs, self-employed designers, etc.) is envisaged. <br />
+<br />
+The contractor shall develop an agenda and concept for the assessment of the demand in the industry, organize set-up and implementation of the roundtables and above all ensure the participation by invitation over his own channels (as social media, newsletters and other industry relevant channels). The roundtables will be joined by at least one international expert contracted by GIZ responsible for the development of a supporting approach for CCI in Armenia. <br />
+During the period 29 January till 03 February 2017 an international expert will be in Yerevan, conducting a feasibility study on potential CCI support approaches and interventions. The contractor shall support the international expert with information gathering and organize four to eight meetings with key representatives of the subsectors and four to eight site visits for the international expert.
+  </p>
+  <p><b>REQUIREMENTS:</b><br>
+- Strong proven expertise in the area of assignment;<br />
+- Proficiency in English and Armenian languages, both written and spoken;<br />
+- Excellent understanding of how to approach and communicate with people from the creative community.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;If you are interested in performing this work, please submit a bid to the GIZ Country office/ Reception in accordance with the GIZ bidding conditions by the deadline (date of receipt at GIZ).<br />
+Labeling of offer:<br />
+Your bid, comprising the technical offer and the price offer, must be clearly marked as such and submitted as a package containing two envelopes. The price offer must always be separate from the technical offer and placed in a separate envelope. Please also see the &quot;Application Procedures&quot; document under the link below, as well as Terms of Reference attached below.
+  <br>Please clearly mention in your application letter that you learned of this competition through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+  </p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;15 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;29 December 2016, 6 p.m.</p>
+  <p><b>ABOUT:</b>&nbsp;&nbsp;GIZ-implemented project &quot;Support to SME Development in Armenia&quot; (SMEDA) was initiated in 2016. The Project is in line with the EU Single Support Framework 2014-2017 for Armenia. It is furthermore consistent with the strategic framework documents of Armenia (Armenia Development Strategy and SME State Support Strategy) in order to facilitate their implementation.</p>
+  <p><b>ADDITIONAL NOTES:</b>&nbsp;&nbsp;Please address any commercial, technical and procedural questions at an early stage. Questions will be answered if they are received at the latest two working days before the closing of the tender. Questions have to be raised in writing to: <a href="mailto:angelika.sahakyan@giz.de">angelika.sahakyan@giz.de</a> (Mrs. Angelika Sahakyan).</p>
+  <p><b>ATTACHMENTS:</b></p>
+  <ol>
+    <li>Terms of Reference - <a href="ccattachment.php?annid=27042&amp;seq=0">ToR for Creative industries.zip</a> (330K)</li>
+    <li>Application Procedures - <a href="ccattachment.php?annid=27042&amp;seq=1">Application Procedure.zip</a> (172K)</li>
+  </ol>
+  <p>This announcement has been retrieved 483 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

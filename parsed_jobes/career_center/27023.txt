@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27023-->
+  <p align="center"><font size="+1"><b>Optym Armenia LLC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Senior R&amp;D Engineer</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;As a Senior R&amp;D Engineer, the incumbent will be responsible for researching different technologies, preparing reports and writing documentation for researched topics. He/ she will work closely with other teams on integration and adaptation of different technologies into existing projects. He/ she will also participate in making project prototypes and doing POCs and demos for clients, as well as coordinate team members in their work and help with the research.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Research different technologies, tools, frameworks, etc., and prepare reports;<br />
+- Integrate and adapt researches to Optym's products;<br />
+- Join different teams to boost product development;<br />
+- Collaborate with key team members in research and development;<br />
+- Actively participate in prototype project development;<br />
+- Actively participate in POC projects;<br />
+- Enhance existing programs by identifying areas for improvement;<br />
+- Actively participate in software and database design processes;<br />
+- Be flexible in learning and applying different programming languages and technologies;<br />
+- Constantly update technical knowledge and skills;<br />
+- Be efficient in the use of memory and CPU time;<br />
+- Employ a good code writing style that includes proper naming and sufficient comments;<br />
+- Update/ write technical documentation on codes and algorithms;<br />
+- Work productively as a key member of the Research Team;<br />
+- Actively participate in discussions regarding technical issues;<br />
+- Travel to the USA or other countries to work with other team members should the need arise.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- At least 4 years of work experience with C# and .NET; <br />
+- Bachelor's or higher degree in Computer Science, Physics, Mathematics or related disciplines;<br />
+- Strong knowledge of C# and Microsoft .Net Framework;<br />
+- Work experience in programming user interfaces;<br />
+- Work experience with relational databases including MS SQL Server and Oracle;<br />
+- Ability to develop efficient codes;<br />
+- Ability to quickly learn new programming languages, technologies and frameworks;<br />
+- Ability to write programs using different programming languages and environments;<br />
+- Familiarity with algorithms; ability to estimate algorithm complexity;<br />
+- Familiarity with data structures;<br />
+- Familiarity with architectural patterns including MVC and MVVM;<br />
+- Familiarity with design patterns;<br />
+- Strong problem-solving skills and an ability to be a successful team member;<br />
+- Proficiency in English language.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Highly competitive, plus a performance bonus, medical insurance, sports and training benefits.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Qualified candidates should send their resumes to: <a href="mailto:jobs.armenia@optym.com">jobs.armenia@optym.com</a> . Please mention the job title in the subject line of the email.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;13 December  2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;12 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Optym Armenia is a subsidiary of Optym with headquarters in Gainesville, Florida. Optym is a provider of optimization and decision automation solutions to transportation and logistics companies in the US and abroad.</p>
+  <p>This announcement has been retrieved 1162 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

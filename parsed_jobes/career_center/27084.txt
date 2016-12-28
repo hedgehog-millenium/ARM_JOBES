@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27084-->
+  <p align="center"><font size="+1"><b>Solimar International Corporation</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Content and Communication Specialist</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The &quot;My Armenia&quot; Program is searching for a Content and Communication Specialist who will focus on content creation to help promote and tell the story of Armenia's natural and cultural heritage. He/ she will oversee communications initiatives for the Program, as well as liaise with USAID, local government bodies and other key counterparts as guided by the COP. The job requires periodic travel throughout Armenia.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Develop, curate and disseminate content about Armenia's natural and cultural tourism experiences, including substantive information about the regions, sites, attractions and businesses where &quot;My Armenia&quot; is focused;<br />
+- Help in the development and dissemination of information materials about &quot;My Armenia&quot; Program as well as Solimar and Smithsonian's work in Armenia;<br />
+- Curate and maintain social media and other communications channels owned or managed by the Program, including Facebook, Twitter and Instagram;<br />
+- Contribute content to periodic newsletters/ communications to tourism and cultural heritage stakeholders in Armenia about activities and events within the sector(s);<br />
+- Ensure all communications and content material is compliant wit &quot;My Armenia&quot; communications and branding manual including USAID requirements;<br />
+- Carry out translation of materials from Armenian to English and English to Armenian languages;<br />
+- Perform additional duties as assigned and requested by the COP.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Bachelor's degree preferably  in Arts or Humanities or equivalent work experience;<br />
+- Excellent written and oral English and Armenian language skills;<br />
+- Proven creative writing skills;<br />
+- Strong knowledge of social media platforms to include Facebook, Instagram, Twitter and Youtube;<br />
+- Understanding of unique cultural history and heritage throughout regions in Armenia;<br />
+- Ability to work within a creative team.<br />
+<br />
+DESIRED QUALIFICATIONS:<br />
+- Video and photo editing skills;<br />
+- Working knowledge of Photoshop and Adobe Illustrator;<br />
+- Ability to take photos and videos and produce quality media material.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Based on previous salary history.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Please send your CV, letter of interest and references to: <a href="mailto:SmithsonianHR@gmail.com">SmithsonianHR@gmail.com</a> .
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;22 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;21 January 2017</p>
+  <p><b>ABOUT:</b>&nbsp;&nbsp;&quot;My Armenia&quot; is a collaborative initiative of the people of Armenia, USAID, and the Smithsonian Institution, which harnesses the power of research, documentation, and storytelling to sustain Armenian cultural heritage. Building on Smithsonian expertise in research and curation, the &quot;My Armenia&quot; Program engages with local partners in community-based research to document Armenian cultural heritage and support tourism in the country that sustainably promote the cultural and natural heritage of the country. Working with sustainable tourism experts from Solimar International, the &quot;My Armenia&quot; Program will increase and share knowledge about Armenian cultural heritage while identifying opportunities to enhance and increase community-based tourism to rural Armenia. &quot;My Armenia&quot; is funded by USAID and implemented by the Smithsonian Institution, in partnership with Solimar International. The overall objectives of the Program include: a) improve the tourism product offering of Armenia; b) improve service delivery along strategic tourism corridors and circuits in Armenia; c) improve cultural tourism sector workforce skills.</p>
+  <p>This announcement has been retrieved 1639 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

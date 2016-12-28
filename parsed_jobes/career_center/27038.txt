@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27038-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="120" height="36" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>HS International LLC</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Remote Support Center Engineer (Level 1)</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time</p>
+  <p><b>OPEN TO/ ELIGIBILITY CRITERIA:</b>&nbsp;&nbsp;All qualified candidates.</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The position of Remote Support Center Engineer (Level 1) is an entry-level technical position in Remote Support Center (RSC). The RSC is a group focused on resolving issues remotely for the Company's internal client base. The incumbent responds to, resolves and escalates incoming technical client issues and requests submitted by phone, e-mail or the Company's client portal.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Provide expert remote desktop support and basic server;<br />
+- Demonstrate strong customer service skills to provide phone support;<br />
+- Provide expert remote support for desktops, printers, mobile devices, and basic server administration;<br />
+- Follow task creation, work, closure and escalation procedures;<br />
+- Support team members with resolving client issues;<br />
+- Meet or exceed Key Performance Indicators (KPIs).
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Experience in working in a call center is preferred;<br />
+- High school diploma or equivalent;<br />
+- 1-2 years of experience in troubleshooting and providing remote support;<br />
+- BA, BS or similar degree in Computer Science/ Electronics or relevant experience;<br />
+- Availability of at least one of the following industry certifications is a strong plus:<br />
+a) Microsoft Technology Associate (MTA);<br />
+b) CompTIA A+;<br />
+c) MCTS Windows 7 or 1 Core MCSA Windows 8 Exam;<br />
+d) Google Apps Certified Administrator;<br />
+- More than 1 year of experience in troubleshooting the current versions of the Windows Desktop Operating Systems;<br />
+- More than 1 year of experience with Windows Server family OS, Active Directory and Exchange Server;<br />
+- Familiarity with the use of and troubleshooting the current version of the Mac OS (Desktop) is a plus;<br />
+- Working knowledge of mobile devices, laptops and desktops;<br />
+- Working knowledge of common desktop applications including the most current version of Microsoft Office;<br />
+- Working knowledge of current tape and common business-class online backup solutions;<br />
+- Working knowledge of client/ server printing;<br />
+- Strong interpersonal and oral communication skills; attention to details;<br />
+- Adeptness in reading, writing and interpreting technical documentation and procedure manuals;<br />
+- Ability to present ideas and solutions in the user-friendly language;<br />
+- Highly self-motivated personality;<br />
+- Proven analytical and problem-solving skills;<br />
+- Strong customer service orientation;<br />
+- Experience in working in a team-oriented and collaborative environment;<br />
+- Ability to type between 30 to 45 words per minute.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Highly competitive, depending on the previous experience and skills, plus benefit packages, including medical insurance, trainings, sport activities and a relaxation massage.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;All interested and qualified candidates are welcome to send their CVs to: <a href="mailto:yere.hr@helpsystems.com">yere.hr@helpsystems.com</a> . Please indicate the position title in the subject field of your message. Only shortlisted candidates will be interviewed.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;14 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;13 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;HelpSystems International (or HS International) is a USA based provider of systems and network management. For more information, please visit: <a target="_blank" href="http://www.helpsystems.com">www.helpsystems.com</a>.</p>
+  <p>This announcement has been retrieved 660 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

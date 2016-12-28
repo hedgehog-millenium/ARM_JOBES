@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27099-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="120" height="38" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>FINCA UCO CJSC</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Echmiadzin Branch Loan Officer</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;FINCA UCO CJSC is looking for a motivated candidate to occupy the position of Echmiadzin Branch Loan Officer. The role of the Echmiadzin Branch Loan Officer is to promote FINCA products and services, attract clients and monitor the quality of portfolio in accordance with FINCA policies and procedures.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Conduct marketing activities and introduce the Company's brand and services to potential clients;<br />
+- Attract clients by visiting their workplace;<br />
+- Visit clients' apartments in order to perform a business analysis and assess their financial and social status;<br />
+- Realize a checkup so as to analyze potential clients' risks;<br />
+- Analyze the checkup data using financial indices and clients' credit history;<br />
+- Assess clients' credit risks before the Credit Committee;<br />
+- Prepare and present the required statements and documents to the Credit Committee;<br />
+- Inform clients and guarantors about their rights and obligations;<br />
+- Ensure making timely and accurate repayments.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Higher education, preferably in Finance/ Economics/ Mathematics;<br />
+- Experience in sales and knowledge of sales tools will be an asset;<br />
+- Analytical thinking and problem solving skills;<br />
+- Advanced communication and negotiation skills;<br />
+- Organizational skills and an ability to conduct teamwork;<br />
+- High level of stress resistance;<br />
+- Computer literacy (MS Office);<br />
+- Excellent command of Armenian language; good command of Russian and English languages is preferred.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;If you meet the requirements above and are interested in the position announced, please send your detailed CV to: <a href="mailto:hr@finca.am">hr@finca.am</a>. Please, include the position title and your name and surname in the subject line of your message in the following format: &quot;Echmiadzin Branch Loan Officer &ndash; Name Surname&quot;.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;26 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;25 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;FINCA UCO CJSC is a universal credit organization, operating in Armenia for more than 15 years. With headquarters in Washington, DC, FINCA reaches over 1.8 million clients through its 21 subsidiaries in Africa, Eurasia, the Middle East and South Asia and Latin America. For more information, please visit: <a target="_blank" href="http://www.finca.am">www.finca.am</a>.</p>
+  <p>This announcement has been retrieved 202 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

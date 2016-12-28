@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27078-->
+  <p align="center"><font size="+1"><b>Deutsche Gesellschaft fuer Internationale Zusammenarbeit GIZ GmbH</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Pre-study on Creative Employment Opportunities in Armenia</p>
+  <p><b>COMPETITION TYPE:</b>&nbsp;&nbsp;Call for Proposals</p>
+  <p><b>INTENDED AUDIENCE:</b>&nbsp;&nbsp;Local organizations/ group of experts</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;20 January 2017</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;4 months</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>DETAIL DESCRIPTION:</b>&nbsp;&nbsp;The Pre-study on Creative Employment Opportunities in Armenia is implemented within the frames of &quot;Economic Integration of Syrian Refugees in Armenia&quot; Project. The objectives of the Pre-study will deal with three distinct areas:<br />
+- Mapping: the Pre-study will provide a deep inventory of global; best-available studies, business models, projects, approaches to skills assessment, networks and platform on the topic of creative employment (employment opportunities in the creative sector); suitable practices extracted for examination and implementation in Armenia;<br />
+- Economic Impact: provide measurable recommendations and criteria to support policy advice matched by creative employment opportunities in Armenia;<br />
+- Institutional benefits: the Pre-study will also address the preconditions for enhancing and adding efficiency to current and future services provided by the State Employment Agency for Syrian-Armenians and persons who fled areas of armed conflict.<br />
+The detailed Terms of reference for the assignment you can find attached below.
+  </p>
+  <p><b>REQUIREMENTS:</b><br>
+- A documented path of experience with at least 5 years in the fields of labor migration, inclusive growth, socioeconomic development action planning and implementation, public policy production, business development, entrepreneurship, employment support measures, creative industries, modeling and (if possible) long-term experience in the field of coaching unemployed (immigrants) to valuable and fulfilling employment, especially applicable to the international expert sought;<br />
+- Proven expertise in the area of conducting socioeconomic development research, target group identification and needs-analysis similar to the assignment, in Armenia and internationally (proven by references attached to the offer); an ability to access, establish and manage networks;<br />
+- Proficiency in English language, both written and spoken;<br />
+- Prior experience in dealing with Syrian Armenians in Armenia and their economic integration is a strong asset (proven by references attached to the offer);<br />
+- Proven ability to access to networks and individuals of the creative industry in Armenia, also the ones operating in informality; excellent understanding of and an ability to meet the demands and standards of an institution of international development cooperation;<br />
+- Excellent understanding of how to approach and communicate with private businesses/ start-ups, intermediaries, international organizations, government and state institutions; structured, efficient, transparent and professional way of cooperation and communication, especially in case of applying as a consultancy company; creative and innovate approaches for substantial and user-friendly publications and presentations.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;If you are interested in performing this work, please submit a bid to the GIZ Country office/ Reception in accordance with the GIZ bidding conditions by the deadline (date of receipt at GIZ).<br />
+<br />
+Labeling of Offer:<br />
+Your bid, comprising the technical offer and the price offer, must be clearly marked as such and submitted as a package containing two envelopes. The price offer must always be separate from the technical offer and placed in a separate envelope. Please also see the &quot;Application Procedures&quot; document attached below.<br />
+<br />
+Please address any commercial, technical and procedural questions at an early stage. Questions will be answered if they are received at the latest two working days before the closing of the tender. Questions have to be raised in writing to: <a href="mailto:angelika.sahakyan@giz.de">angelika.sahakyan@giz.de</a> (Mrs. Angelika Sahakyan).
+  <br>Please clearly mention in your application letter that you learned of this competition through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+  </p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;22 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;10 January 2017</p>
+  <p><b>ABOUT:</b>&nbsp;&nbsp;The Project &quot;Economic Integration of Syrian Refugees in Armenia&quot; tackles the challenges related to Syrian refugees with an Armenian ethnic background that immigrated to Armenia during the last years due to the civil war in Syria. In order to support the economic integration of refugees in Armenia, the Project supports the economic dialogue and coordination of relevant stakeholders, the integration in existing business networks as well as the access to and the adaptation of employment and qualification programs. It comprises of three main intervention fields: a) Public-Private-Dialogue and Participation; b) Integration in Value Chains and Business Networks; c) Vocational Qualification and Skills Development.</p>
+  <p><b>ATTACHMENTS:</b></p>
+  <ol>
+    <li>Application Procedures - <a href="ccattachment.php?annid=27078&amp;seq=0">Application Procedures.zip</a> (172K)</li>
+    <li>Terms of Reference - <a href="ccattachment.php?annid=27078&amp;seq=1">Terms of Reference.zip</a> (336K)</li>
+  </ol>
+  <p>This announcement has been retrieved 297 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

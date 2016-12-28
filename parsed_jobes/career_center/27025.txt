@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27025-->
+  <p align="center"><font size="+1"><b>Optym Armenia LLC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Database Developer</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;As a Database Developer, the incumbent will be working in a team on projects designed for airlines, railway and trucking companies such as United and SouthWest Airlines, FedEx, CSX Transportation and Amadeus.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Develop database functions, scripts, stored procedures and triggers to support application development;<br />
+- Write optimized T-SQL queries to meet client expectations;<br />
+- Develop proof of concepts for technical evaluation and early customer feedback;<br />
+- Participate in SQL server design, data modeling, development, debugging and optimization;<br />
+- Prepare design specifications and functional documentations for assigned database projects;<br />
+- Evaluate the existing database and recommend improvements for performance efficiency;<br />
+- Communicate on-site POC/ client on a daily basis to provide updates as well as elicit new requirements;<br />
+- Perform troubleshooting steps, if any, in the phase of implementation, customization and configuration;<br />
+- Develop tests and perform functional testing for created database objects.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- University degree in Computer Science, IT or a related field;<br />
+- 2-4 years of experience in the related field;<br />
+- Comprehensive understanding of SQL Server 2016/ 2014 design and development;<br />
+- Excellent problem-solving and analytical skills;<br />
+- Ability to work well individually or in a group setting, as well as under pressure and time constraints.<br />
+<br />
+DESIRED QUALIFICATIONS:<br />
+- Working knowledge of C# and .NET;<br />
+- Experience with SSAS: Multidimensional database, MDX, SSIS and SSRS;<br />
+- Experience in applying database technology in BI environment;<br />
+- Ability to interact with clients;<br />
+- Experience with Agile methodologies;<br />
+- Knowledge of other in-memory database technologies.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Highly competitive, plus a performance bonus, medical insurance, sports and training benefits.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Qualified candidates should send their resumes to: <a href="mailto:jobs.armenia@optym.com">jobs.armenia@optym.com</a> . Please mention the job title in the subject line of the email.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;13 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;12 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Optym Armenia is a subsidiary of Optym with headquarters in Gainesville, Florida. Optym is a provider of optimization and decision automation solutions to transportation and logistics companies in the US and abroad.</p>
+  <p>This announcement has been retrieved 749 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

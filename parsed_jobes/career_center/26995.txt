@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 26995-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="80" height="80" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>Alpha Food Service LLC</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Graphic Designer</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time</p>
+  <p><b>OPEN TO/ ELIGIBILITY CRITERIA:</b>&nbsp;&nbsp;All qualified candidates.</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term, with 3 months of probation period.</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;N/A</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Think creatively to produce new ideas and concepts and develop interactive design;<br />
+- Demonstrate illustrative skills and create brand new concepts for promotional campaigns, as well as prepare advertising materials for printing (catalogues, flyers, business cards, leaflets, rollup banners, etc.);<br />
+- Use digital illustration, photo-editing software, and layout software to create designs;<br />
+- Gather information and materials to prepare and accomplish the work;<br />
+- Create visual elements such as original images and illustrations that help deliver the desired message;<br />
+- Present finalized ideas and design concepts to the Marketing and Sales Teams;<br />
+- Keep up-to-date with emerging technologies;<br />
+- Proofread to produce accurate and high-quality work;<br />
+- Contribute to the team effort by accomplishing related tasks as needed;<br />
+- Perform other duties as assigned.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Solid understanding of design principles; high proficiency in all design aspects;<br />
+- Ability to effectively create brand identities and apply to various distributed entities (companies, products and product features);<br />
+- Experience in working with international brands;<br />
+- Ability to organize lots of complex information in a way that is simple, user-friendly, logical and clear;<br />
+- Responsible and flexible personality;<br />
+- Advanced computer skills: up-to-date with industry leading software and technologies (Illustrator, Photoshop, InDesign and CorelDRAW);<br />
+- Knowledge of Microsoft Office suite; <br />
+- Creative thinking; drawing skills;<br />
+- Professionalism regarding time, costs and deadlines; ability to work under pressure;<br />
+- Ability to work in a professional and performance-based environment;<br />
+- Goal-oriented team player;<br />
+- Strong organizational skills; a detail-oriented personality;<br />
+- Strategical thinking for branding;<br />
+- Skills in elaborating designs/ layouts for a site; knowledge of Internet tools and resources;<br />
+- Fluency in Armenian, Russian and English languages.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Competitive, based on skills and experience.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;All interested and qualified candidates meeting the requirements above are encouraged to send their CVs to: <a href="mailto:hr@foodservice.am">hr@foodservice.am</a> . Please clearly mention the position title &quot;Graphic Designer&quot; in the subject line of your message. Shortlisted candidates will be contacted for the interview.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;07 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;06 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Founded in 2005, Alpha Food Service LLC is a leading supplier of premium alcoholic beverages, foodstuff and food raw materials for hotels, restaurants, cafes (HoReCa), pastries and bakeries in Armenia and Nagorno Karabakh Republic.</p>
+  <p>This announcement has been retrieved 664 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

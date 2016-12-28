@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27097-->
+  <p align="center"><font size="+1"><b>Career Center NGO</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;English Language Courses</p>
+  <p><b>OPEN TO/ ELIGIBILITY CRITERIA:</b>&nbsp;&nbsp;Everyone</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>DETAIL DESCRIPTION:</b>&nbsp;&nbsp;Whether you're just getting started, already know English or want to improve your skills, to prepare for an exam or test, you can find the right course here. Our instructors will help students to learn English with most innovative methods.<br />
+<br />
+<br />
+Career Center announces below mentioned English Language Courses:<br />
+<br />
+GENERAL ENGLISH COURSE (consisting of 6 levels with the duration of 3 months each):<br />
+- Beginner;<br />
+- Elementary;<br />
+- Pre-Intermediate;<br />
+- Intermediate;<br />
+- Upper-Intermediate;<br />
+- Advanced (Final).<br />
+<br />
+SPECIALIZED COURSES (consisting of 3 levels with the duration of 3 months each):<br />
+- Business English - Pre-Intermediate<br />
+- Business English - Intermediate<br />
+- Business English - Upper-Intermediate (Final).<br />
+<br />
+Business English Courses also cover Special Business Writing and Communication Classes.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;All interested candidates should visit Career Center office and register as a member on Mondays - Fridays, from 9:00 - 17:30. <br />
+Monthly membership fee for all English language courses is 28,000 AMD. Please note that the complete fee of any level should be paid at the time of starting the classes.<br />
+Registered students will pass a written placement test accompanied with oral interview and be placed with a relevant group.<br />
+Registrations are not accepted by e-mail or telephone. For additional inquiries on registration or courses please contact us using below contact information.
+  <br>Please clearly mention in your application letter that you learned of this training opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+  </p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;Rolling (Groups start their classes as soon as there are 4-6 people).</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;<br />
+Career Center NGO<br />
+Phone/Fax: +(374 10) 560328<br />
+E-mail: <a href="mailto:mailbox@careercenter.am">mailbox@careercenter.am</a> <br />
+Web site: <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a> <br />
+Address: 25 Abovyan Str., (next to the School named after Pushkin)<br />
+Yerevan, Armenia
+  </p>
+  <p><b>ABOUT:</b>&nbsp;&nbsp;<br />
+COURSES<br />
+- Newly opened city central location;<br />
+- Adequately furnished Dolby Digital classrooms with DVD, VCR and TV;<br />
+- Specially designed ergonomic desks/ chairs;<br />
+- 4-6 (max) people in a group ensuring efficiency of the courses;<br />
+- Only highly qualified and certified language instructors selected by Career Center will teach interested individuals with the latest methods using the most decent study materials for each particular course.<br />
+- Our classes are conducted in English language only.<br />
+- Classes will take place in Career Center office, in a furnished and warm room.<br />
+- For the whole duration of their studies students will be provided with necessary books and materials, so they don't have to purchase or photocopy any study materials. There are no additional charges for using those materials.<br />
+- Sessions will be held 3 times a week and each of those will last 1.5 hours.<br />
+- Classes are on from 09:00 till 22:00, Monday-Saturdays. The attendance hours are assigned to each group according to their designated time schedule.<br />
+- All students passing the final level course will get relevant certificates upon completion of their course. Certificates will match to the level of individual's knowledge determined by the final exam results. <br />
+Attention: Those who fail to pass the final level exam test will not get any certificates!
+  </p>
+  <p><b>ADDITIONAL NOTES:</b>&nbsp;&nbsp;When visiting our office for registration, please plan to spend about 30 minutes to take the language proficiency test.</p>
+  <p><b>ATTACHMENTS:</b></p>
+  <ol>
+    <li>English Language Courses in Armenian - <a href="ccattachment.php?annid=27097&amp;seq=0">English Courses.zip</a> (4K)</li>
+  </ol>
+  <p>This announcement has been retrieved 79 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

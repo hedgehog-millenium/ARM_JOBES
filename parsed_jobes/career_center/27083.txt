@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27083-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="120" height="58" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>Ucom LLC</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;IT Reporting System Junior Engineer</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Permanent</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The incumbent will develop and support reports.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Design, develop and maintain reports and analytical tools;<br />
+- Develop and support printing forms and contracts;<br />
+- Analyze internal customer requirements and, based on findings, design, test and optimize all newly requested reports and printing forms;<br />
+- Use existing and learn new tools and techniques to develop reports;<br />
+- Document, track and escalate issues as appropriate;<br />
+- Perform other duties assigned by the direct supervisor;<br />
+- Report to the direct supervisor.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- BS in Information Systems, Computer Science, Mathematics or other related field;<br />
+- Understanding of and preferably experience in IT and telecom domains;<br />
+- Good team player;<br />
+- Analytical skills;<br />
+- Ability to work under pressure with tight deadlines;<br />
+- Knowledge of MS Excel scripting, particularly VBA and Macros;<br />
+- Knowledge of Oracle DB;<br />
+- Excellent verbal and written communication skills;<br />
+- Technical background and an understanding of the telecom industry.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Candidates who meet the above mentioned requirements and are confident that their background and experience qualify them for the position, are asked to send their resumes to: <a href="mailto:career@ucom.am">career@ucom.am</a> mentioning the title of the announced position &quot;IT Reporting System Junior Engineer&quot; in the subject line.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;22 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;20 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Ucom LLC is a unified communications operator in Armenia, which offers symmetrical and mobile broadband Internet and other services.</p>
+  <p>This announcement has been retrieved 569 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

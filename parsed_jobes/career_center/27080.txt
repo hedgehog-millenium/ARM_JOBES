@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27080-->
+  <p align="center"><font size="+1"><b>Anelik Bank CJSC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Analyst, Risk Management Department</p>
+  <p><b>OPEN TO/ ELIGIBILITY CRITERIA:</b>&nbsp;&nbsp;All qualified candidates.</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;N/A</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Perform analysis of actual performance of loan portfolios;<br />
+- Perform calculation of profitability of the loan portfolio;<br />
+- Perform predictions on future performance of the loan portfolio;<br />
+- Perform vintage analysis, migration matrices, roll rates, etc.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Higher education in Economics;<br />
+- At least 1 year of work experience;<br />
+- Excellent knowledge of Armenian banking legislation;<br />
+- Excellent knowledge of banking law;<br />
+- Advanced computer skills (MS Office);<br />
+- Communication and team work skills;<br />
+- Negotiating and problem-solving skills.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;All interested candidates who meet the requirements above and are confident that their background and experience qualifies them for this position, should send a detailed CV both in English and Armenian languages to: <a href="mailto:hr@anelik.am">hr@anelik.am</a> mentioning the position they are applying for in the subject line of the e-mail. Only short-listed candidates will be contacted.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;21 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;20 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;&quot;Anelik Bank&quot; CJSC is a universal commercial bank, which has an active participation in the social-economical area of the country since August 1990.</p>
+  <p>This announcement has been retrieved 1088 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

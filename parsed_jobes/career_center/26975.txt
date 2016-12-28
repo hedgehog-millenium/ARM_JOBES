@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 26975-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="120" height="35" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>FXTM Armenia</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Arabic Speaking Accounts Service Manager</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time (5 days in a week, 9 hours per day including lunch), shifts may apply.</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Permanent, with 3 months of probation period.</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;FXTM Armenia is looking for a candidate to fill the position of Arabic Speaking Accounts Service Manager. The ideal candidate can expect a continuous career development and the ability to make an impact from the start.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Handle new client leads on a daily basis;<br />
+- Maintain contacts with clients to ensure high levels of customer satisfaction;<br />
+- Follow up on contacts for future business prospects;<br />
+- Build and maintain a client portfolio;<br />
+- Assist customers who wish to open or are managing a trading account;<br />
+- Actively follow up on queries and provide feedback to customers in a timely manner;<br />
+- Effectively handle the existing client base (general customer service assistance) and deal with issues and complaints;<br />
+- Follow up contacts with partners, updating CRM with accurate information;<br />
+- Knowledge of the Company's products and services;<br />
+- Inform clients of any new products and promotions that the Company is offering;<br />
+- Meet the Company core values on a daily basis inside and outside the office.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Absolute fluency in Arabic and English languages, both written and oral;<br />
+- University/ college degree; degree in Economics/ Accounting/ Finance or in a related field is an advantage;<br />
+- 1-2 years of work experience in a sales environment; experienece preferably in the financial sector is desirable;<br />
+- Excellent communication skills (over the phone and in writing);<br />
+- Good numerical/ mathematical abilities;<br />
+- Excellent oral and presentation skills;<br />
+- Excellent networking skills;<br />
+- Very good organizational and administration skills;<br />
+- Ability to work, interact and communicate with other team members and other departments;<br />
+- Basic knowledge of technical and fundamental analysis is desirable;<br />
+- Ability to reach monthly targets.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Highly competitive, plus remuneration package, including a private medical insurance.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;To apply for this position, please send your CV in English language to: <a href="mailto:careers@fxtm.com">careers@fxtm.com</a> , stating the position title you are applying for in the subject line of the email. Early applications are encouraged. All applications will be treated confidentially. Only shortlisted candidates will be contacted for the interview.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;06 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;05 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;FXTM Armenia is represented by FTG Consultants LLC, which is subsidiary of FXTM. FXTM is an international online forex broker. The Company serves its clients from over 180 countries in Europe, Africa and Asia by offering trading instruments, platforms and accounts, depending on needs of the customers. For more information about the Company, please visit: <a target="_blank" href="http://www.forextime.com">www.forextime.com</a>.</p>
+  <p>This announcement has been retrieved 546 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

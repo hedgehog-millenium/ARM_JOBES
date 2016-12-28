@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27032-->
+  <p align="center"><font size="+1"><b>Mavaexim LLC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;PR Manager</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;N/A</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Develop a marketing communications plan including strategy, goals, budget and tactics;<br />
+- Develop media relations strategy, seeking high-level placements in print, broadcast and online media;<br />
+- Coordinate all public relations activities;<br />
+- Direct the Social Media Team to engage audiences across traditional and new media;<br />
+- Leverage existing media relationships and cultivate new contacts within business and industry media;<br />
+- Manage media inquiries and interview requests;<br />
+- Create content for press releases, byline articles and keynote presentations;<br />
+- Monitor, analyze and communicate PR results on a quarterly basis;<br />
+- Evaluate opportunities for partnerships, sponsorships and advertising on an on-going basis;<br />
+- Build relationships with thought leaders to grow industry awareness;<br />
+- Maintain a keen understanding of industry trends affecting clients and make appropriate recommendations regarding the communication strategy surrounding them.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Ability to maintain strong relationships with both local and national business and industry media outlets;<br />
+- Advanced knowledge of Russian and English languages;<br />
+- Experience in acting as a company spokesperson; an ability to be comfortable and skilled in both broadcast and print media interviews;<br />
+- Exceptional writing and editing skills;<br />
+- Event planning experience;<br />
+- BA/ MA degree in Marketing, Advertising, Communications or a related discipline.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;High</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;All interested candidates are kindly requested to submit their CVs to: <a href="mailto:m.arakelyan@mail.ru">m.arakelyan@mail.ru</a> .
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;13 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;30 December 2016</p>
+  <p>This announcement has been retrieved 1322 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

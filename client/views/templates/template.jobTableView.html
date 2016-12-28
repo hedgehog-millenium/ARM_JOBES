@@ -3,7 +3,7 @@
 </div>
 
 <div class="container">
-    <div class="row">
+    <div class="row info-row">
         <div class="counts pull-right">
             <label for="" class="label label-success">Parsed: {{parsedJobsCount}}</label>            
             <label for="" class="label label-danger">Not Passed: {{jobsMetaData?.length - parsedJobsCount}}</label>
@@ -11,6 +11,10 @@
         </div>
     </div>
     <hr>
+    <div class="row action-row">        
+            <div class="col-md-6 pull-right" style="padding:0;" *ngIf="convertedJobsCount<jobsMetaData?.length"><div class="btn btn-sm btn-warning btn-block border-rad-0">Convert All</div></div>                              
+            <div class="col-md-6 pull-right" style="padding:0;" *ngIf="parsedJobsCount<jobsMetaData?.length"><div class="btn btn-sm btn-success btn-block border-rad-0">Parse All</div></div>
+    </div>    
     <div class="row table-row">
         <table class="table">
             <tr class="text-center text-danger">
@@ -19,7 +23,7 @@
                 <th>Source</th>
                 <th>Parsed</th>
                 <th>Converted</th>   
-                <th>test</th>             
+                <!--<th>test</th>             -->
                 <th></th>
             </tr>
             <tr *ngFor="#jobMeta of jobsMetaData;#i=index" >
@@ -34,9 +38,9 @@
                     <img src="app/src/imgs/checkbox-icon.png" [hidden]="!jobMeta.isConverted" class="box-25-25" alt="">
                     <img src="app/src/imgs/sign-error-icon.png" [hidden]="jobMeta.isConverted" class="box-25-25" alt="">
                 </td>
-                <td class="text-center" style="color:green">
+                <!--<td class="text-center" style="color:green">
                     <i class="fa fa-2x fa-check-square-o bg-sucess" aria-hidden="true"></i>
-                </td>
+                </td>-->
                 <td class="col-actions no-padding" width="50px">
                     <!--<button class="btn btn-success btn-block btn-action">parse</button>-->
                     <button class="btn btn-success btn-sm btn-action pull-left" *ngIf="!jobMeta.parseInfo.isCompleted">

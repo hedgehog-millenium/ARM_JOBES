@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 26956-->
+  <p align="center"><font size="+1"><b>D&amp;V Travel LLC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Travel Consultant</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;D&amp;V Travel is seeking candidates for the position of a Travel Consultant. The successful candidate will work at the Company's Yerevan office and later may be given an opportunity to work in its Czech branch.</p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- At least 1 year of experience working in a travel agency;<br />
+- Good knowledge of popular tourist destinations;<br />
+- Excellent communication skills;<br />
+- Fluency in Armenian, Russian and English languages;<br />
+- Excellent written and verbal communication skills.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;150,000 AMD (Net)</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Interested candidates are invited to e-mail their CVs to: <a href="mailto:yeritsyan.vahe@gmail.com">yeritsyan.vahe@gmail.com</a> , mentioning &quot;Travel Consultant&quot; in subject line of the email.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;06 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;05 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;D&amp;V Travel agency was established in 2005. Today it has offices in Armenia and Czech Republic.</p>
+  <p>This announcement has been retrieved 1133 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

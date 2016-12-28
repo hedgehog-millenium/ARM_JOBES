@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27067-->
+  <p align="center"><font size="+1"><b>Bio Stem CJSC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Medical Representative</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The Medical Representative will be responsible for delivering and providing correct information about all services which are offered by Bio Stem to various health structures in Armenia. He/ she will be expected to maintain continual and professional contact with the medical staff of hospitals and polyclinics to ensure proper implementation of the mentoring program and be ready to work flexibly as the role is likely to involve shifts.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Gain a comprehensive knowledge of Bio Stem services and the Company's structure in order to be prepared to collaborate with clients and help them in understanding the services of cryobank (collection of the cord blood, tissue, testing and cryopreservation, etc.);<br />
+- Effectively question and listen to clients to be able to fully understand their needs;<br />
+- Accurately and promptly resolve clients's queries and requests;<br />
+- Responsible for training and mentoring;<br />
+- Work closely with the medical staff of  women's consultative departments of polyclinics and maternity hospitals by visiting them regularly to ensure proper handover and sustainability of the activities; share professional knowledge, identify, organize and facilitate mentoring session or training according to clients' needs;<br />
+- Responsible for meetings and reporting;<br />
+- Organize presentations and conferences; participate in medical team meetings and any other appropriate events;<br />
+- Act proactively in attracting new clients;<br />
+- Effectively collaborate with team members.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Recognized medical doctor degree; a medical degree in Gynecology is desirable;<br />
+- Well-developed communication, organizational and training skills;<br />
+- Capability to demonstrate confidence, drive and inner energy;<br />
+- Excellent knowledge of Armenian and Russian languages;<br />
+- Good knowledge of English language, both spoken and written;<br />
+- Work experience is desirable;<br />
+- Essential computer literacy skills.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;All interested and qualified candidates, who want to apply for this job position, are encouraged to send their CVs to: <a href="mailto:info@biostem.am">info@biostem.am</a> .
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;22 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;21 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Bio Stem CJSC is the only Armenian cryobank which provides stem cells preservation. For more information about the Company, please visit: <a target="_blank" href="http://www.biostem.am">www.biostem.am</a>.</p>
+  <p>This announcement has been retrieved 437 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

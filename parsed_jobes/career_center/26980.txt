@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 26980-->
+  <p align="center"><font size="+1"><b>Tumo Center for Creative Technologies</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Learning Coach in Dilijan</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Dilijan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The Tumo Center for Creative Technologies is seeking highly motivated, dynamic and tech-savvy professionals who are comfortable experimenting with new technologies to start a career as Learning Coaches in Dilijan Tumo Center for Creative Technologies.</p>
+  <p><b>JOB RESPONSIBILITIES:</b>&nbsp;&nbsp;Based on the established coaching model the Learning Coaches in Dilijan will work directly with Tumo students to:<br />
+- Support their learning process;<br />
+- Assist them in the design of their personal learning plans;<br />
+- Offer guidance toward the completion of learning activities;<br />
+- Provide encouragement and motivation toward harnessing the potential of technologies and self-learning;<br />
+- Assist in workshop and project coordination in various technology related areas;<br />
+- Track student attendance and provide feedback regarding student development; take measures to engage and provide technical inspiration to reluctant students;<br />
+- Convey a positive and professional image to the students;<br />
+- Promote learning in a collaborative and energized mode;<br />
+- Provide feedback to Tumo's Content Evaluators in the development of new learning activities and the fine-tuning of existing activities.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Highly dynamic and positive personality; excellent people skills and facility in working with teenagers;<br />
+- Familiarity with and ability to learn technical concepts and tools relevant to at least one of the Tumo focus areas of animation, game development, web development and digital media;<br />
+- Multifaceted aptitudes in technical areas such as graphic design or programming; artistic skills such as drawing or writing;<br />
+- Willingness to develop higher order skills such as creativity, analytical thinking and initiative taking, as well as organizational capabilities such as teamwork, communication and research skills;<br />
+- Experience in the web and in the use of online resources and tools is a plus;<br />
+- Undergraduate or graduate education in a recognized university;<br />
+- Excellent communication skills, including written communication, personal interaction, and public presentation in the Armenian language; knowledge of English language is a plus.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Competitive, plus a compensation package which will be commensurate with qualifications and experience.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Qualified candidates may submit their CVs to: <a href="mailto:jobs@tumo.org">jobs@tumo.org</a> . Only those candidates that are short-listed for interviews will be notified. Please kindly indicate the position title &quot;Learning Coach in Dilijan&quot; in the subject line of your message when applying by email.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;07 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;30 December 2016</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Tumo is an after-school learning center where teenagers acquire digital media skills free of charge. Thousands of students attend Tumo on a regular basis and participate in its innovative, self-paced program. Its educational framework is based on a proprietary platform which promotes learning through interactive game-like levels, exposing users to increasingly challenging activities. In addition to hands-on workshops, Tumo's educational program includes a large set of independent learning activities that each of the Center's thousands of students assemble into personal learning plans in the areas of animation, game development, web development and filmmaking. To learn more about the Tumo Center for Creative Technologies, please visit: <a target="_blank" href="http://www.tumo.org">www.tumo.org</a>.</p>
+  <p>This announcement has been retrieved 1001 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

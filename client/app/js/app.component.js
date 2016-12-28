@@ -30,7 +30,8 @@ System.register(['angular2/core', './jobs.servise'], function(exports_1, context
                     console.log('AppComponent constructor is running');
                     this.jobService.getJobLinks().subscribe(function (jobs) {
                         _this.jobsMetaData = jobs;
-                        _this.parsedJobsCount = _this.jobsMetaData.filter(function (v) { return v.isParsed; }).length;
+                        _this.parsedJobsCount = _this.jobsMetaData.filter(function (v) { return v.parseInfo.isCompleted; }).length;
+                        _this.convertedJobsCount = _this.jobsMetaData.filter(function (v) { return v.isConverted; }).length;
                     });
                 }
                 AppComponent = __decorate([

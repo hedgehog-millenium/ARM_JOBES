@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27094-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="120" height="34" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>Converse Bank CJSC</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Leading Specialist, Legal Department</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;Converse Bank is looking for a motivated and experienced specialist to join the Legal Department and ensure effective legal service of the Bank including lawsuits, administrative and lending related proceedings.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Draft lawsuits, claims, demands, notifications, agreements and other legal documents;<br />
+- Represent the Bank in civil, administrative, bankruptcy, criminal proceedings in the courts of RA and other state bodies;<br />
+- Examine the loan documentation and give a legal opinion;<br />
+- Provide advice on the legal matters of banking activities;<br />
+- Maintain judicial files and the Legal Department correspondence, as well as provide reports.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- University degree in Law;<br />
+- Excellent knowledge of banking, civil, bankruptcy and criminal procedure legislation;<br />
+- At least 2 years of professional work experience in financial and banking sectors;<br />
+- Fluency in Armenian language; good knowledge of English and Russian languages;<br />
+- Oral and written communications skills;<br />
+- Ability to work under pressure;<br />
+- Attention to details;<br />
+- Analytical thinking skills; an ability to orient in difficult situations.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Interested candidates who meet the mentioned requirements are asked to fill in the Converse Bank Application Form attached below and send it to: <a href="mailto:job@conversebank.am">job@conversebank.am</a> accompanied with a cover letter. The subject field of the message should be filled in as follows: &quot;Leading Specialist, Legal Department&quot;. Only appropriately filled in applications will be considered. Only short-listed candidates will be contacted.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;23 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;22 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Converse Bank CJSC is a 20-year-old bank, which offers services to individual and legal entities. For further information please visit: <a target="_blank" href="http://conversebank.am/">http://conversebank.am/</a> .</p>
+  <p><b>ATTACHMENTS:</b></p>
+  <ol>
+    <li>Application Form - <a href="ccattachment.php?annid=27094&amp;seq=0">Converse Bank Application Form.zip</a> (28K)</li>
+  </ol>
+  <p>This announcement has been retrieved 629 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

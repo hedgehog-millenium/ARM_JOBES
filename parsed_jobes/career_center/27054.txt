@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27054-->
+  <p align="center"><font size="+1"><b>World Wide Fund for Nature Armenian Branch (WWF-Armenia)</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Fundraising and Partnerships Manager</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The Fundraising and Partnerships Manager is responsible for developing WWF's fundraising in Armenia. Working with the Regional Fundraising and Partnerships Manager and  the Country Director of WWF-Armenia, the Fundraising and Partnerships Manager leads and develops relationships with public and private sector funders in Armenia. The Organization is looking for a candidate with the capability and experience to develop and implement fundraising strategies in Armenia. With the personal credibility and attributes to develop and manage relationships with senior government officials and corporate and NGO Executives, the successful candidate will also have experience and skills in developing and presenting proposals for significant and complex projects. The position requires at least 3 years of experience of fundraising or high value sales to major private or public sector organisations. The work venues vary from office, to social events, to presentations, to large and small meetings and interactions with individuals, involving a variety of environments. Evening/ weekend work is often required. While limited physical exertion is involved, considerable mental and emotional pressures exist.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Lead and develop fundraising strategies for WWF in Armenia;<br />
+- Identify, cultivate, solicit and steward donations and grants from corporations, foundations, institutional donors (including governments and multilateral donors) and from private individuals;<br />
+- Establish long-term partnerships and strengthen existing relationships with the donors that will result in funding for the immediate and long-term goals of the WWF;<br />
+- Report to the Country Director in Armenia;<br />
+- Work under the guidance of the Regional Fundraising and Partnerships Manager and the Country Director of WWF-Armenia;<br />
+- Work closely with the Senior Managers of WWF-Armenia and WWF CauPO to develop and manage fundraising approaches and solicitations;<br />
+- Research potential donor opportunities in Armenia and for the South Caucasus region covering corporates, foundations, government and international/ multilateral donors and high net worth private individuals;<br />
+- Design, implement and manage a comprehensive proactive fundraising plan focused on expanding and enhancing donor relationships by directing and coordinating activities to secure significant financial support from corporations, national and international government and multilateral funders, NGOs and foundations and high net worth private individuals;<br />
+- Work closely with WWF-Armenia and WWF CauPO leadership and programme staff to create opportunities to build awareness among corporates, foundations, government and multilateral funders in order to build and significantly expand positive fundraising relationships;<br />
+- Advise leadership and programme staff on donor areas of interest and requirements in the development and presentation of proposals;<br />
+- Develop proposals for donor prospects; work with WWF-Armenia and WWF CauPO leadership and programme staff to ensure that high quality proposals are developed that meet organisational strategic goals;<br />
+- Maintain a rigorous schedule of contacts with corporate, foundation and institutional donor  representatives, creating management plans related to them, compelling presentations and comprehensive fundraising proposals;<br />
+- Monitor proposal deadlines, prepare and edit proposals, and manage proposal submissions;<br />
+- Maintain high quality stewardship process for active prospects and donors; ensure that stewardship and reporting requirements are met to sustain successful partnerships;<br />
+- Perform any other tasks as reasonably requested by the Country Director in Armenia.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Knowledge of cultivation, solicitation, and stewardship strategies and techniques;<br />
+- Demonstrated ability in proposal writing at appropriate levels for varied proposal development including for large and complex programmes;<br />
+- Demonstrated knowledge of methods, practices and procedures for obtaining information about the strategies of corporations and/ or government organisations and foundations;<br />
+- Self-motivation and discipline to regularly set and achieve work goals;<br />
+- Excellent organizational, interpersonal and networking skills with large groups as well as with individuals;<br />
+- Excellent presentation skills in formal and informal environments;<br />
+- Ability to maintain a high level of poise and professionalism in all circumstances;<br />
+- Ability to initiate and build relationships with senior individuals from government, NGOs and corporations;<br />
+- Demonstrated ability to take primary responsibility for diverse number of projects and to complete them in a timely manner with a limited supervision;<br />
+- Demonstrated record of success in generating significant donations or sales from corporations and/ or governments and NGOs;<br />
+- Fluency in English language;<br />
+- Bachelor's degree, and at least 3 years of demonstrated successful fundraising or high value sales experience;<br />
+- Experience in stewardship/ account management of large corporate accounts, government departments, foundations or private individual donors;<br />
+- High level of independence in accomplishing the responsibilities of the position;<br />
+- Self-directed personality with the ability to work with minimal supervision;<br />
+- High degree of professionalism and an ability to interact with a variety of entities and individuals to significantly increase the visibility of WWF-Armenia;<br />
+- Ability to convey appropriate messages and represent WWF to the donor community to encourage and facilitate interest in and support of WWF's mission and goals;<br />
+- Ability to have a significant effect on WWF-Armenia's ability to engage current and future donors in a meaningful way and be responsible for enhancing WWF's ability to identify, establish, create and maintain strong relationships with donors;<br />
+- Ability to travel and entertain donors and potential donors throughout the country and elsewhere in the region; a healthy life style and physical mobility;<br />
+- Ability to coordinate a variety of tasks simultaneously and handle tension and stress in a positive manner.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;If you are interested in joining the global WWF family, send your CV and a cover letter (in English language) to: <a href="mailto:atsintsadze@wwfcaucasus.org">atsintsadze@wwfcaucasus.org</a> and <a href="mailto:tshaboyan@wwfcaucasus.org">tshaboyan@wwfcaucasus.org</a> , indicating position name in the subject line of the email. Only short-listed candidates will be contacted for a  phone interview. Selected candidates will be contacted for a face-to-face interview.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;16 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;08 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;WWF is an independent conservation organisation working in over 100 countries. For more than half a century, WWF has been working to protect the world's species and natural places, pushing for a more sustainable world. By working with others &shy;local communities, governments, business, other NGO's &shy; the Organization is defining new ways of working that will make a difference at a scale that matters to help redefine humanity's relationship with the planet. WWF Caucasus Programme Office (WWF CauPO) is an international conservation organisation in the South Caucasus. WWF has been working to protect nature in Caucasus for a quarter of a century. In partnership with the governments of the region and international donors it has succeeded in strengthening and expanding the network of protected areas in Armenia, Georgia and Azerbaijan secured the conservation of threatened animal species such as the Caucasian leopard and Goitered gazelle.</p>
+  <p>This announcement has been retrieved 2128 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

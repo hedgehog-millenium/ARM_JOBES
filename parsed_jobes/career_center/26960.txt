@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 26960-->
+  <p align="center"><font size="+1"><b>GoodCredit UCO CJSC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;.NET Developer</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time, with 3 months of probation period.</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;GoodCredit UCO is looking for a hardworking and motivated team worker to join the Company. The candidate will perform programming and develop client server applications.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Participate in all the steps of the software project, from design to integration;<br />
+- Read, understand and modify the existing code;<br />
+- Develop applications in accordance with given specifications;<br />
+- Be flexible in learning new technologies.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- BS/ MS in a relevant field;<br />
+- At least 2 years of work experience in .NET framework with C# and VB.NET;<br />
+- At least 2 years of work experience in SQL database design and programming;<br />
+- Strong knowledge of ASP.NET;<br />
+- Strong knowledge of Trasact-SQL;<br />
+- Strong knowledge of SQL, ADO.NET, JavaScript, AngularJS and ReactJS;<br />
+- Proficiency in OOP/ OOD;<br />
+- Ability to work within a team;<br />
+- Strong problem solving skills;<br />
+- Good communication skills;<br />
+- Knowledge of AS-Bank 4.0 will be a plus.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Interested applicants should submit their CVs to: <a href="mailto:info@goodcredit.am">info@goodcredit.am</a> . Please, put &quot;.NET Developer&quot; in the subject line of your e-mail. Only short-listed candidates will be invited for interviews.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;08 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;07 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;GoodCredit UCO CJSC, fully owned by &quot;4finance Holding&quot; S.A., is a consumer lending company in Armenia. Fore more information, please visit: <a target="_blank" href="http://www.kimbi.goodcredit.am">www.kimbi.goodcredit.am</a>.</p>
+  <p>This announcement has been retrieved 796 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

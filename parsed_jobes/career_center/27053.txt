@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27053-->
+  <p align="center"><font size="+1"><b>Seven Smarts LLC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Marketing Manager</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;Seven Smarts LLC is looking for an experienced and highly energetic Marketing Manager who will work for the Company's startup application called Localz. He/ she will be responsible for contributing to the Company's team by enthusiastic and creative work.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Manage general administrative and business processes related to marketing and PR;<br />
+- Create and implement marketing strategies for the Company;<br />
+- Organize market researches;<br />
+- Work on the planning and administration of the marketing operations budget;<br />
+- Manage activities related to website, social networks, etc.;<br />
+- Prepare and execute advertising campaigns for acquiring new clients as well as increasing customer loyalty;<br />
+- Create analytical reports and presentations.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Bachelor's degree in Marketing;<br />
+- Master's degree in a relevant field would be a huge advantage;<br />
+- Solid experience in a marketing field;<br />
+- Experience in online advertisement;<br />
+- Experience in IT or tourism will be an asset;<br />
+- Strong interpersonal and communication skills;<br />
+- Excellent written and verbal skills in Armenian, English and Russian languages;<br />
+- Advanced computer skills;<br />
+- Ability to work under pressure.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Compensation is competitive and will depend on the experience and skills.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;To apply, please send your CVs to: <a href="mailto:jobs@7smarts.com">jobs@7smarts.com</a> . Please, clearly mention in the subject line for what position you are applying. Only shortlisted candidates will be invited for an interview.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;16 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;15 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Seven Smarts is an IT company, operating in Armenia since 2009. Its latest startup Localz is an app that connects travelers with worldwide locals, by simply telling what they would like to do and getting personalized suggestions from locals. It is available on iOS, Android and web versions.</p>
+  <p>This announcement has been retrieved 1300 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

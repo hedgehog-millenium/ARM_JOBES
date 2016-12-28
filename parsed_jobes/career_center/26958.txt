@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 26958-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="120" height="38" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>FINCA UCO CJSC</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Executive Assistant</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Permanent</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;FINCA UCO CJSC is looking for a motivated candidate to fill in the position of Executive Assistant, who will be responsible for rendering comprehensive administrative support to the Management Team (MT) members. Being part of the Executive Office Team, the incumbent will perform daily administrative issues, will handle documentation flow, will make written Armenian-English and English-Armenian language translations and, when necessary, will organize the MT business trips.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Perform MТ/ Executive Office daily administrative issues;<br />
+- Arrange both internal and external meetings for the MT and prepare all the necessary documents for the meetings;<br />
+- Arrange logistics/ travel issues for the MT members and other managers, as required;<br />
+- Ensure proper and timely processing and filing of all documents, both hard and electronic copies;<br />
+- Make written translations in Armenian and English languages;<br />
+- Ensure that all telephone, letter and e-mail information is appropriately provided on a timely basis;<br />
+- Coordinate the flow of information between MT members and Department/ Branch Managers;<br />
+- Prepare minutes of MT and staff meetings, as well as Working Groups/ Committees, as required;<br />
+- Ensure confidentiality of all documentation and information;<br />
+- Perform other tasks as required.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- University degree;<br />
+- Work experience is preferable;<br />
+- Strong self-motivation and initiativeness; ability to work independently;<br />
+- Ability and willingness to work in a fast-paced environment;<br />
+- Ability to optimize work processes and propose creative solutions;<br />
+- Advanced time management skills; ability to work under pressure with tight deadlines;<br />
+- Strong communication, problem-solving and negotiation skills;<br />
+- Strong team player and excellent organizational skills;<br />
+- Ethical conduct;<br />
+- Attention to details;<br />
+- Multilingual skills: fluency in Armenian and English languages; good knowledge of Russian language is preferred;<br />
+- Computer skills (MS Word, Excel and Outlook).
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;If you meet the requirements above and are interested in the position announced, please, send your detailed CV to: <a href="mailto:hr@finca.am">hr@finca.am</a> . Please, include the position title and your name and surname in the subject line of your message in the following format: &quot;Executive Assistant &ndash; Name Surname&quot;.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;02 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;01 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;FINCA CJSC is a universal credit organization, operating in Armenia for more than 15 years. With headquarters in Washington and DC, FINCA reaches over 1.8 million clients through its 23 subsidiaries in Africa, Eurasia, the Middle East and South Asia and Latin America. For more information, please visit: <a target="_blank" href="http://www.finca.am">www.finca.am</a>.</p>
+  <p>This announcement has been retrieved 2077 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

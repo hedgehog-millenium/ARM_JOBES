@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27071-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="120" height="75" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>ArmenTel CJSC</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Fixed-line Customers Loyalty and Retention Expert</p>
+  <p><b>INTENDED AUDIENCE:</b>&nbsp;&nbsp;All interested candidates.</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;N/A</p>
+  <p><b>JOB RESPONSIBILITIES:</b>&nbsp;&nbsp;<br />
+- Work out mechanisms to decrease customer outflow and appropriate tools for retaining subscriber base;<br />
+- Analyze the efficiency of realized activities;<br />
+- Provide recommendations in the scope of communication materials to clients;<br />
+- Assess the performance of loyalty programs and conduct reporting;<br />
+- Improve NPS and conduct smart monitoring of customer service within implemented actions;<br />
+- Launch, run and promote loyalty programs;<br />
+- Prepare proposals for optimizing client retention processes based on customer experience;<br />
+- Work with focus groups, generate proposals and analyze their effectiveness;  <br />
+- Elaborate actions to improve the quality of procedures in terms of client attraction;<br />
+- Generate direct messaging for client attraction and retention;<br />
+- Clarify and examine the causes of client outflow.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b>&nbsp;&nbsp;<br />
+- University degree in Marketing, Economics, Finance or in a technical field;<br />
+- MBA is a strong plus;<br />
+- At least 2 years of previous work experience in a relevant field;<br />
+- Experience in project management;<br />
+- Basic project management skills (planning and resource management);<br />
+- Knowledge of customer experience management;<br />
+- Knowledge of image making and build-up;<br />
+- Strong organizational and leadership skills;<br />
+- Analytical mindset;<br />
+- Stress-resistance;<br />
+- Calm and positive-spirited personality;<br />
+- Ability to work in a team;<br />
+- Advanced knowledge of MS Excel; an ability to deal with big data;<br />
+- Fluency in Armenian, Russian and English languages.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Qualified and interested candidates are kindly requested to submit their CVs/ resumes in Armenian and/ or Russian/ English languages to: <a href="mailto:hrm@beeline.am">hrm@beeline.am</a> . In the subject line of your e-mail message, please mention the title of the position you are applying for. Only short-listed candidates will be contacted.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;20 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;17 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;For additional information about the Company, please visit: <a target="_blank" href="http://www.beeline.am">www.beeline.am</a>.</p>
+  <p>This announcement has been retrieved 459 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

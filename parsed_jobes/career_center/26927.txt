@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 26927-->
+  <p align="center"><font size="+1"><b>Best Card Ltd.</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Internet Marketing Specialist</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;Best Card Ltd. cashback program is seeking an Internet Marketing Specialist for a new project in partnership with one of the local banks of RA.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Plan and design Internet marketing strategy;<br />
+- Develop easy-to-use, clear, concise and comprehensible content;<br />
+- Develop and maintain social media profiles on Facebook, Twitter, Instagram, Google+, Odnoklasssniki and LinkedIn;<br />
+- Establish an effective presence on social media sites;<br />
+- Drive traffic to websites using a variety of methods;<br />
+- Ensure that the content appears high on search rankings;<br />
+- Develop density of desired keyword on page;<br />
+- Develop advertising campaigns;<br />
+- Monitor the Company's online reputation.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Fluency in Armenian and Russian languages; knowledge of English language is preferable;<br />
+- Copywriting skills;<br />
+- University degree in Marketing or Journalism;<br />
+- At least 3 years of experience in marketing or related field;<br />
+- High level of computer literacy.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;If you meet the requirements above and are interested in the position announced, please send your detailed CV in English language to: <a href="mailto:tavisis17@gmail.com">tavisis17@gmail.com</a> . Please specify the subject line of your email as &quot;Internet Marketing Specialist - Name Surname&quot;.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;05 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;04 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;The team of Best Card Ltd. has 10 years of experience in a number of cashback programs in partnership with banks of Armenia. Recently, in partnership with one of the local banks of RA, Best Card Ltd. has launched a new card, AYO VISA CARD.</p>
+  <p>This announcement has been retrieved 1011 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

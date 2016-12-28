@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 26979-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="85" height="80" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>Fast Credit Capital UCO CJSC</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;.NET Developer</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time</p>
+  <p><b>OPEN TO/ ELIGIBILITY CRITERIA:</b>&nbsp;&nbsp;All qualified candidates.</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The Company is looking for a highly qualified person with deep knowledge of and practical experience in C# programming. The selected candidate will be involved in all stages of the development life cycle.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Design and develop various development artifacts including and not limited to features, solutions, dB schemes, application frameworks and GUIs;<br />
+- Maintain and enhance the Company's home grown systems;<br />
+- Responsible for bug fixing/ technical support of the existing applications in production.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Bachelor's degree in Computer Science;<br />
+- At least 2-3 years of work experience in .NET framework;<br />
+- Proficiency in OOP/ OOD;<br />
+- Knowledge of SQL Server;<br />
+- Knowledge of and experienced in LINQ/ Entity Framework;<br />
+- Knowledge of ASP.NET MVC;<br />
+- Knowledge of WCF;<br />
+- Knowledge of WPF/ MVVM is an advantage;<br />
+- Good knowledge of Technical English language;<br />
+- Good communication skills;<br />
+- Good team player with the ability to accept criticism.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Market competitive, based on qualifications.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;To apply, please send your professional CV to: <a href="mailto:hr@fcc.am">hr@fcc.am</a> specifying the job position name in the subject line of the email. Please note that only shortlisted candidates will be contacted for an interview appointment.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;06 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;05 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Fast Credit Capital UCO CJSC provides loans and other financial services to physical entities and corporate customers. Fast Credit Capital Universal Credit Organization Closed Joint Stock Company was registered and accredited by the Central Bank of RA in October 14 of 2011 (license of Central Bank #37).</p>
+  <p>This announcement has been retrieved 592 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

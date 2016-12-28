@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27041-->
+  <p align="center"><font size="+1"><b>Eurasia Partnership Foundation</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Program Manager for Civil Society and Capacity Building</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;Eurasia Partnership Foundation (EPF) is seeking an experienced Program Manager for Civil Society and Capacity Building to oversee the implementation and expansion of its civil society development and CSO capacity building activities. The Program seeks to help Armenian CSOs be more effective in fulfilling their missions. EPF's approach brings tested capacity-building and technical assistance methods to the Civil Society as a whole. The incumbent will manage the CSO capacity building activities by working with EPF key personnel and partner organizations. He/ she will be responsible for future program development and fundraising in the civil society related field. He/ she will also have to provide support for the implementation of other EPF's programs, as well as work with other EPF Staff in developing and advancing the Organization's strategic goals.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Lead the implementation of the civil society capacity building activities;<br />
+- Organize trainings, roundtables, networking events and other activities to achieve the goal of the program;<br />
+- Manage funds, oversee budget expenditures and develop program budgets when appropriate;<br />
+- Oversee procurement and outsourcing work, manage the contracts and hired experts;<br />
+- Work together with the EPF Management Team for the future program development in civil society and other fields;<br />
+- Develop work plans, reports, budgets and progress reports to donors and other partners;<br />
+- Manage the partner relationships when working in consortia;<br />
+- Maintain relationships with current and potential funding sponsors and network with other CSO support actors to be up-to-date about the events and developments in the field;<br />
+- Represent EPF and specific Civil Society programs to CSO partners, government officials, funding sources, other partners and beneficiaries at conferences and other outreach opportunities;<br />
+- Ensure that program updates, publications and reporting meet EPF's communication standards;<br />
+- Write, review, edit and finalize program reports and other related documents in Armenian and English languages;<br />
+- With the help of the Communications Team, manage the up-to-date maintenance of program related websites and platforms;<br />
+- Responsible for implementing activities in accordance with project or activity budgets;<br />
+- Consult with the EPF's Finance and Office Managers in management of the program budgets;<br />
+- Develop and monitor the grant agreements and sub-agreements for project partners, if any.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Master's degree or higher; western education is a plus;<br />
+- At least 3 years of experience in the field of international development and/ or managing civil society projects;<br />
+- Experience in grant-administration and cross-border programming is a plus;<br />
+- Previous fundraising and outreach experience with international organizations;<br />
+- Previous experience or good understanding of CSO organizational development and capacity building in Armenia;<br />
+- Experience in the areas of youth leadership, local government, new media, peace-building or any other development-related area are a plus;<br />
+- Proven project management skills with experience in managing multiple projects, working for/ with an international organization, etc.;<br />
+- Good knowledge of USAID, EU and other major institutional donors' requirements for proposal writing, program and financial administration procedures, donor and fundraising concepts and glossary;<br />
+- Excellent speaking, writing and editing skills in Armenian and English languages; similar knowledge level in Russian language is a plus; narrative building ability;<br />
+- Experience in hiring and managing program staff;<br />
+- Broad knowledge of social, political and economic realities in Armenia, preferably also in the region;<br />
+- Fluency in written and spoken English, Armenian and Russian languages; rhetorical skills are a plus;<br />
+- Experience in data processing (Microsoft Word), spreadsheet (Microsoft Excel), E-mail, and Internet browser software;<br />
+- Demonstrated success in project planning, financial management, program monitoring, report writing, and identifying and procuring technical assistance;<br />
+- Strong interpersonal skills and mentoring skills to work effectively with partners/ clients;<br />
+- Track record that demonstrates energy and creativity and the ability to successfully prioritize and manage competing priorities;<br />
+- Excellent verbal and written communication skills, including speaking and presentation skills.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;To apply, please submit a cover letter and a resume to: <a href="mailto:jobopportunity@epfound.am">jobopportunity@epfound.am</a> .
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;15 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;14 January 2017</p>
+  <p>This announcement has been retrieved 1842 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

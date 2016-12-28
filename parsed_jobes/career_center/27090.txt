@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27090-->
+  <p align="center"><font size="+1"><b>HSBC Bank Armenia CJSC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Regulatory Reporting Officer</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The role ensures accurate and timely preparation of Central Bank reports in accordance with local regulation requirements and financial statements in accordance with IFRS. It also provides assistance during internal and external audit processes and supports to implementation of regulatory changes.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Prepare daily/ weekly/ monthly reports to Central Bank;<br />
+- Prepare financial statements as per Central Bank requirements for quarterly publication purposes;<br />
+- Prepare annual financial statements according to IFRS requirements;<br />
+- Prepare a reply to queries raised by Central Bank;<br />
+- Follow up and timely implement regulatory changes;<br />
+- Actively participate in implementation of regulatory reporting related new projects;<br />
+- Provide area related information to internal and external audits;<br />
+- Responsible for quality assurance of regulatory reports prepared in other areas of the Bank;<br />
+- Prepare management information related to normative ratios;<br />
+- Provide assistance in tax reports' preparations process;<br />
+- Perform other duties as required.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- University degree in Accounting/ Finance/ Economics;<br />
+- At least 1 year of related work experience in finance; experience in banking sector is preferable;<br />
+- Knowledge of banking and international accounting standards;<br />
+- Knowledge of and experience with taxes is an asset;<br />
+- Advanced knowledge of job related PC applications;<br />
+- Availability of ACCA and CFA certifications is an asset;<br />
+- Good analytical skills; proactive and dynamic person; a self-starter;<br />
+- Accuracy and detail orientation;<br />
+- Ability to work under pressure;<br />
+- Excellent writing skills in English and Armenian languages;<br />
+- Awareness of AS (Armenian Software) Bank application is an asset;<br />
+- Good communication and interpersonal skills.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Competitive</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;All the interested and qualified candidates are encouraged to fill in the last updated version of HSBC Application Form attached below and send it to: <a href="mailto:vacancy.armenia@hsbc.com">vacancy.armenia@hsbc.com</a> . The old versions of application forms will not be reviewed. Please, put in the subject line of the email &quot;Regulatory Reporting Officer&quot;. Only short-listed candidates will be invited for interviews.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;23 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;31 December 2016</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;HSBC Bank Armenia was established as a Closed Joint Stock Company under the name Midland Armenia Bank J.S.C. in 1996 and has been renamed into HSBC Bank Armenia CJSC in 1999. The Bank is a joint venture between the HSBC Group, which has a 70 percent ownership, and the members of overseas Armenian businesses with 30 percent ownership. HSBC Bank Armenia CJSC offers products and services to individuals, as well as to corporate customers in Armenia and abroad.</p>
+  <p><b>ATTACHMENTS:</b></p>
+  <ol>
+    <li>HSBC Application Form - <a href="ccattachment.php?annid=27090&amp;seq=0">HSBC Job Application Form.zip</a> (123K)</li>
+  </ol>
+  <p>This announcement has been retrieved 912 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

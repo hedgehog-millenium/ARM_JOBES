@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 26981-->
+  <p align="center"><font size="+1"><b>&quot;Waelcon&quot; LLC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Head of Cost Estimation, Sales and Import Department</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;&quot;Waelcon&quot; LLC is looking for a Head of Cost Estimation, Sales and Import Department.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Provide leadership to the day-to-day operations of the Sales and Import Department;<br />
+- Discover and target new customers and new sales opportunities;<br />
+- Supervise the process of making clear proposals and price offers to customers;<br />
+- Develop a strategic sales and purchase policy;<br />
+- Plan, organize, implement and control sales activities;<br />
+- Develop business relationships with current and potential customers and identify new opportunities;<br />
+- Coordinate the sales activity with appropriate departments within the Company;<br />
+- Negotiate contract terms and conditions to meet both client and Company needs;<br />
+- Manage purchases: prepare purchase orders for suppliers;<br />
+- Monitor the supply chain;<br />
+- Negotiate with foreign suppliers on goods;<br />
+- Control the movements of goods;<br />
+- Carry out marketing research among logistics companies;<br />
+- Provide updates to the departments on the situation and delivery of purchase orders;<br />
+- Prepare documents for customs clearance; conclude contracts for broker and expediting services;<br />
+- Interact with brokers, customs and expert bodies;<br />
+- Plan the logistics supply (external logistics); conduct tenders for services.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Master's degree in Engineering, Economics or a technical field;<br />
+- Proven experience in sales and management;<br />
+- Proficiency in English, Russian and Armenian languages, both verbal and written;<br />
+- Good computer literacy in Microsoft Office (Word, Excel, Access and Outlook);<br />
+- Analytical and tactical thinking;<br />
+- Team player with a high level of dedication;<br />
+- Well-organized and responsible person with an aptitude for problem solving;<br />
+- Organizational and work planning skills;<br />
+- Ability to work effectively under pressure and to tight deadlines;<br />
+- Excellent interpersonal skills; ability to work individually and as a part of the team in the perfectly timed manner.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Interested candidates are asked to submit their CVs with a photo to: <a href="mailto:sales@waelcon.am">sales@waelcon.am</a> . Please clearly mention in the subject line the position you are applying for.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;07 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;06 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Founded in 2009, &quot;Waelcon&quot; LLC is a construction-trading company, licensed to operate in the Republic of Armenia. For more information, please visit: <a target="_blank" href="http://www.waelcon.am">www.waelcon.am</a>.</p>
+  <p><b>ADDITIONAL NOTES:</b>&nbsp;&nbsp;Working days: Monday - Friday; working hours: 09:00 &ndash; 18:00. The candidate will pass 30 days of paid internship.</p>
+  <p>This announcement has been retrieved 1408 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

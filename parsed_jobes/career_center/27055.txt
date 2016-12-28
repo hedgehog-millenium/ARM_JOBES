@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27055-->
+  <p align="center"><font size="+1"><b>Marli LLC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Digital Content Manager</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;Marli LLC is looking for a highly motivated and responsible Digital Content Manager to develop, implement, track and optimize the Company's digital marketing campaigns across all digital channels.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Manage social media accounts;<br />
+- Manage digital campaigns' process;<br />
+- Responsible for online shops' content development and update;<br />
+- Develop and implement Internet marketing strategies;<br />
+- Set up and optimize Google AdWords campaigns, Facebook Advertising and Instagram Advertising;<br />
+- Manage the redesign of company websites;<br />
+- Experience digital trends and social media technologies;<br />
+- Drive digital audience's growth;<br />
+- Build partnerships with e-commerce companies, digital marketing agencies, software development companies, etc.;<br />
+- Responsible for copyrighting.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Highly creative personality with experience in identifying target audiences and devising digital campaigns that engage, inform and motivate;<br />
+- Up-to-date knowledge of the latest trends and best practices in online marketing and measurement;<br />
+- Excellent written and verbal communication skills in Armenian and English languages;<br />
+- Strong analytical skills and data-driven thinking;<br />
+- Excellent communication and negotiation skills;<br />
+- Advanced computer skills;<br />
+- Higher education;<br />
+- At least 2 years of experience in a relevant field;<br />
+- Ability to work under time pressure;<br />
+- Ability to work in a team;<br />
+- Ability to manage multiple projects at various levels and different timelines;<br />
+- Perform other tasks as required.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;To apply, send your CVs to: <a href="mailto:info@marlitoys.com">info@marlitoys.com</a> . Kindly please mention the position title you are applying for.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;20 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;19 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Marli LLC represents Marli Toys. The Company is the official representative of Mattel, Inc.</p>
+  <p>This announcement has been retrieved 657 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

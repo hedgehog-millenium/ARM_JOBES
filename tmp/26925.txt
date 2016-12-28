@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 26925-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="120" height="29" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>Workfront Inc.</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Java Development Intern</p>
+  <p><b>OPEN TO/ ELIGIBILITY CRITERIA:</b>&nbsp;&nbsp;Recent graduates or postgraduates (within one year of graduation).</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;5 months with a possible extension.</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;Under the direct supervision of the Software Development Manager the Java Development Intern will develop his/ her professional skills and gain practical work experience in Java development. The Java Development Intern is not expected to write production code. This is a paid commitment.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Take on simple or routine portions of a project and complete more demanding tasks under supervision;<br />
+- Learn the basic principles of software engineering;<br />
+- Work under close supervision;<br />
+- Carry out routine and semi-routine development tasks.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Bachelor's degree in Computer Science;<br />
+- Up to 2 years of experience in Java development is highly desired;<br />
+- Knowledge of Java is desired;<br />
+- Strong knowledge of OOP and design patterns;<br />
+- Basic knowledge of web development principals;<br />
+- Ability to complete tasks on time and with proper quality;<br />
+- Ability to work both independently and as part of a team in a fast-paced environment;<br />
+- Initiative taking and self-motivated person; ability to learn fast and eagerness to learn more.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;All qualified and interested candidates should submit their CVs/ resumes online at: <a target="_blank" href="http://grnh.se/7k4oyv1">http://grnh.se/7k4oyv1</a> . Only short-listed candidates will be notified for the interview.
+  <br>Please clearly mention in your application letter that you learned of this internship opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;01 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;31 December 2016</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Workfront is a cloud-based Enterprise Work Management solution company based in Utah. For more information, please visit: <a target="_blank" href="http://www.workfront.com">http://www.workfront.com</a>.</p>
+  <p>This announcement has been retrieved 1583 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27101-->
+  <p align="center"><font size="+1"><b>Optym Armenia LLC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Senior UI Developer</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Permanent</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;Optym Armenia is seeking an experienced Senior UI Developer. The incumbent will be working on projects for airlines, railway and trucking companies. He/ she will work with the Company's customers such as General Electric, United and Southwest Airlines, CSX Transportation, FedEx, Amadeus and Canadian Pacific Railway.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Responsible for UI development and support in WPF and XAML;<br />
+- Actively participate in software design processes;<br />
+- Closely collaborate with other team members to identify and employ UI solutions that best support the needs of the project;<br />
+- Closely collaborate with the designers to insure that designs are implemented to the right standard;<br />
+- Play active role in the team's technical growth.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Bachelor's degree or higher in Computer Science or related disciplines;<br />
+- More than 5 years of experience in developing user interfaces with WPF and XAML;<br />
+- More than 5 years of experience with C# and .NET;<br />
+- Expert in user interface development such as WPF and XAML;<br />
+- Experience in implementation of WPF styling and templating based on UI design document;<br />
+- Fundamental understanding of WPF design patterns e.g. MVVM;<br />
+- Experience in the full software development life cycle;<br />
+- Experience in UX design is a plus;<br />
+- Strong problem solving skills;<br />
+- Experience in DirectX or OpenGL APIs is a plus;<br />
+- Familiarity with JavaScript and related frameworks is a plus;<br />
+- Knowledge of Agile development; knowledge of Scrum development is a plus;<br />
+- Flexible personality with the ability to learn and apply different programming languages and technologies;<br />
+- Good English language skills;<br />
+- Ability to work in a team and independently;<br />
+- Ability to work under pressure on multiple tasks;<br />
+- Open-minded and result oriented person; strong communication skills; a high sense of responsibility.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Highly competitive, plus a performance bonus, medical insurance, sports and training benefits.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Qualified candidates should send their resumes to: <a href="mailto:jobs.armenia@optym.com">jobs.armenia@optym.com</a> . Please mention the job title in the subject line of the email.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;27 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;26 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Optym Armenia is a subsidiary of Optym with headquarters in Gainesville, Florida. Optym is a provider of optimization and decision automation solutions to transportation and logistics companies in the USA and abroad.</p>
+  <p>This announcement has been retrieved 329 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 26933-->
+  <p align="center"><font size="+1"><b>White Stone LLC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Storekeeper</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Marmarashen, Ararat Marz, Armenia,</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;White Stone LLC is looking for a qualified Storekeeper.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Responsible for the organization of work on acceptance, storage and issue of inventory items, as well as on their placement taking into account the most rational use of warehouse spaces;<br />
+- Ensure safety of the stored inventory items, observance of the modes of storage, rules of registration and delivery of credit and debit documents;<br />
+- Maintain the established reporting;<br />
+- Responsible for the organization of handling operations in stock;<br />
+- Carry out inventory of goods and materials;<br />
+- Responsible for the control of accounting of warehouse operations.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Secondary professional education; at least 3 years of work experience as a Warehouse Manager in production enterprises;<br />
+- Advanced PC user; knowledge of 1C, MS Office programs, office equipment, e-mail and Internet;<br />
+- Knowledge of (readiness to master quickly) the types, sizes, brands, grades and other quality characteristics of inventory items and their expense regulations;<br />
+- Sense of responsibility; ability and readiness to work in a multitask mode; learnability;<br />
+- Focus on results; a high performance person.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;All qualified and interested candidates are kindly requested to send their CVs in Russian and English languages to: <a href="mailto:secretary@carrara-s.ru">secretary@carrara-s.ru</a> .
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;05 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;30 December 2016</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;White Stone LLC is a member of group of companies &quot;Carrara&quot;. The Company is engaged in the production of slabs, plates and products from a natural stone.</p>
+  <p><b>ADDITIONAL NOTES:</b>&nbsp;&nbsp;Occupation: Five days a week (5/2), from 9:00 till 18:00, days off: Saturday and Sunday.</p>
+  <p>This announcement has been retrieved 892 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

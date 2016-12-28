@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27029-->
+  <p align="center"><font size="+1"><b>Comfort R&amp;V Co., Ltd.</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Showroom Manager</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Permanent</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;Comfort R&amp;V Co., Ltd. is looking for a qualified candidate to hold the position of Showroom Manager.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Organize and ensure safe and flawless work performance of the Staff working in the showroom;<br />
+- Supervise the quality of the customer service of the Staff working in the showroom ensuring high volume of sales;<br />
+- Develop new sales strategies and procedures to improve Company products' sales;<br />
+- Increase and develop the Company's current sales turnover;<br />
+- Involve new customers and partners;<br />
+- Able to increase the sales volume;<br />
+- Ensure customer loyalty.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Higher technical education;<br />
+- At least 5 and more years of work experience in retail sales of construction materials;<br />
+- Sales and marketing skills;<br />
+- Market demand and development skills;<br />
+- Good communication skills;<br />
+- Ability to work under pressure;<br />
+- Ability to perform multiple tasks effectively.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;180,000 AMD (Net), plus bonuses.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;To apply, please, send your CV in Armenian language with a photo to: <a href="mailto:hr@comfort-rv.am">hr@comfort-rv.am</a> . You can contact by: 010 22-64-98, 055 05 70 79 from 9:00 to 18:00. Kindly please note that only shortlisted and qualified candidates will be contacted.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;14 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;13 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Comfort R&amp;V Co., Ltd. is an importer of building materials in Armenia. For more information, please visit: <a target="_blank" href="http://www.comfort-rv.am">www.comfort-rv.am</a>.</p>
+  <p><b>ADDITIONAL NOTES:</b>&nbsp;&nbsp;Working hours: from 10 a.m. to 7 p.m.; working days: 6 days a week, with 1 day off.</p>
+  <p>This announcement has been retrieved 846 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

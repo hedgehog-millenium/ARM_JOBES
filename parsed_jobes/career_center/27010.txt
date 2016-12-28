@@ -1,0 +1,107 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27010-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="120" height="36" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>HS International LLC</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Professional Service Engineer/ Analyst</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time</p>
+  <p><b>OPEN TO/ ELIGIBILITY CRITERIA:</b>&nbsp;&nbsp;All qualified candidates.</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;HS International LLC is looking for a Professional Service Engineer/ Analyst who will help plan, develop, test and implement custom applications to supplement implementation of HelpSystems and RJS software solutions. This position also includes business analysis and solutions design for Greenfield Custom project development of relational database management systems that are unrelated to HelpSystems product offerings.</p>
+  <p><b>JOB RESPONSIBILITIES:</b>&nbsp;&nbsp;<br />
+Implementation Projects (RJS B2B and Document Management Software Solutions):<br />
+- Work with the assigned Implementation Engineer to help ensure successful adoption of solution;<br />
+- Work with the assigned Project Manager and Implementation Engineer to ensure accurate description of application to be provided including estimate of effort and date of completion;<br />
+- Work with the assigned Implementation Engineer to create high level acceptance test plans to confirm solution functionality and demonstrate functionality to customers;<br />
+- Utilize written prioritized &quot;User Stories&quot; provided by the assigned Implementation Engineer describing specific functionality that will require custom programming;<br />
+- Work with the assigned Implementation Engineer and Project Manager to resolve any identified issues or concerns related to the software development;<br />
+- Work collaboratively with the Project Manager and Implementation Engineer to assess impact of change requests for effort estimation and capacity planning purposes;<br />
+- Communicate project status to the assigned Project Manager through regular status reporting and other presentation vehicles;<br />
+- Assist in the monitoring of project-related issues or escalations (of an urgent or high priority nature) and build response strategies and actions to address issues.<br />
+<br />
+Greenfield Custom Projects:<br />
+- Work with project stakeholders to formulate and communicate business vision for the project; map requirements and project scope;<br />
+- Work with project stakeholders to translate business needs into requirements to be used by the development staff; establish and maintain a consistent project vision;<br />
+- Break down project technical and architectural complexities so that the project stakeholders can easily understand technical issues. This includes providing high-level statements of work;<br />
+- Validate requirements and analysis models with stakeholders via reviews and walkthroughs; assist in writing and executing user acceptance test (UAT) cases;<br />
+- Code/ test and implement complex custom application projects from contract acceptance through &quot;Go Live&quot;.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b>&nbsp;&nbsp;<br />
+Proficiency in the Following Technologies:<br />
+- .NET Technologies:<br />
+a) C#, ASP.NET and VB.NET;<br />
+b) Visual Studio 2008-2015;<br />
+c) MS SQL Server 2005-2014;<br />
+d) .NET frameworks 2.0, 4.0 and 4.5;<br />
+e) MVC5;<br />
+f) Entity Framework 5 and 6;<br />
+g) MS code complete standards.<br />
+- Web Technologies:<br />
+a) Web servers (IIS/ Apache/ Nginx);<br />
+b) HTML, CSS, JavaScript and AJAX;<br />
+c) JavaScript frameworks (jQuery, ExtJS, Ember and Angular);<br />
+d) REST and SOAP service architecture;<br />
+e) HTTP, FTP, SSL and TLS.<br />
+- Database Technologies:<br />
+a) MS SQL, MySQL, DB2 and 4D;<br />
+b) ODBC and ADO.NET;<br />
+c) Design, Normalization and Performance Tuning;<br />
+d) Backup, Install and Recovery;<br />
+e) MS SQL Server Management Studio.<br />
+- Misc. Tools:<br />
+a) Fiddler and ReSharper;<br />
+b) VPN, VMWare and Confluence;<br />
+c) JIRA, DOS Scripting and UNIX Scripting.<br />
+<br />
+Optional Proficiency in the Following iSeries Technologies:<br />
+a) RPG, RPG IV, ILE, Free and SQL;<br />
+b) AS400 CL and AS400 Query;<br />
+c) IFS / Navigator / Client tools;<br />
+d) Sub-procedures;<br />
+e) Data Encryption;<br />
+f) WebSphere.<br />
+&emsp;<br />
+DESIRED SKILLS:<br />
+- Effective interpersonal and professional communication skills, both verbal and written;<br />
+- Strong organizational and time management skills;<br />
+- Ability to effectively manage and organize multiple projects and responsibilities.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Highly competitive, depending on the previous experience and skills, with benefit packages such as a medical insurance, trainings, sport activities and a relaxation massage.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;All interested and qualified candidates should send their CVs to: <a href="mailto:yere.hr@helpsystems.com">yere.hr@helpsystems.com</a> . Please indicate the position title in the subject field of your message. Only shortlisted candidates will be interviewed.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;12 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;11 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;HS International LLC (HelpSystems International) is a USA based provider of systems and network management. For more information, please visit: <a target="_blank" href="http://www.helpsystems.com">www.helpsystems.com</a>.</p>
+  <p>This announcement has been retrieved 623 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

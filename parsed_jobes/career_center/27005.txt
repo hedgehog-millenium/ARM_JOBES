@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27005-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="80" height="80" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>Ameriabank CJSC</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Loan Analyst, Corporate Banking Department, Large Enterprise Lending Unit</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The incumbent will be responsible for the in-depth financial review of enterprises per industries of economy, preparation of conclusions on whether it is reasonable or not to issue loans to large borrowers with an over-weighting credit burden based on the results of financial review, provision of expert opinion on financial and economic performance of companies operating in a particular industry, ongoing supervision over the financial position of borrowers with over-weighting credit burden in a particular economic sector.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Develop and continuously improve methods and approaches of studying the financial and economic performance of enterprises per industries of economy;<br />
+- Share experience related to various industries of economy with colleagues;<br />
+- Examine financial and economic performance of enterprises and prepare opinions;<br />
+- Provide expert opinion on enterprises operating in particular industries of economy to the Bank's other units/ specialists;<br />
+- Submit the reports on financial and economic performance of enterprises to the Bank's authorized bodies for review and decision-making;<br />
+- Perform ongoing servicing of and supervision over the issued loans to ensure proper fulfillment of the liabilities of borrowers to the Bank;<br />
+- Prepare references related to ongoing servicing and supervision of borrowers and submit them to the Bank's authorized body for review, decision-making or just for information;<br />
+- Assist in formalization of approved loans and in overseeing of this process within vested authorities;<br />
+- Assist in preparation and maintenance of credit file(s) and document flow for the issued loans and in overseeing of this process within vested authorities;<br />
+- Assist in ongoing monitoring of the financial condition of borrowers, collateral and compliance of the use of loan proceeds;<br />
+- Assist in loan portfolio management, i.e. in preparation of reports, maintenance of registers, collection of statistical and analytical data;<br />
+- Make decisions on the arrangement and implementation of the lending process within vested authorities.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- University degree in Economics, Finance or other related sphere;<br />
+- At least 3 years of work experience in banking sector; experience in business analysis;<br />
+- Sufficient knowledge of the Republic of Armenia Law &quot;On Banks and Banking&quot; and other banking laws and bylaws;<br />
+- Analytical and agile thinking; independent and teamwork skills; ability and skills to manage projects independently;<br />
+- Commitment to work and a strong sense of responsibility;<br />
+- Excellent command of Armenian, Russian and English languages.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Ranging from 100,000 AMD to 2,000,000 AMD, according to the &quot;S&quot; grade of the bank remuneration scheme.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;All interested applicants should fill the Application Form attached below by the deadline, attach a CV and send to: <a href="mailto:hr.cb@ameriabank.am">hr.cb@ameriabank.am</a> , mentioning the position title in the subject field of the email. Only short-listed candidates will be interviewed.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;09 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;08 January 2017</p>
+  <p><b>ATTACHMENTS:</b></p>
+  <ol>
+    <li>Application Form - <a href="ccattachment.php?annid=27005&amp;seq=0">AmeriaBank_Application Form.zip</a> (74K)</li>
+  </ol>
+  <p>This announcement has been retrieved 1075 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

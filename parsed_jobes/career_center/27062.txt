@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27062-->
+  <p align="center"><font size="+1"><b>Digital Edge</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Duty System Administrator</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term, with 3 months of probation period.</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;Digital Edge is seeking a self-motivated team player to fulfill the position of Duty System Administrator.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Perform system monitoring and maintenance using Enterprise Management System;<br />
+- Process tickets using Enterprise Management System;<br />
+- Perform simple system administration task on Windows and Linux servers;<br />
+- Handle proper email communication with English speaking clients;<br />
+- Provide duty reports;<br />
+- Perform other tasks as required.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Experience in Windows and Linux server administration in enterprise environment;<br />
+- Strong knowledge of network protocols and IT standards;<br />
+- Strong knowledge of customer service standards and procedures;<br />
+- Knowledge of good security principles particularly related to the Windows and application environment is a plus;<br />
+- Fluency in English language, both spoken and written;<br />
+- Attention to details and accuracy;<br />
+- High sense of responsibility;<br />
+- Team working person.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Please apply to this job by sending your cover letter and resume to: <a href="mailto:jobs.armenia@digitaledge.net">jobs.armenia@digitaledge.net</a> mentioning &quot;Duty System Administrator&quot; in the subject line. Please also be aware that application without correct subject will not be considered. Only shortlist candidates will be contacted.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;20 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;19 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Digital Edge is represented in Armenia by Techbox LLC. Digital Edge provides managed cloud solutions, as well as information technology support services. For more information please visit: <a target="_blank" href="http://www.digitaledge.net/">http://www.digitaledge.net/</a> .</p>
+  <p><b>ADDITIONAL NOTES:</b>&nbsp;&nbsp;This is a shift work position which implies mixed working schedule including morning, evening as well as night shifts.</p>
+  <p>This announcement has been retrieved 581 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

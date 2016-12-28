@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27045-->
+  <p align="center"><font size="+1"><b>VXSoft LLC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Web Developer</p>
+  <p><b>OPEN TO/ ELIGIBILITY CRITERIA:</b>&nbsp;&nbsp;All interested candidates.</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;15 January 2017</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The Web Developer is a senior professional position responsible for leading a small and agile software engineering team, doing task scheduling and software development cycle management.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Lead a small and agile software engineering team; responsible for task scheduling and software development cycle management;<br />
+- Communicate with the project managers and clients;<br />
+- Develop software architecture, document it and do necessary changes along with software development;<br />
+- Implement a basic change management and refactoring of the developed software;<br />
+- Motivate, educate and help team members in any kind of questions and issues.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- University degree in Management; possession of a technical background;<br />
+- More than 3 years of experience in software engineering;<br />
+- Experience in server side programming languages: Python, Java, C++ and PHP;<br />
+- Experience in server side programming technologies and platforms: Linux, Nginx/ uWSGI, Apache and various web protocols;<br />
+- Experience in client side programming languages and technologies: JavaScript, HTML, CSS and Ajax;<br />
+- Experience in database design and administration: PostgreSQL, MySQL and Oracle;<br />
+- Experience in OOP/ OOD paradigms;<br />
+- Experience in version control systems;<br />
+- Willingness and ability to learn a new programming language, database system or technology;<br />
+- Experience in supervising a programming team of at least 3 people;<br />
+- Familiarity with JIRA (Atlassian) or similar project management tools would be an advantage;<br />
+- Experience in real-world software development cycles, such as design/ prototyping/ implementation/ support.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Competitive, depending on qualifications.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Interested candidates can send their CVs to: <a href="mailto:hr@vxsoft.com">hr@vxsoft.com</a> indicating &quot;Web Developer&quot; in the subject line of the email or deliver them to VXSoft LLC at the address: 3rd floor, 24D Baghramyan Ave. (Campus of the National Academy of Sciences, building of Scientific Library, 3rd floor, office of the VXSoft) on weekdays from 10:00 to 17:00. No phone queries are proposed for applicants. Only short-listed candidates will be contacted for an interview.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;16 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;09 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;VXSoft LLC is an Ireland-based company representing programmers with long standing experience in e-Governance. The Company has a representative office in Yerevan and outsources a major part of its software development work to the local team in Armenia. The Company's experience varies from development of different online transactional systems.</p>
+  <p>This announcement has been retrieved 780 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

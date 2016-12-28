@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27004-->
+  <p align="center"><font size="+1"><b>CargoMatrix Inc. Armenian Branch</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Backend Developer</p>
+  <p><b>OPEN TO/ ELIGIBILITY CRITERIA:</b>&nbsp;&nbsp;Backend Developers</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term, with 3 months of probation period.</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The Backend Developer will work with the Product Team to develop innovative solutions, with a focus on developing a strong backend for business applications. In this role, the incumbent will be part of a team that develops new solutions as well as provides enhancements to existing products.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Develop robust and scalable solutions using Node.JS, Python, PostgreSQL and Firebase;<br />
+- Work with Firebase, Google Cloud, AWS and Heroku;<br />
+- Integrate with third party APIs, such as Mailgun, Google and Facebook;<br />
+- Work with the Product Team to build new products;<br />
+- Develop new features and enhancements to existing products;<br />
+- Work with the QA Team to troubleshoot and fix bugs.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Experience in developing API services with Node.JS, preferably with LoopBack framework;<br />
+- Experience in using Firebase and/ or PostgreSQL databases;<br />
+- Experience in working with cloud products, including Firebase, Google Cloud and Heroku;<br />
+- Experience with Ionic Cloud;<br />
+- Experience in integrating third party APIs;<br />
+- Familiarity with TFS, JIRA and Bitbucket;<br />
+- Bachelor's degree in Information Systems, Computer Science, Engineering or a related discipline;<br />
+- Ability to work independently in a fast-paced environment;<br />
+- Team player who will be an active participant in team and Company initiatives.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Competitive, based on the experience.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;To apply, please send your professional CV to: <a href="mailto:armjobs@cargomatrix.com">armjobs@cargomatrix.com</a> , specifying the position name in the subject line. Please note that only shortlisted candidates will be contacted for an interview appointment.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;09 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;08 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;CargoMatrix is a logistics software provider based in New York, USA. The Company was formed in 1999.</p>
+  <p><b>ADDITIONAL NOTES:</b>&nbsp;&nbsp;Working hours are from 10 a.m. to 7 p.m., but a flexible rescheduling will also be required based on need. The job could include overtime work based on need.</p>
+  <p>This announcement has been retrieved 788 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

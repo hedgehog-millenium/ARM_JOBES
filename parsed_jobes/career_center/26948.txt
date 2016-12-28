@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 26948-->
+  <p align="center"><font size="+1"><b>SystroTech LLC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;English Language Specialist</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;SystroTech LLC is looking for knowledgeable and enthusiastic English Language Specialists to join the Company's Marketing Team. Fresh graduates are encouraged to apply.</p>
+  <p><b>JOB RESPONSIBILITIES:</b>&nbsp;&nbsp;Job responsibilities include but are not limited to:<br />
+- Maintain customer relationships management system;<br />
+- Contact customers by email and phone;<br />
+- Help customers in finding information they need on the Company's websites;<br />
+- Prepare and send over mailers;<br />
+- Prepare marketing materials;<br />
+- Maintain the Company's account in social networks;<br />
+- Help in improving the Company's websites.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Higher education; BS in English language; MS is an advantage;<br />
+- Motivated, enthusiastic and organized personality;<br />
+- Perfect (near-native) knowledge of English language, both written and spoken;<br />
+- Team working skills;<br />
+- Accuracy, punctuality and attention to details;<br />
+- High sense of responsibility;<br />
+- Very good knowledge of MS Office;<br />
+- Excellent communication skills;<br />
+- Excellent writing skills.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Starting from 131,000 AMD before taxes.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Interested candidates are asked to fill in the attached Application Form and send to: <a href="mailto:hr@systrotech.am">hr@systrotech.am</a> . Only shortlisted applicants, who have filled in the standard SystroTech Application Form, will be considered and contacted. Kindly please refrain from phone calls or personal visits.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;01 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;31 December 2016</p>
+  <p><b>ATTACHMENTS:</b></p>
+  <ol>
+    <li>Application Form - <a href="ccattachment.php?annid=26948&amp;seq=0">SystroTech Application Form.zip</a> (17K)</li>
+  </ol>
+  <p>This announcement has been retrieved 1902 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

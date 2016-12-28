@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27096-->
+  <p align="center"><font size="+1"><b>Synergy Youth NGO</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Lead Facilitator/ Trainer</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;23 January 2017</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;In 2017 Synergy Youth NGO will host a series of Youth Exchanges in Yerevan, Armenia with participants coming from various EU countries. Youth Exchanges allow groups of young people from different countries to meet and explore shared topics together, as well as have fun and intercultural experience in a structured environment. The Lead Facilitator/ Trainer will be responsible for preparing, planning, managing and facilitating these Youth Exchanges.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Contribute to recruitment and preparation of participants including pre-arrival communication;<br />
+- Prepare and plan the agenda including recruitment of guest speakers and expert trainers;<br />
+- Facilitate the main blocks of the Youth Exchange, including but not limited to introductions, group formation, expectation setting, team building, group reflections, groups' discussions, etc.;<br />
+- Prepare and make thematic presentations on various youth related topics;<br />
+- Manage group dynamics and resolve inner group conflicts if they arise;<br />
+- Ensure participants have rewarding experience.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Excellent English language skills;<br />
+- Excellent communication and facilitation skills;<br />
+- Excellent intercultural skills;<br />
+- Experience in group management and group leading;<br />
+- Experience with non-formal education methods;<br />
+- Previous experience in facilitating Erasmus+ Youth Exchanges is a plus.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Competitive (project-based)</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Interested individuals should send their CVs and cover letters to: <a href="mailto:liana.avanesyan@yahoo.com">liana.avanesyan@yahoo.com</a> .
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;26 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;07 January 2017</p>
+  <p><b>ADDITIONAL NOTES:</b>&nbsp;&nbsp;The Company offers flexible and self-structured working hours; daily full-time commitment required only during actual sessions; opportunity to travel and participate in projects in Europe.</p>
+  <p>This announcement has been retrieved 485 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

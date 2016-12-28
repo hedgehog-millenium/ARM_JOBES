@@ -5,14 +5,17 @@ var path = require('path'),
     careerCenterConverter = require(path.join(settings.ROOT_DIR,'modules','converters','careercenterConverter')),
     dbRepo = require('../DB/mLabRepo'),    
     txtFile = require(path.join(settings.ROOT_DIR,'modules','txtFile')),
+    reflect = require('../reflect');
     handleErr = function(e){logger.log(e)};
 
     dbRepo.init('jobsmetadata');
 
 module.exports = {
     registerAllLinks:registerAllLinks,
-    handleAlljobs:handleAlljobs
+    downloadAllJobs:downloadAllJobs,
+    registerAllAnnouncements:registerAllAnnouncements
 }
+
 
 function registerAllLinks(){
 
@@ -52,17 +55,16 @@ function registerAllLinks(){
 
 
 //STEPS 
-//Step 1: get all job links from db
-//Step 2: Filter all jobs that not parsed 'isParsed:false'
-//Step 3: Check if parsed file exists - >
-//     3.1 update db and return iteration if exsist
-//Step 4: Parse all unparsed announcements
-//Step 5: Seve all parsed announcements to files
-//Step 6: Update DB , set 'parseInfo.isCompleted:true'
- function handleAlljobs(){
+//Step 1:  Get all jobMetaData from db
+//Step 2:  Filter all jobs that not parsed 'isParsed:false'
+//Step 3:  Check if parsed file exists - >
+//     3.1 Update db and return iteration if exsist
+//Step 4:  Parse all unparsed announcements
+//Step 5:  Save all parsed announcements to files
+//Step 6:  Update DB , set 'parseInfo.isCompleted:true'
+ function downloadAllJobs(){
     return new Promise((resolve,reject)=>{
-        var parsePromises = [],
-            fileCheckPromises = [],
+        var fileCheckPromises = [],
             resObjArr = [];
 
         dbRepo.findAll().then(allJobs =>{
@@ -74,53 +76,36 @@ function registerAllLinks(){
 
            Promise.all(fileCheckPromises).then(fileExstResults=>{
                return new Promise((resolve,reject)=>{                              
+                    var parsePromises = [];
                     fileExstResults.map(fileExstRes=>{
                         var job = fileExstRes.data;
-                        if(fileExstRes.exist){                                                        
-                                resObjArr.push({object:job,status:'warning'});                                
-                        }else{ //if(fileExstRes.exist){
-                                parsePromises.push(
-                                    reflect(
-                                        new Promise((resolve,reject)=>{
-                                                htmlParser.parse(job.path)
-                                                .then(parsedHtml=>{
-                                                    var pathToSave = path.join(settings.Jobs[0].parsedFilePath,job.parseInfo.filePath);                              
-                                                    job.parseInfo.status.parsingStatus = 'the html page just parsed';
-                                                    return txtFile.createFile(pathToSave,parsedHtml);                           
-                                                })
-                                                .then(fileSaveStatus=>{
-                                                    job.parseInfo.status.parsedFile = fileSaveStatus;
-                                                    job.parseInfo.isCompleted = true;                
-                                                    job.parseInfo.status.time = new Date().toLocaleString();
-                                                    return dbRepo.updateById(job._id,job)
-                                                })
-                                                .then(j=>{   
-                                                    job.parseInfo.status.comment = '"isParsed" status of announcement was changed to completed';                         
-                                                    resolve(job);
-                                                })
-                                                .catch(e=>{reject(e)});
-                                        }) // new Promise((resolve,reject)                   
-                                    ) //reflect
-                                )// parsePromises.push
-                        }//if(fileExstRes.exist){
+                        if(fileExstRes.exist) resObjArr.push({status:'warning',object:job});                                
+                        else parsePromises.push(reflect(handleAnncParsing(job)));                        
                     });//fileExstResults.map(fileExstRes=>{
                     resolve(parsePromises);       
                });// return new Promise((resolve,reject)=>{        
            }).then(prms=>{
-                    Promise.all(parsePromises).then(vals=>{
+                    Promise.all(prms).then(vals=>{
                     vals.map(val=>{
-                        if(val.status == "resolved")
-                                resObjArr.push({object:val.value,status:'parsed'});
-                        else
-                                resObjArr.push({object:val.error,status:'error'});                    
-                    });//  vals.map(val=>{
-                    
+                        if(val.status == "resolved")resObjArr.push({status:'parsed', object:val.value});
+                        else resObjArr.push({status:'error', object:val.error});                    
+                    });// vals.map(val=>{                    
                     resolve(resObjArr);
                });//Promise.all(parsePromises).then(vals=>{
-           })
+           }).catch(e=>{reject(e)}); //}).then(prms=>{
            
         });// dbRepo.findAll().then(allJobs =>{
     });//  return new Promise    
+}
+
+//STEPS 
+//Step 1:  Get all jobMetaData from db
+//Step 2:  Filter all jobs that not converted 'isConverted:false'
+//Step 3:  Convert All jobs to JobModel format
+//Step 4:  Save converted JobModel to db
+//Step 5:  Change jobMetaData isConverted property to 'isConverted': true
+function registerAllAnnouncements(){
+
 }
 
 function handleIfFileExist(filePath,job){
@@ -139,9 +124,26 @@ function handleIfFileExist(filePath,job){
         }
     });//return new Promise((resolve,reject)=>{
      
-}
+}//function handleIfFileExist(filePath,job){
 
-function reflect(promise){
-    return promise.then(function(v){ return {value:v, status: "resolved" }},
-                        function(e){ return {error:e , status:"rejected"}});
-}
+function handleAnncParsing(job){
+        return new Promise((resolve,reject)=>{
+                htmlParser.parse(job.path)
+                .then(parsedHtml=>{
+                    var pathToSave = path.join(settings.Jobs[0].parsedFilePath,job.parseInfo.filePath);                              
+                    job.parseInfo.status.parsingStatus = 'the html page just parsed';
+                    return txtFile.createFile(pathToSave,parsedHtml);                           
+                })
+                .then(fileSaveStatus=>{
+                    job.parseInfo.status.parsedFile = fileSaveStatus;
+                    job.parseInfo.isCompleted = true;                
+                    job.parseInfo.status.time = new Date().toLocaleString();
+                    return dbRepo.updateById(job._id,job)
+                })
+                .then(j=>{   
+                    job.parseInfo.status.comment = '\'parseInfo.isCompleted\' status of announcement was set to true';                         
+                    resolve(job);
+                })
+                .catch(e=>{reject(e)});
+        }); // new Promise((resolve,reject)                   
+}//function handleAnncParsing(){

@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27086-->
+  <p align="center"><font size="+1"><b>Smithsonian Institution</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Senior Team Leader</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;As a part of &quot;My Armenia&quot; Program funded by USAID, Smithsonian Institution is recruiting a Senior Team Leader who will oversee technical implementation under the guidance of the Chief of Party (COP), maintain communication and momentum among team members, as well as liaise with USAID, local government bodies and other key counterparts together with the COP.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Directly supervise the &quot;My Armenia&quot; technical team by providing day-to-day guidance, technical direction, and oversee the overall progress of the activities implemented by the technical team members;<br />
+- Ensure technical team members are effectively communicating and coordinating the implementation of program activities;<br />
+- Participate in the development and implementation of the program Monitoring and Evaluation (M&amp;E) system that provides credible management information and effectively measures progress towards program objectives;<br />
+- Collaborate with the COP in refining annual work plans, quarterly and annual reporting and targets in a timely manner in accordance with the contract terms;<br />
+- Through regular monitoring, work with the COP and M&amp;E Specialist to ensure that the program is progressing in line with the work plan activities and the Performance Monitoring Plan (PMP);<br />
+- Work with the COP to develop scopes of work (SOW) for short-term technical assistance (STTA) and subcontractors and assist in identifying appropriate personnel as necessary;<br />
+- Oversee STTAs and subcontractors in cooperation with the team members as designated for the given task responsible;<br />
+- Coordinate the development and implementation of program outreach and communications to counterparts and stakeholders in collaboration with the Communication Specialist;<br />
+- Perform additional duties as assigned and requested by the COP.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- At least a bachelor's degree in Project Management or a related field; a master's degree will be a plus;<br />
+- At least 10 years of experience in managing teams while supporting the goals of individual staff members;<br />
+- At least 7 years of managerial experience with USAID projects;<br />
+- Experience and ability to work effectively with USAID, Armenian Government, community leaders, private sector, and other partner organizations within Armenia and internationally;<br />
+- Ability to handle multiple tasks at once;<br />
+- Ability to oversee and help staff prioritize activities;<br />
+- Detail-oriented personality;<br />
+- Strong organizational and project management skills;<br />
+- Flexible and adaptable personality with the ability to work independently and as part of a team as well as with remote managers (i.e. not in Armenia);<br />
+- Understanding of and interest in Armenia's nature and culture;<br />
+- Proficiency in English and Armenian languages.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Based on previous salary history.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Interested candidates can send their CVs, letters of interest and references to: <a href="mailto:SmithsonianHR@gmail.com">SmithsonianHR@gmail.com</a> .
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;12 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;11 January 2017</p>
+  <p><b>ABOUT:</b>&nbsp;&nbsp;&quot;My Armenia&quot; is a collaborative initiative of the people of Armenia, USAID, and the Smithsonian Institution, which harnesses the power of research, documentation, and storytelling to sustain Armenian cultural heritage. Building on Smithsonian expertise in research and curation, the &quot;My Armenia&quot; Program engages with local partners in community-based research to document Armenian cultural heritage and support tourism in the country that sustainably promote the cultural and natural heritage of the country. Working with sustainable tourism experts from Solimar International, the &quot;My Armenia&quot; Program will increase and share knowledge about Armenian cultural heritage while identifying opportunities to enhance and increase community-based tourism to rural Armenia. &quot;My Armenia&quot; is funded by USAID and implemented by the Smithsonian Institution, in partnership with Solimar International. The overall objectives of the Program include: a) improve the tourism product offering of Armenia; b) improve service delivery along strategic tourism corridors and circuits in Armenia; c) improve cultural tourism sector workforce skills.</p>
+  <p>This announcement has been retrieved 901 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

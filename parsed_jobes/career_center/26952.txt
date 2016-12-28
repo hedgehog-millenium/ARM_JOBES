@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 26952-->
+  <p align="center"><font size="+1"><b>Questrade International Inc., Armenian Branch</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Senior Web Engineer</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The Senior Web Engineer will develop functionally rich, robust and user-friendly web applications, following through all stages of the Agile software development life cycle from inception to implementation. The Senior Web Engineer will collaborate on a cross-functional team including Graphic Design, UX, QA and Backend Developers and will collaborate with other Web Engineers for the growth of best practices and technological advancements. The ideal candidate for this role should be able to thrive in dynamic environments, have a strong work ethic, positive energy and the ability to innovate.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Develop, test and debug standards-compliant and cross-browser compatible web applications;<br />
+- Enhance and modify existing applications as needed to ensure to add new features or improve user experience;<br />
+- Diagnose and troubleshoot problems with existing applications;<br />
+- Interact and communicate with Designers, Developers, QA Testers, Copywriters, Product Owners and others in order to understand requirements and scope of work;<br />
+- Play active role in defining and implementing best practices, standards and procedures including quality and delivery methodologies;<br />
+- Help the team to estimate work efforts for user stories, including determining requirements, dependencies and risks;<br />
+- Support the team in technical decisions and development estimates;<br />
+- Conduct research and develop a proof of concepts;<br />
+- Participate in and contribute to all Agile and Scrum ceremonies.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Bachelor's degree in Engineering, Computer Science or other related field;<br />
+- Solid knowledge and experience with JavaScript, HTML5 and CSS; knowledge of preprocessers such as SASS and LESS;<br />
+- Understanding and experience with AngularJS;<br />
+- Understanding and experience with Node.JS;<br />
+- Knowledge of JavaScript libraries such as jQuery, React and KnockoutJS;<br />
+- Solid understanding of Object-Oriented Programming (OOP);<br />
+- Knowledge of unit testing; experience with Jasmine and Karma is a plus;<br />
+- Familiarity with .NET and C# applications;<br />
+- Familiarity with Visual Studio and text editors like Sublime Text;<br />
+- Experience with version control systems such as SVN and Git;<br />
+- Knowledge of Agile development practices; knowledge of Scrum development practices is preferred;<br />
+- Strong analytical and problem solving skills;<br />
+- Strong organization, communication and interpersonal skills;<br />
+- Person with a service-oriented mindset, positive attitude and a willingness to assist own team in any way to ensure project success;<br />
+- Strong commitment to upgrading technical skills on an ongoing basis and a willingness to share knowledge with others;<br />
+- Ability to take initiative and get things done.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Highly competitive, plus an advanced benefit package.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;All interested candidates are welcome to submit their CVs to: <a href="mailto:info@questrade.am">info@questrade.am</a> . Kindly indicate the position title in your email subject line.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;02 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;01 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;For more information, please visit: <a target="_blank" href="http://www.questrade.am">www.questrade.am</a>.</p>
+  <p>This announcement has been retrieved 661 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27037-->
+  <p align="center"><font size="+1"><b>K-Telecom CJSC (VivaCell-MTS)</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Economic Security Leading Specialist</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time</p>
+  <p><b>OPEN TO/ ELIGIBILITY CRITERIA:</b>&nbsp;&nbsp;All interested candidates.</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;01 February 2017</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Permanent, with 3 months of probation period.</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The Economic Security Leading Specialist coordinates and ensures proper economic security procedures. The incumbent is responsible for the collection and analysis of information about fraud cases.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Collect and assess information about the Company counterparts (before the conclusion of any contract with them) for the prevention of fraud or failure by suppliers;<br />
+- Participate in internal investigations on the violations committed by the Company employees;<br />
+- Analyze and offer new methods of prevention of fraud to the Management;<br />
+- Participate in TC Envelope Opening processes;<br />
+- Participate in the checks of internal financial and economic activities;<br />
+- Cooperate with other departments/ units in the scope of provision of economic security and prevention of fraud;<br />
+- Monitor information about the Company and competitors in Mass media and social networks and provide with the corresponding reports;<br />
+- Elaborate a draft Unit budget considering the plans and current functions of the Unit;<br />
+- Ensure timely and accurate budget forecast for the Unit expenses, as well as identify budget related solutions;<br />
+- Prepare weekly reports about the economic security state and statistics.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Higher education in Economics, Law or other related field;<br />
+- At least 3 years of work experience in the field of security or law-enforcement bodies;<br />
+- At least 3 years of experience in the field of business processes is a plus;<br />
+- Knowledge of economic, information and internal security basics;<br />
+- Knowledge of corresponding laws and legislative regulations;<br />
+- Excellent computer skills, particularly in MS Office package;<br />
+- Fluency in Armenian, English and Russian languages;<br />
+- Effective communication skills;<br />
+- Effective analytical and strong problem-solving skills;<br />
+- Ability to work under pressure;<br />
+- Honesty and loyalty in work.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Competitive compensation package and benefits, as well as trainings for career advancements.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Please submit your CV to: <a href="mailto:EcSecurity@mts.am">EcSecurity@mts.am</a> . Only shortlisted candidates will be invited for the interview.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;14 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;08 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;K-Telecom CJSC (VivaCell-MTS) provides mobile coverage in 2G/ 3.75G/ 4G networks offering a wide range of voice and data services all across Armenia since 2005.</p>
+  <p>This announcement has been retrieved 911 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

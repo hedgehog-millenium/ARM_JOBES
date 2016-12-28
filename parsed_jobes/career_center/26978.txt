@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 26978-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="80" height="80" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>Energize Global Services (EGS) CJSC</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;C++ Developer</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;Energize Global Services CJSC is looking for an enthusiastic and technology-driven C++ Developer to join one of the Company's French teams. Trips to France are available.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Develop and test applications for embedded applications;<br />
+- Update existing documentation according to already done development;<br />
+- Work as a part of a cross-functional software development team managed by Agile methodology.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Bachelor's degree in Computer Science or a related field; Master's degree is preferable;<br />
+- At least 3 years of experience in application development;<br />
+- Solid work experience with C and C++ programming;<br />
+- Experience with C standard library and C++ libraries such as STL and Boost;<br />
+- Experience in development under Linux embedded systems, Buildbot, SVN and Eclipse;<br />
+- Experience in operating systems: Windows ActiveX/ OCX, OS2 and DOS;<br />
+- Good acquaintance with the life cycle of software development;<br />
+- Familiarity with software architectures;<br />
+- Knowledge of Object-Oriented Programming principles;<br />
+- Experience in using Git and GitLab is a plus;<br />
+- Work experience in an Agile environment is an advantage;<br />
+- Knowledge of embedded devices;<br />
+- Sense of concern to deliver well validated/ tested software;<br />
+- Fluency in English language; knowledge of French language is highly appreciated;<br />
+- Analytical thinking;<br />
+- Ability to solve problems;<br />
+- Ability to listen/ comprehend.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Highly competitive, depending on previous experience and skills, plus an insurance package.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;If interested, please send your last updated and detailed resume to: <a href="mailto:career@energizeglobal.com">career@energizeglobal.com</a> . Please indicate &quot;C++ Developer&quot; in the subject line of your e-mail. The Company is thankful to all interested applicants; however, only shortlisted candidates will be invited for an interview.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;06 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;05 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Energize Global Services CJSC is a software development company that provides IT services for partners all over the Europe and develops its own products.</p>
+  <p>This announcement has been retrieved 696 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

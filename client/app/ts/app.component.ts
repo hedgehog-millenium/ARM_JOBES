@@ -19,12 +19,14 @@ export class AppComponent {
     name:string = 'Samvel';
     jobsMetaData:any[];
     parsedJobsCount:number;
+    convertedJobsCount:number;
 
     constructor(private jobService:JobService){
         console.log('AppComponent constructor is running');
         this.jobService.getJobLinks().subscribe( jobs => {
                 this.jobsMetaData = jobs;   
-                this.parsedJobsCount = this.jobsMetaData.filter(v=>v.isParsed).length;
+                this.parsedJobsCount = this.jobsMetaData.filter(v=>v.parseInfo.isCompleted).length;
+                this.convertedJobsCount = this.jobsMetaData.filter(v=>v.isConverted).length;
         });
     }
 }

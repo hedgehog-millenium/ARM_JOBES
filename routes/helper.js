@@ -3,34 +3,33 @@ var express = require('express'),
     settings = require('../settings'),
     parser = require('../modules/parser'),
     path = require('path'),
-    jsdom = require("jsdom"),
+    jsdom = require('jsdom'),
     router = express.Router();
+    jobModel = require('../modules/models/jobModel'),
+    converter =  require('../modules/converters/careercenterConverter'),
+    dateFormat = require('dateformat');    
+
+router.get('/oop',(req,res)=>{
+    var qualifics = [
+        'quali1',
+        'quali2',
+        'quali3',
+        'quali4',
+        'quali5'        
+    ]
+    var job = new jobModel('title','location','duration','description','responsibilities',qualifics,'salary','startDate','EndDate');
+    res.send(job);
+});
 
 router.get('/',function(req,res){
-    var name = 'ccjobshtml.txt',
+    var name = '27090.txt',
         fullpath = path.join(settings.ROOT_DIR,'tmp',name) ;
         
-    txtFile.readFile(fullpath).then(htmlString=>{
-        var linksArray = [];
-        jsdom.env(
-                htmlString,
-                ["http://code.jquery.com/jquery.js"],
-                function (err, window) {		  	
-                        var linksArray = [];
-                        window.$("a[href^='ccdspann.php?id=']").each(function(key,val){
-                            linksArray.push({
-                                                name:val.text,
-                                                path:val.getAttribute('href'),
-                                                source:'careercenter.am',
-                                                parsedFile:val.getAttribute('href').match(/\d+/)[0],
-                                                isParsed:false,
-                                                isConverted:false,
-                                        });
-                        });//each		
-                        res.send(linksArray)
-                    }// function (err, window)
-            );//jsdom.env 
-    })
+    txtFile.readFile(fullpath).then(htmlString=>{        
+        converter.converToJobModel(htmlString).then(m=>{
+            res.send(m);
+        })
+    });
 
 });
 

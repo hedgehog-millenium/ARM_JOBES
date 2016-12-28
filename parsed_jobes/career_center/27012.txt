@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27012-->
+  <p align="center"><font size="+1"><b>Anelik Bank CJSC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Head of Branch Network</p>
+  <p><b>OPEN TO/ ELIGIBILITY CRITERIA:</b>&nbsp;&nbsp;All qualified candidates.</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The Head of Branch Network is responsible for oversight of operations in branches, both in Yerevan and the regions. He/ she is accountable to support the profitability in all branches. The Head of Branch Network will act as liaison person and coordinate transparency and full information flows within the Head Office and branches in order to improve operational efficiencies and internal controls.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Supervise the delivery and sales of Anelik Bank banking products and services in all branches;<br />
+- Examine and evaluate the branches' customer service efficiency and escalate the issues to the relevant department;<br />
+- Monitor each branch progress toward the goals and objectives of the strategic and operational plans in order to reach maximum branch profitability;<br />
+- Support the design, testing, and roll-out of new/ revised products and services in branches as required;<br />
+- Supervise all branches' operations involving up to 50 percent of time in the field supporting the implementation of new products and identifying the branch issue;<br />
+- Visit the branches on regular basis in order to conduct monitoring and evaluation of marketing, business analysis and client screening, loan disbursements, collection, and all other aspects;<br />
+- Support the budgeting and projection process of each branch and ensure that branch actual budget verses the planned budget;<br />
+- Conduct market research and propose the opening of new branches according to business and market need;<br />
+- Perform regular monitoring of competitors and overall market demand and present to the Management for discussion.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- University degree in Economics or Finance;<br />
+- 6-7 years of banking work experience out of which 3 years as a Branch Manager;<br />
+- Advanced knowledge of MS Office;<br />
+- Ability to collect, analyze and present the required data; <br />
+- Excellent communication and negotiation skills;<br />
+- Excellent teamwork and problem-solving skills;<br />
+- Outstanding coaching and mentoring skills;<br />
+- Readiness to travel to RA regions on a regular basis;<br />
+- Advanced knowledge of banking law is an advantage;<br />
+- Advanced level of English language is a plus.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;All interested candidates who meet the requirements above and are confident that their background and experience qualifies them for this position, should send a detailed CV and a motivation/ cover letter both in English and Armenian languages to: <a href="mailto:hr@anelik.am">hr@anelik.am</a> mentioning the position you are applying for in the subject line of the e-mail. Only short-listed candidates will be contacted.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;12 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;11 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;&quot;Anelik Bank&quot; CJSC is a universal commercial bank, which has an active participation in the social-economical area of the country since August 1990.</p>
+  <p>This announcement has been retrieved 964 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

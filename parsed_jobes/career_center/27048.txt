@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27048-->
+  <p align="center"><font size="+1"><b>VXSoft LLC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;IT Project Manager</p>
+  <p><b>OPEN TO/ ELIGIBILITY CRITERIA:</b>&nbsp;&nbsp;All interested candidates.</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;15 January 2017</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The IT Project Manager is a senior professional position responsible for organizing, implementing and overseeing IT projects in accordance with the project Terms of Reference plan and other specific requirements.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Manage various projects assigned by the Management of the Company;<br />
+- Create and execute projects in compliance with PMBOK&reg; Guide and Standards;<br />
+- Communicate project plans with Client's Project Managers, Local Team Leads and Developers;<br />
+- Supervise the timely delivery of the project tasks;<br />
+- Identify resources needed and assign individual tasks via JIRA issue tracking, code integration planning and management system;<br />
+- Manage the daily operational issues of the projects;<br />
+- Act as a liaison between the programming team and clients;<br />
+- Develop, manage and supervise QA tests.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- University degree in Management; possession of a technical background;<br />
+- Experience in managing projects with a 100,000 USD and higher annual budget;<br />
+- Experience in managing agile software projects in JIRA environment;<br />
+- At least 3 years of experience in a related field;<br />
+- Experience in donor-funded project management is an advantage;<br />
+- Excellent written and oral English language skills;<br />
+- Ability to manage multiple projects and people at a time.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;600 EUR monthly salary (Net), plus bonuses up to 50 per cent of the annual salary.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Interested candidates can send their CVs to: <a href="mailto:hr@vxsoft.com">hr@vxsoft.com</a> indicating &quot;IT Project Manager&quot; in the subject of the email or deliver them to VXSoft LLC at the address: 3rd floor, 24D Baghramyan Ave. (Campus of the National Academy of Sciences, building of Scientific Library, 3rd floor, office of the VXSoft) on weekdays from 10:00 to 17:00. No phone queries are proposed for applicants. Only shortlisted candidates will be contacted for an interview.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;16 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;09 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;VXSoft LLC is an Ireland-based company representing programmers with long standing experience in e-Governance. The Company has a representative office in Yerevan and outsources a major part of its software development work to the local team in Armenia. The Company's experience varies from development of different online transactional systems.</p>
+  <p>This announcement has been retrieved 1146 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

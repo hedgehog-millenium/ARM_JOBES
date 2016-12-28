@@ -18,6 +18,7 @@
   "homepage": "https://github.com/hedgehog-millenium/ARM_JOBES#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
+    "dateformat": "^2.0.0",
     "ejs": "^2.5.5",
     "express": "^4.14.0",
     "hma-proxy-scraper": "0.0.4",

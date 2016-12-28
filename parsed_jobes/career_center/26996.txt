@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 26996-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="80" height="80" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>Alpha Food Service LLC</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Head of Marketing Department</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time</p>
+  <p><b>OPEN TO/ ELIGIBILITY CRITERIA:</b>&nbsp;&nbsp;All interested candidates.</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term, with 3 months of probation period.</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;N/A</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Elaborate and ensure marketing plan strategy execution according to adopted policy and business programs of the Company;<br />
+- Set and execute long-term and short-term marketing plans, as well as define KPI's to increase market share and achieve the targets;<br />
+- Develop a strategic marketing plan for the Company brands; lead the implementation of activities aimed at promotion and management of new products and marketing communication campaigns;<br />
+- Organize and manage activities as per following functions: marketing of B2C and B2B segments, market research, marketing communications and new products development;<br />
+- Responsible for an active cooperation and negotiation process of forming long-term strategic business partners as well as providing the Company's role and competitive position in the market;<br />
+- Develop and implement effective pricing system to attract new clients and retain the current ones;<br />
+- Responsible for events organization to develop the Company's activities and to promote the image of the Company;<br />
+- Responsible for the organization of marketing campaigns, provision of the Company's participation and assistance in exhibitions and other events, as well as for advertisement placement and printing materials management.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Knowledge of marketing and financial analysis, pricing, marketing forecasting, budgeting and planning;<br />
+- Excellent skills of team building and leading; ability to work effectively with a team;<br />
+- Experience in analyzing marketing research outcomes;<br />
+- Reporting, business writing and presentation skills;<br />
+- Project management skills;<br />
+- Leadership skills;<br />
+- Ability to set priorities; a quick decision-maker;<br />
+- Analytical thinking;<br />
+- Inclination for reaching final results and increasing profitability;<br />
+- Skills in making reports and daily documentation, organizing seminars, trainings and presentations;<br />
+- Excellent communication/ negotiation skills; an open-minded personality;<br />
+- Stress-resistant person with the ability to work with deadlines;<br />
+- Advanced computer skills; experience in working with Microsoft Office;<br />
+- Fluency in Armenian, Russian and English languages.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Competitive, based on skills and experience.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;All interested and qualified candidates meeting the requirements above are encouraged to send their CVs to: <a href="mailto:hr@foodservice.am">hr@foodservice.am</a> . Please clearly mention the position title &quot;Head of Marketing Department&quot; in the subject line of your message. Shortlisted candidates will be contacted for the interview.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;07 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;06 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Founded in 2005, Alpha Food Service LLC is a leading supplier of premium alcoholic beverages, foodstuff and food raw materials for hotels, restaurants, cafes (HoReCa), pastries and bakeries in Armenia and Nagorno Karabakh Republic.</p>
+  <p>This announcement has been retrieved 1000 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

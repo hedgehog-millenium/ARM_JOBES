@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 26945-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="120" height="29" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>Workfront Inc.</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Front-End Developer</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;Workfront is looking for an experienced Front-End Developer.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Work on the implementation of common frameworks and solutions;<br />
+- Support and maintain existing production code in the field and develop new enhancements and products for the Company's client base;<br />
+- Work closely with a cross-functional team of Developers, Designers and QA Engineers to produce high quality web applications;<br />
+- Participate in Scrum estimations, daily standups and sprint retrospectives;<br />
+- Assist in implementing functional requirements;<br />
+- Learn continuously from other team members and peers to drive his/ her career;<br />
+- Enjoy coming to work everyday and knowing that he/ she is integral to the Company's future and success.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Bachelor's degree in Computer Science or a related discipline;<br />
+- At least 3 years of experience in an application development position;<br />
+- Advanced knowledge of HTML5, CSS3, LESS and SASS;<br />
+- Advanced knowledge of JavaScript, jQuery, RequireJS and AngularJS;<br />
+- Strong problem solving and troubleshooting skills;<br />
+- Familiarity with JS testing, browser testing and debugging;<br />
+- Understanding of common functional and OOP programming, design patterns, data structures and algorithms, especially in the context of JavaScript;<br />
+- Knowledge of client side performance analysis and optimization;<br />
+- Experience with version control systems, preferably with Git;<br />
+- Passion for exploring new technologies.<br />
+ <br />
+DESIRED QUALIFICATIONS:<br />
+- Experience in Agile software development;<br />
+- Experience with GitHub, Webpack, Node.JS, Moment and Lodash/ Underscore;<br />
+- Experience in team-centric software development and high performance software delivery in a team.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Competitive, plus benefits and professional development opportunities.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;All qualified and interested candidates should submit their CVs/ resumes online at: <a target="_blank" href="http://grnh.se/ms5cf3">http://grnh.se/ms5cf3</a> . Only shortlisted candidates will be notified for the interview.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;01 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;31 December 2016</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Workfront is a cloud-based Enterprise Work Management solution company based in Utah. For more information, please visit: <a target="_blank" href="http://www.workfront.com">http://www.workfront.com</a> .</p>
+  <p>This announcement has been retrieved 1101 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>
