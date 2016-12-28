@@ -1,7 +1,7 @@
 module.exports = {
     ROOT_DIR:__dirname,
-    DbConnectionString:'mongodb://samvelNodejs:samvelNodejs@ds141098.mlab.com:41098/jobsmetadata',
-    DbCollections:['jobsmetadata'],
+    DbConnectionString:'mongodb://samvelNodejs:samvelNodejs@ds145158.mlab.com:45158/armjobs',
+    DbCollections:['jobsmetadata','jobs'],
     Jobs:[
         {
             name:'careercenter',

@@ -7,30 +7,15 @@ var express = require('express'),
     router = express.Router();
     jobModel = require('../modules/models/jobModel'),
     converter =  require('../modules/converters/careercenterConverter'),
-    dateFormat = require('dateformat');    
+    dateFormat = require('dateformat'),
+    dbRepo = require('../modules/DB/mLabRepo');   
 
-router.get('/oop',(req,res)=>{
-    var qualifics = [
-        'quali1',
-        'quali2',
-        'quali3',
-        'quali4',
-        'quali5'        
-    ]
-    var job = new jobModel('title','location','duration','description','responsibilities',qualifics,'salary','startDate','EndDate');
-    res.send(job);
-});
 
 router.get('/',function(req,res){
-    var name = '27090.txt',
-        fullpath = path.join(settings.ROOT_DIR,'tmp',name) ;
-        
-    txtFile.readFile(fullpath).then(htmlString=>{        
-        converter.converToJobModel(htmlString).then(m=>{
-            res.send(m);
-        })
-    });
-
+    dbRepo.init('jobs');
+    dbRepo.findAll().then(j=>{
+        res.send(j);
+    })
 });
 
 router.get('/check',(req,res)=>{

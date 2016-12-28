@@ -8,7 +8,7 @@ var path = require('path'),
     reflect = require('../reflect');
     handleErr = function(e){logger.log(e)};
 
-    dbRepo.init('jobsmetadata');
+    
 
 module.exports = {
     registerAllLinks:registerAllLinks,
@@ -18,7 +18,7 @@ module.exports = {
 
 
 function registerAllLinks(){
-
+    dbRepo.init('jobsmetadata');
     return new Promise((resolve,reject)=>{
          var url = settings.Jobs[0].url,
             parsedAntsArr=[],        
@@ -63,6 +63,7 @@ function registerAllLinks(){
 //Step 5:  Save all parsed announcements to files
 //Step 6:  Update DB , set 'parseInfo.isCompleted:true'
  function downloadAllJobs(){
+    dbRepo.init('jobsmetadata');
     return new Promise((resolve,reject)=>{
         var fileCheckPromises = [],
             resObjArr = [];
@@ -105,7 +106,13 @@ function registerAllLinks(){
 //Step 4:  Save converted JobModel to db
 //Step 5:  Change jobMetaData isConverted property to 'isConverted': true
 function registerAllAnnouncements(){
-
+    dbRepo.init('jobsmetadata');
+    return new Promise((resolve,reject)=>{
+        dbRepo.findAll().then(jMetaData=>{
+            resolve(jMetaData);
+        })
+        .catch(e=>{reject(e)});
+    });//return new Promise((resolve,reject)=>{
 }
 
 function handleIfFileExist(filePath,job){

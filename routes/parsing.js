@@ -26,4 +26,9 @@ router.post('/parseAllJobs',function(req,res){
     });
 });//router.post('parseAllJobes',function(req,res){
 
+router.post('/registerAllJobs',function(req,res){    
+    careercenterFacade.registerAllAnnouncements().then(jobs=>{
+        res.send(jobs);
+    });
+});
 module.exports = router;
