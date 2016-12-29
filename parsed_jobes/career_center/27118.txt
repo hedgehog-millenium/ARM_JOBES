@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27118-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="120" height="34" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>IUNetworks LLC</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Senior Java Developer</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;IUNetworks LLC is looking for a motivated Senior Java Developer for web-based, enterprise level applications development.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Analyze given task and provide expertise to interested parties;<br />
+- Develop software based on requirements;<br />
+- Develop unit tests for developed software;<br />
+- Provide task estimates to interested parties;<br />
+- Identify possible risks and report them;<br />
+- Accurately resolve (test after resolution) assigned requests and report their statuses;<br />
+- Provide technical documentation for developed software.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Bachelor's or Master's degree in a technical field;<br />
+- At least 5 years of work experience in Java and web development;<br />
+- Experience with web development with Java EE platform;<br />
+- Knowledge of Java and OOP;<br />
+- Knowledge of Java technologies: JSF, EJB, Hibernate, Spring, JAX-WS and Axis;<br />
+- Knowledge of databases: good knowledge of SQL; familiarity with MySQL and Oracle databases; database modeling skills;<br />
+- Knowledge of XHTML, CSS, JavaScript and XML;<br />
+- Knowledge of GWT is a plus;<br />
+- Ability to work on a project with a development team;<br />
+- Problem solving skills;<br />
+- Strong interpersonal skills.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Competitive, based on skills and experience; medical insurance and biannual company events.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Please apply to this job by sending your CV to: <a href="mailto:job@iunetworks.am">job@iunetworks.am</a> . Please mention the name of the position you are applying for in the subject line of the letter.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;29 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;28 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;IUNetworks LLC is an information technology company that provides integrated solutions of hardware supply and software development. The Company was founded in March 2008.</p>
+  <p>This announcement has been retrieved 4 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

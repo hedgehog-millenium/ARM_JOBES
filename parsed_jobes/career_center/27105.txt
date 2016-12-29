@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27105-->
+  <p align="center"><font size="+1"><b>Grant Thornton CJSC</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Information Security Specialist</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The Information Security Specialist will focus primarily on designing, implementing and overseeing information security management systems, including risks assessment, analysis and risks mitigation. Also, he/ she will focus on implementing information security and related IT audits in accordance with the audit plan and other specific requirements. The Information Security Specialist displays effective leadership and communication skills, as well as understands information security, IT management and risk management principles.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Design, implement and monitor information security management systems;<br />
+- Plan and conduct information security audits and other related IT audits;<br />
+- Identify, access and analyze information security risks and produce reports highlighting issues and providing potential solution;<br />
+- Provide guidance and related recommendations in development and implementation of information security and other IT specific management systems;<br />
+- Plan and conduct technology assessment in the areas of information security and specific IT environments including identification of relevant vulnerabilities and threats.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- 5 years of work experience in information security and IT audit;<br />
+- 3 years of work experience in IT industry including complex network and system infrastructure;<br />
+- Excellent knowledge of information security management and risk management principles;<br />
+- Strong professional knowledge of ISO 27001/ 27002, CoBIT 4.1/ 5.0, PCI DSS and other related standards;<br />
+- Excellent command of Armenian, English and Russian languages; <br />
+- Excellent communication and interpersonal skills; a good team player; dynamic, cooperative, patient, organized, responsible and detail-oriented personality; a fast learner;<br />
+- Availability of a professional certification in the areas of information security and IT audit is desirable (e.g. Certified Ethical Hacker, Certified Information Security Auditor and Certified Information Security Manager).
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Applicants are kindly requested to send their detailed Curriculum Vitaes with contact telephone numbers, email addresses, relevant work experience and references to: <a href="mailto:hr@am.gt.com">hr@am.gt.com</a> . All applicants are requested to indicate in the subject line of the message the position they are applying for. Please note that only short&ndash;listed applicants will be invited for a test/ interview.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;29 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;28 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Grant Thornton CJSC, the Armenian member of Grant Thornton International, is a company involved in audit and business advisory. For more information, please visit: <a target="_blank" href="http://www.grantthornton.am">www.grantthornton.am</a>.</p>
+  <p>This announcement has been retrieved 58 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

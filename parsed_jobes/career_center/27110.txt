@@ -1,0 +1,79 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27110-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="120" height="54" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>World Vision Armenia</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Marketing Officer</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Open-ended</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The incumbent will support the development, implementation and coordination of efforts for exploring and accessing new avenues for funding (with a focus on local funding opportunities) for future growth and financial sustainability of WV Armenia.</p>
+  <p><b>JOB RESPONSIBILITIES:</b>&nbsp;&nbsp;<br />
+Marketing and Business Development (Building Relationships for Growth):<br />
+- Support in building relationships with potential donors at different levels;<br />
+- Nurture the relations with potential and existing donors;<br />
+- Support in building on marketing and business development experience existing in WV;<br />
+- Assist in raising WV Armenia's profile in the in-country and international corporate environment. <br />
+<br />
+Product Development:<br />
+- Map existing opportunities and causes for tailored/ generic product development;<br />
+- Support consolidated effort of development of marketing products;<br />
+- Coordinate the implementation of product promotion plans.<br />
+<br />
+Fundraising and External Engagement:<br />
+- Support development and implementation of brand awareness and reputation strategy of Country Office;<br />
+- Support the development and lead the implementation of short-term and long-term local fundraising strategies;<br />
+- Coordinate and implement fundraising strategies;<br />
+- Include quick-win fundraising means in the fundraising strategy and implement them effectively;<br />
+- Support to ensure the cost-efficiency of the fundraising strategy. <br />
+<br />
+Internal Engagement:<br />
+- Engage with Country Office (operations, Organizational Support Department, sponsorship, finance) departments in frames of product development and donor nurturing;<br />
+- Support to capacitate WV staff members to become agents of fundraising for the Organization.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b>&nbsp;&nbsp;The following knowledge, skills and abilities may have been acquired through a combination of formal schooling, self-education, prior experience or on-the-job training:<br />
+- University degree in Business Administration and Marketing;<br />
+- Strategic planning and business plan development skills;<br />
+- Strong interpersonal communication skills;<br />
+- Strong presentation and negotiation skills;<br />
+- Good understanding of general business environment and its local context;<br />
+- Good knowledge of corporate social responsibility mechanisms;<br />
+- 3 years of experience in strategic fundraising, marketing, business plan development and/ or program management;<br />
+- Excellent marketing, communication and public relations skills with strong English, Armenian and Russian language capability (written and oral); an ability to clearly communicate complex ideas and principles required;<br />
+- Willingness to travel domestically and internationally of up to 30 percent of the time.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;If you are interested in this position, to apply, please, send your CV to: <a href="mailto:hr_wvarm@wvi.org">hr_wvarm@wvi.org</a> . No information inquiries will be handled over the phone. Only short-listed candidates will be notified for interview. In the subject line of your e-mail message, please, mention the title of the position you are applying for.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;29 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;12 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;World Vision is a Christian humanitarian and development organization working to create lasting change in the lives. Established in 1950, World Vision operates in nearly 100 countries worldwide. It is a Christian relief, development and advocacy organization dedicated to working with children, families and communities, to overcome poverty and injustice. The Organization pursues life in all its fullness for every child and serves all people regardless of religion, race, ethnicity or gender. WV Armenia operates mainly through its 10-15 years long-term Area Programs (AP) that are predominantly funded through child sponsorship. APs are focused on promoting child well-being through community participation and ownership.</p>
+  <p>This announcement has been retrieved 283 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

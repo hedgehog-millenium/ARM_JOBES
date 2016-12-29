@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27108-->
+  <p align="center"><font size="+1"><b>Carson-Dellosa</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;.NET Developer</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The Company is looking for a .NET Developer.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Provide necessary technical and design documentation;<br />
+- Read, understand and modify the existing code;<br />
+- Deliver robust and scalable quality software products on time;<br />
+- In coordination with the Group Lead, plan and execute projects through all phases of the project's development;<br />
+- Respond promptly and professionally to bug reports;<br />
+- Communicate effectively with local management and external team members.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- BS in Computer Science, Mathematics or a related discipline;<br />
+- Knowledge of C# and principles of .NET platform;<br />
+- Experience in data access technologies (ADO.NET and LINQ to Entities);<br />
+- Experience in using web service technologies (WCF, REST and JSON);<br />
+- Experience in ASP.NET and MVC;<br />
+- Certain work experience in database;<br />
+- Ability to work with the Team Manager to plan and prioritize team activities;<br />
+- Good documentation skills;<br />
+- Creativity and analytic thinking;<br />
+- Ability to learn quickly; <br />
+- Ability to work under pressure;<br />
+- Intermediate English language skills, both written and spoken.
+  </p>
+  <p><b>REMUNERATION/ SALARY:</b>&nbsp;&nbsp;Competitive, depending on previous experience and skills, bonus programs, trainings, professional development opportunities.</p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;To apply, please, submit a CV to: <a href="mailto:gmkrtchyan@carsondellosa.com">gmkrtchyan@carsondellosa.com</a> .
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;29 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;28 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Carson-Dellosa is represented in Armenia by Exyzett LLC. For more information, please visit: <a target="_blank" href="http://www.carsondellosa.com">http://www.carsondellosa.com</a> .</p>
+  <p>This announcement has been retrieved 106 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

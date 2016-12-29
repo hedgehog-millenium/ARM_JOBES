@@ -18,7 +18,7 @@ function getAllJobLinks(htmlString){
 								linksArray.push({
 										name:val.text,
 										path:'http://careercenter.am/' + val.getAttribute('href'),
-										source:'careercenter.am',
+										source:'careercenter',
 										regTime:new Date().toLocaleString(),
 										parseInfo:{
 											filePath:val.getAttribute('href').match(/\d+/)[0]+'.txt',	
@@ -43,23 +43,30 @@ function converToJobModel(htmlString){
                         var $ = window.$,
                             pObj ={};
                         window.$("body>p").each(function(){
-                            var paragraphVals = $(this).text().split(':'),
-                                key =  paragraphVals[0].trim(),
-                                val = paragraphVals[1]?paragraphVals[1].trim():undefined;       
-                            pObj[key] = val;                                                                                                                              
+                            var paragraphVals = $(this).text().split(':');
+								if(paragraphVals.length>1){
+									var key =  paragraphVals[0].trim(),
+									val = paragraphVals[1]?paragraphVals[1].trim():undefined;   
+									pObj[key] = val;         
+								}
+                                                                                                                                                    
                         });//each	
 
+						var strDate ,endDate ;
+						try {strDate = dateFormat(pObj['OPENING DATE'],"dd-mm-yyyy")} catch (error) {}
+						try {endDate = dateFormat(pObj['APPLICATION DEADLINE'],"dd-mm-yyyy")} catch (error) {}
                         var jModel = new jobModel(
                                 pObj,
                                 pObj["TITLE"],
                                 pObj["LOCATION"],
                                 pObj["DURATION"],
                                 pObj["JOB DESCRIPTION"],
-                                pObj["JOB RESPONSIBILITIES"].substring(1, pObj["JOB RESPONSIBILITIES"].length).split('\n-').map(j=>j.slice(0,-1)),
-                                pObj["REQUIRED QUALIFICATIONS"].substring(1, pObj["REQUIRED QUALIFICATIONS"].length).split('\n-').map(j=>j.slice(0,-1)),
+                                pObj["JOB RESPONSIBILITIES"]?pObj["JOB RESPONSIBILITIES"].substring(1, pObj["JOB RESPONSIBILITIES"].length).split('\n-').map(j=>j.slice(0,-1)):undefined,
+                                pObj["REQUIRED QUALIFICATIONS"]?pObj["REQUIRED QUALIFICATIONS"].substring(1, pObj["REQUIRED QUALIFICATIONS"].length).split('\n-').map(j=>j.slice(0,-1)):undefined,
                                 pObj["REMUNERATION/ SALARY"],
-                                dateFormat(pObj['OPENING DATE'],"dd-mm-yyyy"),
-                                dateFormat(pObj['APPLICATION DEADLINE'],"dd-mm-yyyy")                                
+                                strDate,
+								endDate
+                                                               
                         );                        
                         resolve(jModel)
                     }// function (err, window)

@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27115-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="120" height="30" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>Timeless LLC</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;HR Specialist</p>
+  <p><b>TERM:</b>&nbsp;&nbsp;Full-time</p>
+  <p><b>OPEN TO/ ELIGIBILITY CRITERIA:</b>&nbsp;&nbsp;All interested candidates.</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>DURATION:</b>&nbsp;&nbsp;Long-term, with 3 months of probation period.</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;Timeless LLC is looking for a highly responsible and experienced HR Specialist, a person who can have a great contribution in the Company's team by his/ her enthusiastic and creative work. The HR Specialist will handle HR administration, professional development processes, HR policies and procedures required for employees to be as effective as possible.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Support in the tender stages of vacancy staffing, including cooperation with various higher educational institutions, career centers, participation in organized labor markets, headhunting, review of CVs, testing and interviews;<br />
+- Develop and manage the HR processes and policies;<br />
+- Prepare documentation on employment relationship;<br />
+- Ensure employment contracts are compliant with legislative requirements and business objectives;<br />
+- Manage the reviews process;<br />
+- Participate in development of the personnel motivation system, organization and implementation of the employees' performance;<br />
+- Support in organization of on-boarding processes of new employees;<br />
+- Give operational support to the Managers with all HR-related matters;<br />
+- Participate in the implementation of other projects of the Human Resources Management Department; complete other relevant tasks.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- Higher education, preferably in Law;<br />
+- At least 3 years of work experience in HR administration field;<br />
+- Excellent knowledge of the RA Labor Code, HR policies and processes;<br />
+- Fluency in Armenian, English and Russian languages;<br />
+- Capacity to work under time pressure;<br />
+- Information collecting, analyzing and reporting skills;<br />
+- Ability to achieve results and meet strict deadlines in an effective manner;<br />
+- Analytical and strategic thinking;<br />
+- Ability to set priorities and behave as a quick decision-maker in complex cases;<br />
+- Willingness to learn and develop professionally;<br />
+- Excellent written and verbal communication skills;<br />
+- Advanced skills in MS Word and Excel.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;If you meet the requirements above and are interested in the position announced, please, send your detailed CV with a 3x4 photo to: <a href="mailto:hr@time.am">hr@time.am</a> . Please clearly mention the position title (HR Specialist) you are applying for in the subject line of your message. Please be informed that only shortlisted candidates will be contacted.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;29 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;28 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;For more information, please, visit: <a target="_blank" href="http://www.time.am">www.time.am</a>.</p>
+  <p>This announcement has been retrieved 102 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

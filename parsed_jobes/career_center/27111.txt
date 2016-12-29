@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27111-->
+  <table width="100%">
+    <tr>
+      <td><img src="ccdsplogo.php" width="120" height="42" alt="logo"></td>
+      <td width="100%" style="padding-left: 10%"><font size="+1"><b>Jermuk International Pepsi-Cola Bottler LLC</b></font></td>
+    </tr>
+  </table>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Chemist/ Microbiologist</p>
+  <p><b>INTENDED AUDIENCE:</b>&nbsp;&nbsp;All interested candidates.</p>
+  <p><b>START DATE/ TIME:</b>&nbsp;&nbsp;ASAP</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The Company is looking for a highly qualified professional to fill the position of Chemist/ Microbiologist.</p>
+  <p><b>REQUIRED QUALIFICATIONS:</b><br>
+- At least 1 year of work experience in the position of Chemist/ Microbiologist;<br />
+- Bachelor's degree in Chemistry or Microbiology;<br />
+- Good knowledge of English and Russian languages;<br />
+- Computer skills (MS Excel and Word);<br />
+- Basic knowledge of GMP, HACCP, QA Principals and Quality Management Systems ISO9001 is a plus;<br />
+- High level of accuracy;<br />
+- Flexibility and positive thinking;<br />
+- Ability to work both in a team and independently;<br />
+- Ability to work under pressure on multiple tasks and under tight deadlines;<br />
+- Work experience in food (juice) production is highly desirable.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;Interested candidates who meet the mentioned requirements are encouraged to submit their CVs along with a 3x4 photo to: <a href="mailto:hr@pepsiarmenia.com">hr@pepsiarmenia.com</a> . They can also bring their CVs to: 3/1 Aharonyan Street. In the subject line of the e-mail message, please, mention the title of the position you are applying for otherwise your CV will not be considered. Early applications are encouraged. Applicants' privacy and confidentiality are guaranteed. Kindly, please, refrain from any personal visits, deliveries or phone calls. Only short-listed candidates will be notified for an interview.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+</p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;29 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;27 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;Jermuk International Pepsi-Cola Bottler LLC is holding a franchise agreement with PepsiCo International for organizing production of soft beverages in Armenia.</p>
+  <p>This announcement has been retrieved 105 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

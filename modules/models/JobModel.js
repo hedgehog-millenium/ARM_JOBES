@@ -8,7 +8,7 @@ var JobModel = function(originalObject,title,location,duration,description,respo
     this.salary = salary;    
     this.startDate = startDate;    
     this.endDate = endDate;    
-    this.originalObject =originalObject
+    this.originalObject = originalObject
 }
 
 module.exports = JobModel

@@ -5,7 +5,8 @@ var path = require('path'),
     careerCenterConverter = require(path.join(settings.ROOT_DIR,'modules','converters','careercenterConverter')),
     dbRepo = require('../DB/mLabRepo'),    
     txtFile = require(path.join(settings.ROOT_DIR,'modules','txtFile')),
-    reflect = require('../reflect');
+    reflect = require('../reflect'),
+    path = require('path')    
     handleErr = function(e){logger.log(e)};
 
     
@@ -102,18 +103,56 @@ function registerAllLinks(){
 //STEPS 
 //Step 1:  Get all jobMetaData from db
 //Step 2:  Filter all jobs that not converted 'isConverted:false'
-//Step 3:  Convert All jobs to JobModel format
+//Step 3:  Read all jobs and convert them to JobModel format
 //Step 4:  Save converted JobModel to db
 //Step 5:  Change jobMetaData isConverted property to 'isConverted': true
 function registerAllAnnouncements(){
     dbRepo.init('jobsmetadata');
+
     return new Promise((resolve,reject)=>{
+        var convertPrms = [],
+            resObjArr = [],
+            filePath = settings.Jobs.filter(x=>x.name === 'careercenter')[0].parsedFilePath;
+            
         dbRepo.findAll().then(jMetaData=>{
-            resolve(jMetaData);
-        })
-        .catch(e=>{reject(e)});
+            dbRepo.init('jobs');
+            jMetaData.filter(x=>!x.isConverted).forEach(job=>{
+                var fullPath = path.join(filePath,job.parseInfo.filePath);
+                
+                convertPrms.push(
+                    reflect(
+                        new Promise((resolve,reject)=>{
+                                txtFile.readFile(fullPath)
+                                .then(htmlString=>{
+                                    return careerCenterConverter.converToJobModel(htmlString);
+                                })
+                                .then(jModel=>{
+                                    return dbRepo.insert(jModel);
+                                })
+                                .then(savedJob=>{
+                                    resolve(savedJob);
+                                })
+                                .catch(e=>{reject(e)});;       
+                        })//new Promise((resolve,reject)=>{
+                    )//reflect(
+                );//convertPrms.push(                                                               
+                
+            }).catch(e=>{reject(e)});// jMetaData.filter(x=>!x.isConverted).forEach(job=>{    
+                
+            Promise.all(convertPrms).then(results=>{
+                results.map(res=>{
+                    if(res.status == 'rejected')resObjArr.push({status:'error',object:res.error});
+                    else resObjArr.push({status:'success',object:res.value});
+                });
+                resolve(resObjArr);
+            });
+
+        });//  dbRepo.findAll().then(jMetaData=>{
+
     });//return new Promise((resolve,reject)=>{
-}
+        
+
+}//function registerAllAnnouncements(){
 
 function handleIfFileExist(filePath,job){
     return new Promise((resolve,reject)=>{
