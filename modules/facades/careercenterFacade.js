@@ -137,11 +137,11 @@ function registerAllAnnouncements(){
                     )//reflect(
                 );//convertPrms.push(                                                               
                 
-            }).catch(e=>{reject(e)});// jMetaData.filter(x=>!x.isConverted).forEach(job=>{    
+            });// jMetaData.filter(x=>!x.isConverted).forEach(job=>{    
                 
             Promise.all(convertPrms).then(results=>{
                 results.map(res=>{
-                    if(res.status == 'rejected')resObjArr.push({status:'error',object:res.error});
+                    if(res.status === 'rejected')resObjArr.push({status:'error',object:res.error});
                     else resObjArr.push({status:'success',object:res.value});
                 });
                 resolve(resObjArr);

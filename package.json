@@ -1,5 +1,5 @@
 {
-  "name": "armjobs",
+  "name": "armjobsadminpanel",
   "version": "1.0.0",
   "description": "One site for all jobs ",
   "main": "server.js",

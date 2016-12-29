@@ -1,5 +1,5 @@
 {
-  "name": "angular-2",
+  "name": "armjobs-admpanel-visual",
   "version": "1.0.0",
   "scripts": {
     "start": "concurrently \"npm run tsc:w\" \"npm run lite\" ",
