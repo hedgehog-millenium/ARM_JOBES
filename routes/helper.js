@@ -23,4 +23,32 @@ router.get('/check',(req,res)=>{
     res.send(txtFile.checkIfFileExist(path));
 });
 
+router.get('/conv',(req,res)=>{
+     var path = 'C:\\Users\\Samvel.Kocharyan\\Desktop\\MY_OWN_ENVIRONMENT\\ARM_JOBES\\tmp\\ccjobshtml.txt';
+     txtFile.readFile(path).then(htmlString=>{
+        jsdom.env(
+					htmlString,
+					["http://code.jquery.com/jquery.js"],
+					function (err, window) {		  	
+							var linksArray = [];
+							window.$("table:first a[href^='ccdspann.php?id=']").each(function(key,val){
+								linksArray.push({
+										name:val.text,
+										path:'http://careercenter.am/' + val.getAttribute('href'),
+										source:'careercenter',
+										regTime:new Date().toLocaleString(),
+										parseInfo:{
+											filePath:val.getAttribute('href').match(/\d+/)[0]+'.txt',	
+											isCompleted:false,
+											status:{}
+										},																						
+										isConverted:false,
+								});//linksArray.push
+							});//each		
+							res.send(linksArray);
+					}// function (err, window)
+			);//jsdom.env
+     });     
+});
+
 module.exports = router;

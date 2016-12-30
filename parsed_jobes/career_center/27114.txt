@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator" content="Custom PHP script by http://www.bartellonline.com/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Career Center - Display Announcement</title>
+  <script type="text/javascript"><!--
+    if (parent.location.href == self.location.href){
+      window.location.href = '/index.php?'+self.location.href.slice(self.location.href.indexOf('/',8));
+    }
+  // -->
+  </script>
+  <style type="text/css">
+    body { background-color: white; background-image: url(images/cc-bcg.gif); background-attachment: fixed; font-family: Verdana; font-size: 13px; margin-left: 15px; margin-right: 15px }
+    p { margin-bottom: 0px; margin-top: 12px; }
+    ol { margin-top: 0px; margin-left: 0px; padding-left: 1.7em; }
+  </style>
+</head>
+<body>
+  <!--Announcement ID = 27114-->
+  <p align="center"><font size="+1"><b>Ministry of Education and Science of RA, SA Center for Education Projects PIU</b></font></p>
+  <p><b>TITLE:</b>&nbsp;&nbsp;Physical Training and Safety Activities Consultant</p>
+  <p><b>LOCATION:</b>&nbsp;&nbsp;Yerevan, Armenia</p>
+  <p><b>JOB DESCRIPTION:</b>&nbsp;&nbsp;The Ministry of Education and Science, SA Center for Education Projects PIU Office is looking for a Physical Training and Safety Activities Consultant to revise subject standards and syllabi for Physical Training and Safety Activities subject area.</p>
+  <p><b>JOB RESPONSIBILITIES:</b><br>
+- Study the results of the needs assessment on revising general education state standards, curriculum and syllabi conducted by the consulting firm in the scope of the Education Improvement Project;<br />
+- Study the revised State Curriculum and State Standards;<br />
+- Revise the subject standards and syllabi of the relevant subject area;<br />
+- Participate in public discussions of revised subject standards and syllabi with main stakeholders and  analyze outcomes of public discussions;<br />
+- Prepare final version of revised subject standards and syllabi.
+  </p>
+  <p><b>REQUIRED QUALIFICATIONS:</b>&nbsp;&nbsp;<br />
+General Qualification:<br />
+- Higher education in a relevant field;<br />
+- Experience in scientific research.<br />
+<br />
+General Work Experience:<br />
+- At least 5 years of professional work experience;<br />
+- Experience of teaching in schools is desirable.<br />
+<br />
+Special Experience:<br />
+- Experience in participating in similar projects;<br />
+- Previous experience in developing educational standards, subject syllabi, curricula and/ or tests will be an asset.
+  </p>
+  <p><b>APPLICATION PROCEDURES:</b>&nbsp;&nbsp;The candidates should submit the following documents: detailed CVs and education diplomas. The documents should be presented to the Ministry of Education and Science of RA, SA Center for Education Projects PIU Office: Vratsyan 73, 2nd floor, reception on working days or should be sent to: <a href="mailto:cfep@arminco.com">cfep@arminco.com</a> by the deadline. For additional information please call the Center for Education Projects PIU Office at: 575690(45).<br />
+The evaluation of the candidates will be carried out as follows:<br />
+- General qualification &ndash; 30 points;<br />
+- General work experience - 30 points;<br />
+- Special experience &ndash; 40 points.
+  <br>Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - <a target="_blank" href="http://www.careercenter.am">www.careercenter.am</a>, Thanks.
+  </p>
+  <p><b>OPENING DATE:</b>&nbsp;&nbsp;30 December 2016</p>
+  <p><b>APPLICATION DEADLINE:</b>&nbsp;&nbsp;29 January 2017</p>
+  <p><b>ABOUT COMPANY:</b>&nbsp;&nbsp;The main purpose of the Center for Education Projects PIU, SA is to implement reform projects to improve education quality, effectiveness, access and relevance in the Republic of Armenia. For more information, please visit: <a target="_blank" href="http://www.cfep.am">www.cfep.am</a>.</p>
+  <p>This announcement has been retrieved 16 times.</p>
+  <p style="margin-top: 0; margin-bottom: 0">----------------------------------</p>
+  <p style="margin-top: 0; margin-bottom: 0">
+    To place a free posting for job or other career-related opportunities available in your organization, just go to the
+    <a href="body.php">www.careercenter.am</a> website and follow the
+     "<a href="ccedtann.php">Post an Announcement</a>" link.
+  </p>
+</body>
+</html>

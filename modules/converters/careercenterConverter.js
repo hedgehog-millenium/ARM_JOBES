@@ -14,7 +14,7 @@ function getAllJobLinks(htmlString){
 					["http://code.jquery.com/jquery.js"],
 					function (err, window) {		  	
 							var linksArray = [];
-							window.$("a[href^='ccdspann.php?id=']").each(function(key,val){
+							window.$("table:first a[href^='ccdspann.php?id=']").each(function(key,val){
 								linksArray.push({
 										name:val.text,
 										path:'http://careercenter.am/' + val.getAttribute('href'),
